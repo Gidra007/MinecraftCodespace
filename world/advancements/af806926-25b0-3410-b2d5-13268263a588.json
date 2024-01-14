@@ -1,0 +1,808 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-14 12:02:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-01-14 12:02:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-01-14 12:02:52 +0000"
+    },
+    "done": true
+  },
+  "rpg_classes:root": {
+    "criteria": {
+      "always": "2024-01-14 12:02:52 +0000"
+    },
+    "done": true
+  },
+  "mythicmobs:mythicmobs": {
+    "criteria": {
+      "tick": "2024-01-14 12:02:52 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-01-14 12:02:52 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/armored_ice_skates": {
+    "criteria": {
+      "has_fur_boots": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/snowflake_banner_pattern": {
+    "criteria": {
+      "has_packed_snowball": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
+    "criteria": {
+      "has_fur_armor": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
+    "criteria": {
+      "has_fur_armor": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "redstone_caves": "2024-01-14 14:59:24 +0000",
+      "magnolia_highlands": "2024-01-14 12:02:54 +0000"
+    },
+    "done": false
+  },
+  "frostiful:recipes/combat/armor/ice_skates": {
+    "criteria": {
+      "has_fur_boots": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
+    "criteria": {
+      "has_fur_armor": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "magnolia_highlands": "2024-01-14 12:02:54 +0000"
+    },
+    "done": false
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
+    "criteria": {
+      "has_fur_armor": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/guards_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-01-14 12:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_peaks": "2024-01-14 12:03:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-01-14 12:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-01-14 12:06:30 +0000"
+    },
+    "done": false
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2024-01-14 12:07:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_water_bucket": "2024-01-14 12:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-01-14 12:07:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-01-14 12:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2024-01-14 12:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-01-14 12:14:41 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-01-14 14:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-01-14 14:40:31 +0000"
+    },
+    "done": true
+  },
+  "tempad:tempad": {
+    "criteria": {
+      "requirement": "2024-01-14 14:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-01-14 14:52:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-01-14 14:52:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_rotten_flesh": "2024-01-14 14:52:23 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/glut_charm": {
+    "criteria": {
+      "has_rotten_flesh": "2024-01-14 14:52:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2024-01-14 14:59:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-01-14 15:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-01-14 15:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-01-14 15:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-01-14 15:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-01-14 15:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2024-01-14 15:22:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_beginning": {
+    "criteria": {
+      "has_obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/building_blocks/polished_obsidian": {
+    "criteria": {
+      "has_obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "dimensional_traders:recipes/decorations/end_trader_stall": {
+    "criteria": {
+      "has_top_slab": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_void_touched_blade": {
+    "criteria": {
+      "has_obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_end": {
+    "criteria": {
+      "has_obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-01-14 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-01-14 18:46:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-01-14 18:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-01-14 18:46:31 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_light_gray": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_boots": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_cyan": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_core_specification_item": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_red": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_leggings": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_magenta": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_light_blue": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_brown": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_call_of_the_void": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_yellow": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/conductor_whistle": {
+    "criteria": {
+      "has_item": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_pink": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/handbook_recipe": {
+    "criteria": {
+      "got_the_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_purple": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_gray": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_helmet": {
+    "criteria": {
+      "has_ender_eye": "2024-01-14 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_green": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_white": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_blue": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_orange": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
+    "criteria": {
+      "has_trident": "2024-01-14 18:59:48 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_lime": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_black": {
+    "criteria": {
+      "hasitem": "2024-01-14 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
