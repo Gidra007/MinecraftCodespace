@@ -1,0 +1,15 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "minecraft:overworld", x: 47, y: 253, z: 47, time: 1705225781140L, xRot: 36.000347f, yRot: 89.841675f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "deeperdarker:otherside", x: -815, y: 17, z: -540, time: 1705224779181L }
+		{ dim: "minecraft:overworld", x: 50, y: 253, z: 45, time: 1705224816157L }
+		{ dim: "minecraft:overworld", x: 54, y: 252, z: 44, time: 1705224864808L }
+	]
+	homes: { }
+	kit_use_times: { }
+}
