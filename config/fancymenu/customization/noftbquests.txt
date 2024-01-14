@@ -1,0 +1,467 @@
+type = menu
+
+customization-meta {
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:5ab85f2b-4cd7-4968-ba6d-a988218d21d81701186067211] = ftblibrary
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:5a6d90ec-1a94-4483-8368-bdac4d3721421701183786264] = ftbquests
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:9a181567-2a38-4967-a7ce-b2197e71a42d1701186075513] = ftbteams
+}
+
+customization {
+  restart_on_load = false
+  name = prominence_background
+  action = animatebackground
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = bottom-right
+  x = -107
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 71
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-right
+  x = -196
+  action = movebutton
+  y = -11
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 68
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = setbuttondescription
+  description = Accesibility
+}
+
+customization {
+  identifier = %id=376358%
+  orientation = bottom-right
+  x = -130
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=2980%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = 167
+  action = movebutton
+  y = 104
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 106
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-right
+  x = -130
+  action = movebutton
+  y = -61
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttondescription
+  description = Language
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 44
+  action = movebutton
+  y = -7
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 119
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:1b7baa34-32f0-408a-a6f5-abe18312078e1685705082405] = tlskincape
+  action = vanilla_button_visibility_requirements
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:03e45fb7-3b44-451f-a90e-012a3071c79f1685705076273] = optifine
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:e65b2fa4-5ed0-4772-8329-d68fe844a6e41685705089602] = essential
+}
+
+customization {
+  identifier = %id=604346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 44
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 119
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:b4dca198-ddef-4103-b0a5-c2a0ce88851e1685705015015] = tlskincape
+  action = vanilla_button_visibility_requirements
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:df21fab4-fe6d-4452-b9be-81a4255784131685704964885] = optifine
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:745f07f1-0d2f-4206-aa0b-441dcece47e21685705005073] = essential
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 228
+  action = movebutton
+  y = -39
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 60
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604310%
+  orientation = top-right
+  x = -68
+  action = movebutton
+  y = 4
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 8ad4894d-31a5-475c-b5ac-907b669d8c2c1675871004460
+  y = 339
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 409
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 4beaf406-6730-444d-83b3-6c1d4828385d1675871004467
+  y = 187
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 169
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 6921eb4b-940e-474f-b94e-368ae1fc91901675871004467
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 7dabff2d-d60b-49f5-979d-8ab065c360b41675871004467
+  y = 0
+  height = 30
+}
+
+customization {
+  slim = false
+  auto_skin = false
+  scale = 35
+  showname = true
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = f77bcb8f-d1b0-4353-a881-651d8f09dccf1676030065069
+  playername = ElocinDev
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 63
+  orientation = bottom-right
+  copy_client_player = true
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/8e0c00a3c8874e229b8226fdd175e67be7a0d34ab123622e6e5d23c6b7237496
+  crouching = false
+  x = -80
+  width = 21
+  parrot_left_shoulder = false
+  y = -110
+  parrot = false
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://github.com/LunaPixelStudios/Prominence/issues%btnaction_splitter_fm%
+  x = -33
+  width = 20
+  action = addbutton
+  actionid = 2f0eb7ab-15a7-4e87-b864-532126bd496a1676031897204
+  y = -61
+  description = Report an Issue
+  label = 
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Made with &c❤ &rby &6ElocinDev
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -134
+  width = 130
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 9ca2b68d-8fb4-4a5f-aa21-f90b223f25451676032010831
+  y = -16
+  alignment = left
+  base_color = 82609e
+  height = 11
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_quit_button%btnaction_splitter_fm%
+  x = -33
+  width = 20
+  action = addbutton
+  actionid = a818b23a-da5d-41c6-b26d-60f8645aa1991676032874334
+  y = -38
+  description = Quit Game
+  label = 
+  height = 20
+}
+
+customization {
+  path = fancymenu_data/textures/icons/exit.png
+  orientation = bottom-right
+  x = -32
+  width = 18
+  action = addtexture
+  actionid = 784d74c4-07f7-46b3-80c3-df2f4bf15a291676042365755
+  y = -36
+  height = 18
+}
+
+customization {
+  path = fancymenu_data/textures/icons/issues.png
+  orientation = element
+  orientation_element = 2f0eb7ab-15a7-4e87-b864-532126bd496a1676031897204
+  x = 2
+  width = 16
+  action = addtexture
+  actionid = f6e638b6-62d8-4e43-abf4-97e0ef0940421676044243713
+  y = 2
+  height = 16
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  audio_source:078a5b38-b921-4bf3-b0db-dfe18c3bdee81687475291142 = config/prominent_resources/main-menu.ogg;EXTERNAL_LOCAL;40;0
+  channel = music
+  x = 16
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 90c17d58-a155-427e-9781-bab0cecc97ec1687475282421
+  y = 21
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Modrinth &cdoes not have FTB mods&f.%n%%n%&fDue to licensing issues, we cannot include them in the modpack,%n%&fso in order to play, you have to manually download them and their dependencies%n%%n%&eDownload the mods below and put them under the "mods" folder%n%&efrom your modpack instance. Make sure to restart the modpack afterwards.%n%&7You can click the "Folder" button in the Modrinth launcher to access it!
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -207
+  width = 411
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = dfd9641d-0541-4b0b-a558-9e014197ac8e1701183808108
+  y = -81
+  alignment = left
+  base_color = 76e05c
+  height = 101
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.curseforge.com/api/v1/mods/438496/files/4872461/download%btnaction_splitter_fm%
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:8b56317e-d851-4104-8614-20a8a50b04551701184245794] = ftbquests
+  x = -177
+  width = 116
+  action = addbutton
+  actionid = 21388d18-9359-40ef-aaf8-9f5bb6860d841701184139699
+  y = 30
+  label = FTB Quests 2001.2.0
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.curseforge.com/api/v1/mods/438495/files/4864328/download%btnaction_splitter_fm%
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:8b56317e-d851-4104-8614-20a8a50b04551701184245794] = ftblibrary
+  x = -55
+  width = 116
+  action = addbutton
+  actionid = 3d75ff3b-7f51-4f5c-90ed-ccbee485b7d41701184331565
+  y = 30
+  label = FTB Library 2001.1.4
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.curseforge.com/api/v1/mods/438497/files/4623115/download%btnaction_splitter_fm%
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if_not][req_id:8b56317e-d851-4104-8614-20a8a50b04551701184245794] = ftbteams
+  x = 67
+  width = 116
+  action = addbutton
+  actionid = 0c4d4c5f-b7ce-4124-8d4c-a5a5ae20b67c1701184334416
+  y = 30
+  label = FTB Teams 2001.1.4
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.youtube.com/watch?v=dk8gOdsSiIg%btnaction_splitter_fm%
+  x = -48
+  width = 100
+  action = addbutton
+  actionid = 50e4169a-5d0f-451f-95cc-ea59377cdf6f1701190091127
+  y = 81
+  label = Video Tutorial
+  height = 20
+}
+
