@@ -90,7 +90,7 @@ setup_forge() {
       echo "# To set the minimum to 2.5GB: -Xms2500M"
       echo "# A good default for a modded server is 4GB."
       echo "# Uncomment the next line to set it."
-      echo "# -Xmx4G"
+      echo "# -Xmx8G"
       echo "${JAVA_ARGS}"
     } >>user_jvm_args.txt
   fi
