@@ -1,0 +1,5088 @@
+{
+	autofocus_id: "482A0219D7A68578"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "chapter_25"
+	group: "1AAFABCE3EF340C4"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "minecells:item/doorway_frame"
+		}
+	}
+	id: "7F81F10136C60F28"
+	images: [
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/colored_torch/prison"
+			order: 1
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.2489795918366937d
+			y: 0.04489795918367889d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/prison_torch"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.8612244897958803d
+			y: -0.2408163265306058d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/prison_torch"
+			rotation: -90.0d
+			width: 1.0d
+			x: -1.8734693877551436d
+			y: -0.17959183673468004d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/colored_torch/prison"
+			order: 1
+			rotation: -90.0d
+			width: 1.0d
+			x: -2.220408163265347d
+			y: -0.46530612244896474d
+		}
+		{
+			dependency: "49E90AC4D7CCEABB"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			click: "#"
+			dependency: "64ABFFFC852063EA"
+			height: 1.0d
+			hover: ["Locked!"]
+			image: "fantasy_mc:textures/newquestimg/shinylock.png"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.05510204081629411d
+			y: -1.4653061224489505d
+		}
+		{
+			dependency: "49E90AC4D7CCEABB"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependency: "49E90AC4D7CCEABB"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependency: "64ABFFFC852063EA"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependency: "49E90AC4D7CCEABB"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependency: "64ABFFFC852063EA"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependency: "64ABFFFC852063EA"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependency: "64ABFFFC852063EA"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependency: "49E90AC4D7CCEABB"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependency: "49E90AC4D7CCEABB"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependency: "49E90AC4D7CCEABB"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependency: "49E90AC4D7CCEABB"
+			height: 1.0d
+			image: "decorative_blocks:block/bar_panel_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.75d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.75d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.25d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.75d
+			y: -6.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -6.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/putrid_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.001360544217661186d
+			y: 0.3054421768707698d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/small_prison_bricks"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/prison_torch"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/colored_torch/prison"
+			order: 5
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.888435374149637d
+			y: -5.515646258503374d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/prison_torch"
+			order: 4
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.521088435374132d
+			y: -5.801360544217658d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/colored_torch/prison"
+			order: 5
+			rotation: -90.0d
+			width: 1.0d
+			x: -1.8666666666666885d
+			y: -6.066666666666642d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/prison_torch"
+			order: 4
+			rotation: -90.0d
+			width: 1.0d
+			x: -1.4993197278911765d
+			y: -5.760544217687048d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/anchor_tree_crafting_table_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.75d
+			y: -4.25d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -2.75d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: -90.0d
+			width: 1.0d
+			x: 2.851020408163258d
+			y: -4.16870748299317d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: -90.0d
+			width: 1.0d
+			x: 3.4224489795918274d
+			y: -3.5258503401360244d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: -90.0d
+			width: 1.0d
+			x: 4.172448979591827d
+			y: -2.7401360544217397d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0061224489795961d
+			y: -2.811564625850316d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: -35.0d
+			width: 1.0d
+			x: -0.5775510204081726d
+			y: -3.490136054421747d
+		}
+		{
+			click: "#128F691D4DC1A23C"
+			dependency: "482A0219D7A68578"
+			height: 2.0d
+			image: "fantasy_mc:textures/newquestimg/scimitar.png"
+			rotation: 90.0d
+			width: 2.0d
+			x: 1.2806122448979664d
+			y: -4.877551020408163d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.6020408163265287d
+			y: -4.1704081632653d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: -35.0d
+			width: 1.0d
+			x: 0.9693877551020478d
+			y: -4.864285714285707d
+		}
+		{
+			click: "#7E81B8B6138F1BFE"
+			height: 1.5d
+			hover: ["Menu"]
+			image: "fantasy_mc:textures/newquestimg/menu.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			click: "#0674F7634E6E1597"
+			height: 1.5d
+			hover: ["Next"]
+			image: "fantasy_mc:textures/newquestimg/next.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			click: "#4DC1FFE7F51C774D"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			height: 4.0d
+			image: "fantasy_mc:textures/border1.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.75d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.25d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.75d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -7.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.25d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.75d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.75d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.25d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.75d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.75d
+			y: -7.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.75d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.75d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -8.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.75d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -9.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -9.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -11.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -11.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.25d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -11.0d
+		}
+		{
+			height: 0.4d
+			image: "clutter:block/food_box_bottom"
+			rotation: 0.0d
+			width: 0.4d
+			x: -3.25d
+			y: -11.5d
+		}
+		{
+			height: 0.4d
+			image: "clutter:block/food_box_bottom"
+			rotation: 0.0d
+			width: 0.4d
+			x: -2.25d
+			y: -10.75d
+		}
+		{
+			height: 0.4d
+			image: "clutter:block/food_box_bottom"
+			rotation: 0.0d
+			width: 0.4d
+			x: -3.25d
+			y: -9.0d
+		}
+		{
+			height: 0.4d
+			image: "clutter:block/food_box_bottom"
+			rotation: 0.0d
+			width: 0.4d
+			x: -4.75d
+			y: -10.0d
+		}
+		{
+			height: 0.4d
+			image: "clutter:block/food_box_bottom"
+			rotation: 0.0d
+			width: 0.4d
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.75d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -8.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -10.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.25d
+			y: -10.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -11.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.25d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.75d
+			y: -12.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.75d
+			y: -12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.25d
+			y: -12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.25d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.75d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.25d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_cobblestone"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: -12.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -10.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: -10.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -11.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -11.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.25d
+			y: -10.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.25d
+			y: -9.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.75d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_bricks"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.25d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.25d
+			y: -10.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.75d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.75d
+			y: -11.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: -10.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -11.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.25d
+			y: -11.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -11.75d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -12.25d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/prison_stone"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.75d
+			y: -9.25d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.7445578231292487d
+			y: -10.449659863945563d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7853741496598587d
+			y: -12.00068027210883d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: -90.0d
+			width: 1.0d
+			x: -2.0d
+			y: -9.25d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: -90.0d
+			width: 1.0d
+			x: -3.75d
+			y: -11.75d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: -90.0d
+			width: 1.0d
+			x: -1.499659863945574d
+			y: -10.286394557823115d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			rotation: -90.0d
+			width: 1.0d
+			x: -4.0d
+			y: -8.75d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["347C252B95C7060E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				Count: 1
+				id: "minecells:prison_doorway"
+				tag: {
+					BlockEntityTag: { }
+				}
+			}
+			id: "482A0219D7A68578"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 64ABFFFC852063EA"
+					elevate_perms: true
+					id: "0A6522CD8809CD18"
+					silent: true
+					type: "command"
+				}
+				{
+					id: "6FBF4307F2B0B40A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Complete this quest to unlock more!"
+			tasks: [
+				{
+					icon: {
+						Count: 1
+						id: "minecells:prison_doorway"
+						tag: {
+							BlockEntityTag: { }
+						}
+					}
+					id: "20AFD314E3358873"
+					structure: "minecells:overworld_portal"
+					title: "Discover the Prisoner' Quarters"
+					type: "structure"
+				}
+				{
+					dimension: "minecells:prison"
+					icon: "minecells:rotting_corpse"
+					id: "386FF6F68F033CB9"
+					title: "A foul smell..."
+					type: "dimension"
+				}
+			]
+			x: 0.001360544217661186d
+			y: 0.3054421768707698d
+		}
+		{
+			dependencies: ["1653DF7A284B2B8F"]
+			disable_toast: true
+			id: "49E90AC4D7CCEABB"
+			size: 1.0E-5d
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "5001F0BB2614DAD3"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "1653DF7A284B2B8F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 49E90AC4D7CCEABB"
+					elevate_perms: true
+					id: "1DB8605A82697A64"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 64ABFFFC852063EA"
+					elevate_perms: true
+					id: "4FC9D27C72D8DFDE"
+					silent: true
+					type: "command"
+				}
+			]
+			size: 1.0E-6d
+			tasks: [{
+				dimension: "minecraft:overworld"
+				disable_toast: true
+				id: "5E94CA9092FA2C9D"
+				type: "dimension"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1653DF7A284B2B8F"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "64ABFFFC852063EA"
+			size: 1.0E-5d
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "6E4EE09F2658C8C2"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "123"
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"482A0219D7A68578"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			id: "57751228BF99ECE3"
+			rewards: [{
+				id: "1561F65BD99FE9E0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found at the last floor!"
+			tasks: [{
+				dimension: "minecells:promenade"
+				icon: {
+					Count: 1
+					id: "minecells:promenade_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "2B165DFAED34F99B"
+				title: "Discover the Promenade"
+				type: "dimension"
+			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"482A0219D7A68578"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			id: "2825BDF217891594"
+			rewards: [{
+				id: "70901BDE36D00AA4"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			subtitle: "Obtained in the Mine Cells Dimensions!"
+			tasks: [
+				{
+					id: "551E74DEE8690426"
+					item: {
+						Count: 1
+						id: "minecells:assassins_dagger"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0ABC6FA7C85863C8"
+					item: {
+						Count: 1
+						id: "minecells:blood_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2ABB2A459ADB997E"
+					item: {
+						Count: 1
+						id: "minecells:hattoris_katana"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1302EED1EF006B0B"
+					item: {
+						Count: 1
+						id: "minecells:broadsword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5210CB35B29ED33F"
+					item: {
+						Count: 1
+						id: "minecells:balanced_blade"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "216CFE5FC532331B"
+					item: {
+						Count: 1
+						id: "minecells:crowbar"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7710EB78F8E03D3B"
+					item: {
+						Count: 1
+						id: "minecells:nutcracker"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "010519ED611B2DE8"
+					item: {
+						Count: 1
+						id: "minecells:frost_blast"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4AF1EECBC724E20C"
+					item: {
+						Count: 1
+						id: "minecells:phaser"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3AACB871208933F4"
+					item: {
+						Count: 1
+						id: "minecells:spite_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "High class weaponry! P.1"
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"482A0219D7A68578"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			id: "47C9C20EF15998CC"
+			rewards: [{
+				count: 5
+				id: "65D457BD3FD4C180"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "minecells:leaping_zombie"
+					icon: "minecraft:rotten_flesh"
+					id: "5874FD5EF1F534EC"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecells:shieldbearer"
+					icon: {
+						Count: 1
+						id: "minecraft:shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "6E5F831935B17BC2"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecells:grenadier"
+					icon: "betterarcheology:bomb"
+					id: "16B71A581153F58A"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecells:undead_archer"
+					icon: {
+						Count: 1
+						id: "minecraft:bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "4C53DDC6CF23181E"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecells:runner"
+					icon: "artifacts:running_shoes"
+					id: "4C14F8FE6E0A1DCC"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecells:protector"
+					icon: {
+						Count: 1
+						id: "mcdar:totem_of_soul_protection"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "34DC885D24CC17D1"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecells:mutated_bat"
+					icon: "minecraft:redstone"
+					id: "43D8741F4533BF93"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecells:inquisitor"
+					icon: {
+						Count: 1
+						id: "mythicmetals:carmot_staff"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "2A7E950C65BF5074"
+					type: "kill"
+					value: 5L
+				}
+			]
+			title: "Deadly foes!"
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"57751228BF99ECE3"
+				"482A0219D7A68578"
+				"347C252B95C7060E"
+			]
+			description: ["{image:fantasy_mc:textures/newquestimg/minecells1.png width:200 height:100 align:1}"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "44A49695AF4C86BD"
+			rewards: [{
+				id: "6BE66879332B456C"
+				item: "minecraft:totem_of_undying"
+				type: "item"
+			}]
+			subtitle: "Discover and Conquer the Vine Rune"
+			tasks: [{
+				advancement: "minecells:elite"
+				criterion: ""
+				id: "4B5F3E717F942614"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"482A0219D7A68578"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "minecells:insufferable_crypt_doorway"
+				tag: {
+					BlockEntityTag: { }
+				}
+			}
+			id: "7A6D42EAFC6990FA"
+			rewards: [{
+				id: "0C7A9E6E68A5017D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Use in the Vine Room on the top floor of the Prison"
+			tasks: [{
+				id: "5AE145C277E7AD4D"
+				item: {
+					Count: 1
+					id: "minecells:vine_rune"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.89d
+		}
+		{
+			dependencies: [
+				"7A6D42EAFC6990FA"
+				"347C252B95C7060E"
+			]
+			id: "79F691488E676500"
+			rewards: [{
+				id: "744B4DCBCB3DCC66"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			subtitle: "So that's where the foul smell came from!"
+			tasks: [{
+				entity: "minecells:conjunctivius"
+				icon: {
+					Count: 1
+					id: "adventurez:prime_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "437B49B89017963E"
+				title: "Conjunctivius"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["482A0219D7A68578"]
+			description: ["          <rainb>70% chance to cut yourself!"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "128F691D4DC1A23C"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "5ADCAC4DA188E1BA"
+					item: {
+						Count: 1
+						id: "minecells:blood_sword"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:sharpness"
+								lvl: 3s
+							}]
+						}
+					}
+					team_reward: true
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					exclude_from_claim_all: true
+					id: "421B5701B4852122"
+					table_id: 949947393064017844L
+					team_reward: true
+					type: "random"
+				}
+			]
+			size: 1.0E-5d
+			subtitle: "The sword looks strangely &4sharp&r... Better be careful!"
+			tasks: [{
+				disable_toast: true
+				id: "1DCC09C3A4EB2082"
+				title: "<shake>Pick up?"
+				type: "checkmark"
+			}]
+			title: "<shake>Pick up?"
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			disable_toast: true
+			id: "3D563762F37C7A45"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You took no damage!\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "339F6771F6A2F787"
+				silent: true
+				team_reward: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				consume_items: true
+				count: 64L
+				disable_toast: true
+				id: "517EFF97D0FAC5BE"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "no damage"
+			x: 6.0d
+			y: -8.0d
+		}
+		{
+			disable_toast: true
+			id: "299B010BD755C682"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run effect give @p minecraft:instant_damage 1 1"
+					elevate_perms: true
+					id: "21D35AE9E7441893"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"Ouch!\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					id: "3EFBA84574B35D17"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					id: "098B9B22C851667E"
+					item: "bewitchment:bottle_of_blood"
+					team_reward: true
+					type: "item"
+				}
+			]
+			size: 1.0E-6d
+			tasks: [{
+				consume_items: true
+				count: 64L
+				disable_toast: true
+				id: "3B74188B24132833"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "take damage"
+			x: 4.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"79F691488E676500"
+				"3981206A37FAA541"
+			]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+				}
+			}
+			id: "0CC4FBAA1264C17A"
+			rewards: [
+				{
+					id: "1B3EF27ACAB4743D"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "13352AD45B234C5C"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					id: "6B18B754B2DA9B79"
+					item: "origins:orb_of_origin"
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 1.5d
+			subtitle: "Kill Concierge and Conjunctivius"
+			tasks: [{
+				id: "6BD56267102E676B"
+				title: "&4C&dh&1a&3p&6t&ee&fr &0R&8e&2w&ca&7r&9d"
+				type: "checkmark"
+			}]
+			title: "<rainb>Chapter Reward"
+			x: 0.02993197278909321d
+			y: 3.991156462585053d
+		}
+		{
+			dependencies: [
+				"57751228BF99ECE3"
+				"347C252B95C7060E"
+			]
+			description: ["{image:fantasy_mc:textures/newquestimg/minecells4.png width:200 height:100 align:1}"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "67DE9644A2C34263"
+			rewards: [{
+				id: "25FF42F017A052D8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found at the end of the road..."
+			tasks: [{
+				dimension: "minecells:ramparts"
+				icon: {
+					Count: 1
+					id: "minecells:ramparts_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "564B53DC97C2CFC2"
+				type: "dimension"
+			}]
+			title: "Discover the Ramparts"
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"67DE9644A2C34263"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "6A0F64BD8EE1CD95"
+			rewards: [{
+				id: "5CBE563CCFD04FCA"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "minecells:sweeper"
+					id: "735E5648F3804BF6"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecells:buzzcutter"
+					id: "0AE810FC1D5EC096"
+					type: "kill"
+					value: 5L
+				}
+			]
+			title: "Ouch!"
+			x: -4.25d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"67DE9644A2C34263"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "76E0CC51163740D9"
+			rewards: [{
+				id: "139050E565238FFD"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found at the end of Ramparts"
+			tasks: [{
+				dimension: "minecells:black_bridge"
+				icon: {
+					Count: 1
+					id: "minecells:black_bridge_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "5AAFA301D6E7C799"
+				type: "dimension"
+			}]
+			title: "Discover the Black Bridge"
+			x: -0.5d
+			y: -11.0d
+		}
+		{
+			dependencies: [
+				"76E0CC51163740D9"
+				"67DE9644A2C34263"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "3981206A37FAA541"
+			rewards: [{
+				id: "4E682A73651E34C2"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecells:concierge"
+				icon: {
+					Count: 1
+					id: "minecells:flint"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "19E55535C2E6D766"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.25d
+			y: -10.25d
+		}
+		{
+			dependencies: [
+				"67DE9644A2C34263"
+				"347C252B95C7060E"
+			]
+			description: [
+				"Nearest = 90% to succeed: "
+				"- <rainb>Gain a golden apple and 1 netherite scrap"
+				"Furthest = 20% to succeed: "
+				"- <rainb>Gain a totem and 3 netherite scrap"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4C6BC22B6B1224D5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1DE120D96D22BA1D"
+				table_id: 1246224283807946934L
+				type: "choice"
+			}]
+			subtitle: "You decide to jump to..."
+			tasks: [{
+				disable_toast: true
+				id: "7380D6BCACA14107"
+				title: "<wave>Decisions..."
+				type: "checkmark"
+			}]
+			title: "<wave>Decisions..."
+			x: -4.75d
+			y: -9.879999999999999d
+		}
+		{
+			disable_toast: true
+			id: "42952C19CC28C200"
+			rewards: [{
+				auto: "invisible"
+				exclude_from_claim_all: true
+				id: "1C13487EE64BA519"
+				table_id: 100271602953223568L
+				type: "random"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "38D8EC2C13BD426A"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Nearest"
+			x: 3.5d
+			y: -8.0d
+		}
+		{
+			disable_toast: true
+			id: "05BAAE0FC736AA29"
+			rewards: [{
+				auto: "invisible"
+				exclude_from_claim_all: true
+				id: "2527B85D23D891FB"
+				table_id: 729710034960695774L
+				type: "random"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "2A56FC37EF4E63F0"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Furtheest"
+			x: 3.5d
+			y: -9.75d
+		}
+		{
+			disable_toast: true
+			id: "76AF3D591BC7F150"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"???: \",\"color\":\"green\"},{\"text\":\"You succeeded!\",\"color\":\"white\"}]"
+					elevate_perms: true
+					id: "368B8088BD9D1DA4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					count: 3
+					id: "55B56147C0594C4A"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "02EE4C98F1AF6FE7"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+			]
+			size: 1.0E-6d
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "0A56EC2ED84BFC74"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Furtheest"
+			x: -2.75d
+			y: -11.25d
+		}
+		{
+			disable_toast: true
+			id: "7F4D684C3605A151"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"???: \",\"color\":\"green\"},{\"text\":\"You succeeded!\",\"color\":\"white\"}]"
+					elevate_perms: true
+					id: "12B5394F80C77D7E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					id: "7F6246570E9F3C04"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "5865F4A6F4F932BF"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			size: 1.0E-7d
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "2F3582A1D6D5C189"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Nearest"
+			x: -3.0d
+			y: -9.5d
+		}
+		{
+			disable_toast: true
+			id: "1D03617F631EA056"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"???: \",\"color\":\"green\"},{\"text\":\"You fell and gained nothing :(\",\"color\":\"white\"}]"
+				elevate_perms: true
+				id: "53555750279505F7"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "4A0A9DC8F74D8AE6"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Fail"
+			x: 4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["482A0219D7A68578"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "2F7017E9D30B7E49"
+			rewards: [{
+				count: 2
+				id: "1FE171730FC8E661"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			subtitle: "Obtained in the Mine Cells Dimensions!"
+			tasks: [
+				{
+					id: "0E964BD674B9CE9F"
+					item: {
+						Count: 1
+						id: "minecells:multiple_nocks_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "17C5DE4E6B70F936"
+					item: {
+						Count: 1
+						id: "minecells:bow_and_endless_quiver"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "125265E1485BF813"
+					item: {
+						Count: 1
+						id: "minecells:marksmans_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "25906AF3D3FFCB6C"
+					item: {
+						Count: 1
+						id: "minecells:infantry_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71A4B04A24180844"
+					item: {
+						Count: 1
+						id: "minecells:quick_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0740927278FC16C2"
+					item: {
+						Count: 1
+						id: "minecells:ice_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "329C98A97D6D07BD"
+					item: {
+						Count: 1
+						id: "minecells:nerves_of_steel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4A2B107FB05895C9"
+					item: {
+						Count: 1
+						id: "minecells:heavy_crossbow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6FD16AD375DC73F1"
+					item: {
+						Count: 1
+						id: "minecells:explosive_crossbow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6BD3A482494C5DB0"
+					item: {
+						Count: 1
+						id: "minecells:cudgel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2CA44CBD54A1AAAF"
+					item: {
+						Count: 1
+						id: "minecells:rampart"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "14E99E290E940269"
+					item: {
+						Count: 1
+						id: "minecells:assault_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D797C658BE8B697"
+					item: {
+						Count: 1
+						id: "minecells:bloodthirsty_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "39D1FE6BAB3409F4"
+					item: {
+						Count: 1
+						id: "minecells:greed_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "76F77164AEEAB47E"
+					item: {
+						Count: 1
+						id: "minecells:ice_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "55612C48293BC866"
+					item: {
+						Count: 1
+						id: "minecells:lightning_bolt"
+						tag: {
+							Damage: 0
+							targetId: -1
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1396F0C1AD808584"
+					item: {
+						Count: 1
+						id: "minecells:electric_whip"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "526E46C7ED918F45"
+					item: "minecells:firebrands"
+					type: "item"
+				}
+				{
+					id: "71CE5BA129BFDAA1"
+					item: "minecells:throwing_knife"
+					type: "item"
+				}
+			]
+			title: "High class weaponry! P.2"
+			x: -5.13d
+			y: -7.789999999999999d
+		}
+	]
+	subtitle: ["&2Mysterious Portal..."]
+	title: "Chapter 2.5"
+}

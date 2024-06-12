@@ -1,0 +1,204 @@
+{
+	autofocus_id: "23D8F632B4909CF1"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "bosses_of_mass_destruction"
+	group: "5FF1082427F20D4E"
+	icon: "bosses_of_mass_destruction:obsidian_heart"
+	id: "09DA07F7611D7FE9"
+	images: [
+		{
+			click: "#"
+			height: 2.0d
+			hover: ["Use the Soul Star to find these bosses!"]
+			image: "bosses_of_mass_destruction:item/soul_star"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -0.6071428571428612d
+		}
+		{
+			height: 5.0d
+			image: "fantasy_mc:textures/newquestimg/voidblossom.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.4285714285714377d
+			y: -2.8809523809523974d
+		}
+		{
+			height: 5.0d
+			image: "fantasy_mc:textures/newquestimg/obsilith.png"
+			rotation: 0.0d
+			width: 2.6851063829787236d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 5.0d
+			image: "fantasy_mc:textures/nethergauntlet.png"
+			rotation: 0.0d
+			width: 2.6916666666666664d
+			x: 3.9748480243161026d
+			y: -2.9880952380952337d
+		}
+		{
+			height: 5.0d
+			image: "fantasy_mc:textures/nightlich.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			click: "#02A8BB87444C3A1F"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: -1.75d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "bosses_of_mass_destruction:void_thorn"
+			id: "0351CDCFFEB0E505"
+			rewards: [
+				{
+					id: "011F334E4F6BE674"
+					item: {
+						Count: 1
+						id: "mcdw:bow_void_bow"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "mcdw:void_shot"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2075B1D9466EE570"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			subtitle: "Found Underground near Lush Caves"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:void_blossom"
+				id: "54475479B1C33191"
+				title: "Kill 1x Void Blossom"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.4285714285714306d
+			y: -0.4761904761904958d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "mcdw:gauntlet_gauntlet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "73B6C051468C7DE1"
+			rewards: [
+				{
+					id: "17996CB59D09E220"
+					item: "artifacts:fire_gauntlet"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "19276AB2106C81A2"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "3571E766D205BD7D"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			subtitle: "Found in the Nether"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:gauntlet"
+				id: "24D52281D0350799"
+				title: "Kill 1x Nether Gauntlet"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			icon: "bosses_of_mass_destruction:obsidian_heart"
+			id: "23D8F632B4909CF1"
+			rewards: [
+				{
+					id: "6FA9459FC67CFABE"
+					item: {
+						Count: 1
+						id: "mcdw:sword_obsidian_claymore"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "02E893B6AE9B87C2"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "01DB6EC42B0C1558"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			subtitle: "Found in the End"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				id: "3E178AAD0476E094"
+				title: "Kill 1x Obsidilith"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "1EE0CF2B1B8CAC44"
+			rewards: [{
+				id: "1EC727521BEEA223"
+				item: {
+					Count: 1
+					id: "wizards:staff_smaragdant_frost"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Boss can be summoned in a structure in a cold biome"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:lich"
+				icon: "bosses_of_mass_destruction:mob_ward"
+				id: "1C19A8FE920AC7C6"
+				title: "Kill 1x Nightlicht"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+	]
+	title: "Bosses of Mass Destruction"
+}

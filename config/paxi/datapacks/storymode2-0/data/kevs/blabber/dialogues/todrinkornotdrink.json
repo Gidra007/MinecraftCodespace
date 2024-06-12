@@ -1,0 +1,64 @@
+{
+  "states": {
+    "start": {
+      "text": "The mob dropped a potion!",
+      "choices": [
+        {
+          "text": "Drink it!",
+          "next": "confirmationdrink"
+        },
+        {
+          "next": "confirmationdontdrink",
+          "text": "Too suspicious..."
+        }
+      ]
+    },
+    "drink": {
+      "type": "end_dialogue",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run function kevs:drink"
+      }
+    },
+    "dontdrink": {
+      "text": "",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run function kevs:dontdrink"
+      },
+      "type": "end_dialogue"
+    },
+    "confirmationdrink": {
+      "text": "It says it's a <rainb>Skill Point Potion</rainb>... But <shake>why</shake> did it drop from a mob?",
+      "type": "default",
+      "choices": [
+        {
+          "text": "Down the potion on the spot!",
+          "next": "drink"
+        },
+        {
+          "text": "I changed my mind!",
+          "next": "start"
+        }
+      ]
+    },
+    "confirmationdontdrink": {
+      "text": "It says it's a <rainb>Skill Point Potion</rainb>... Surely it's fine, <shake>right?</shake>",
+      "choices": [
+        {
+          "next": "dontdrink",
+          "text": "Yeet it away!"
+        },
+        {
+          "next": "start",
+          "text": "I changed my mind!"
+        }
+      ]
+    }
+  },
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": true,
+  "start_at": "start"
+}

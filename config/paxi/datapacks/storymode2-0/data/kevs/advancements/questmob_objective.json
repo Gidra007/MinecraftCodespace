@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "questmobKills": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "nbt": "{Tags:[\"questmob\"]}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "kevs:questmobp2"
+  },
+  "sends_telemetry_event": true
+}

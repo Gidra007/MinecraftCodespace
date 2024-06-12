@@ -1,0 +1,10 @@
+{
+	chapter_groups: [
+		{ id: "7DDF61ACA25A05AB", title: "  &9<wave>-=====</wave> &6 🧭 Adventuring 🧭  &9<wave>=====-" }
+		{ id: "1AAFABCE3EF340C4", title: "  &9<wave>-=====</wave> &6🕮 Storymode 1.0 🕮 &9<wave>=====-" }
+		{ id: "419255233BEA8747", title: "  &9<wave>-=====</wave> &6🕮 Storymode 2.0 🕮 &9<wave>=====-" }
+		{ id: "0748AA7BE31FEC41", title: "  &9<wave>-=====</wave>   &6⚔ Weaponry ⚔   &9<wave>=====-" }
+		{ id: "5FF1082427F20D4E", title: "  &9<wave>-=====</wave>&6     🥊 Bosses 🥊      &9<wave>=====-" }
+		{ id: "429A845DD1E3DE92", title: "Misc" }
+	]
+}

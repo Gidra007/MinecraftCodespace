@@ -1,0 +1,880 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "archery"
+	group: "0748AA7BE31FEC41"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "fantasy_mc:textures/newquestimg/arrow.png"
+		}
+	}
+	id: "7577D14C885B1765"
+	images: [
+		{
+			height: 1.0d
+			image: "decorative_blocks:block/bonfire_x_alt"
+			rotation: -90.0d
+			width: 1.0d
+			x: -5.299107142857139d
+			y: 0.018367346938759965d
+		}
+		{
+			height: 10.0d
+			image: "fantasy_mc:textures/newquestimg/arrow.png"
+			order: -1
+			rotation: -135.0d
+			width: 10.0d
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "38BB57136D1A4649"
+			rewards: [{
+				id: "5EE15B92EBDA8FD2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0B92094F4AC84249"
+				item: {
+					Count: 1
+					id: "soulsweapons:galeforce"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Galeforce"
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "55F0EE421D7950A5"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [
+				{
+					id: "73CF625AF7CDCE29"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "c:ranged_weapons"
+						}
+					}
+					title: "Any #c:ranged_weapons"
+					type: "item"
+				}
+				{
+					id: "2D5626270FD10CC8"
+					item: {
+						Count: 1
+						id: "archers:archer_spell_book"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "07A83C0F11529011"
+					item: "archers:auto_fire_hook"
+					type: "item"
+				}
+			]
+			title: "Ranged Weaponry"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "609F8E34FA2F0119"
+			tasks: [{
+				id: "47514C918F600B21"
+				item: {
+					Count: 1
+					id: "archers:netherite_heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "0255323F2CCBE03C"
+			tasks: [{
+				id: "5A9EB1948FB892A8"
+				item: {
+					Count: 1
+					id: "archers:netherite_rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "2F987CA615401ABB"
+			tasks: [{
+				id: "2541B0943FCA499C"
+				item: {
+					Count: 1
+					id: "archers:netherite_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "4865FD24290658AB"
+			tasks: [{
+				id: "402A0EAE1A44C725"
+				item: {
+					Count: 1
+					id: "archers:netherite_shortbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "4440CF4AC2AC218A"
+			tasks: [{
+				id: "00C39D99ED6FB035"
+				item: {
+					Count: 1
+					id: "soulsweapons:darkmoon_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "625C71D47091272C"
+			rewards: [
+				{
+					count: 16
+					id: "6EB60058F163A7AC"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "08809497BC520B86"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "1E32FD83FDADC9DE"
+				item: { Count: 16, id: "xtraarrows:extinguishing_arrow" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: -3.5d
+		}
+		{
+			id: "36F31B5FB66F7D41"
+			rewards: [
+				{
+					count: 16
+					id: "0DBEAC5DD549DEEB"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "0D9D8008029F64BF"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "2F1AF56765E0731B"
+				item: { Count: 16, id: "xtraarrows:incendiary_arrow" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: 4.0d
+		}
+		{
+			id: "39C35134D7702B6D"
+			rewards: [
+				{
+					count: 16
+					id: "58E015D6793A129F"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "71393D3BA93A57CA"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "383061584857C7A6"
+				item: { Count: 16, id: "xtraarrows:netherite_explosive_arrow" }
+				type: "item"
+			}]
+			x: 6.382886904761925d
+			y: -1.4166666666666998d
+		}
+		{
+			id: "7E5F314393C05C32"
+			rewards: [
+				{
+					id: "1477E06CC40C6659"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "3194F17718076B4B"
+					item: "xtraarrows:cupids_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "02D277C88888EEC3"
+				item: { Count: 16, id: "xtraarrows:cupids_arrow" }
+				type: "item"
+			}]
+			x: 7.859077380952378d
+			y: -0.46428571428575083d
+		}
+		{
+			id: "46F53A4B7A946D70"
+			rewards: [
+				{
+					id: "063E52550CB74A0A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "11613687DFDC65A9"
+					item: "xtraarrows:leashing_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "770DA48802CE02B1"
+				item: { Count: 16, id: "xtraarrows:leashing_arrow" }
+				type: "item"
+			}]
+			x: 7.859077380952378d
+			y: 0.5357142857142492d
+		}
+		{
+			id: "7FFFC2337E3305D9"
+			rewards: [
+				{
+					id: "32623CF8F3DD133F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "3B77368E51EB320E"
+					item: "xtraarrows:padded_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "202E762180C5DFE5"
+				item: { Count: 16, id: "xtraarrows:padded_arrow" }
+				type: "item"
+			}]
+			x: 6.859077380952378d
+			y: 0.5357142857142492d
+		}
+		{
+			id: "7D91FA5ECFCB7A61"
+			rewards: [
+				{
+					id: "0AAA6F7A407140FF"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "2AE3C94517B6BB34"
+					item: "xtraarrows:breeding_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "6BD45ED44E3838BB"
+				item: { Count: 16, id: "xtraarrows:breeding_arrow" }
+				type: "item"
+			}]
+			x: 6.859077380952378d
+			y: -0.46428571428575083d
+		}
+		{
+			id: "629C49C29ECE51B1"
+			rewards: [
+				{
+					count: 16
+					id: "4826BA116A6270AD"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "542C96A4550C91E8"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "4342E6623162F362"
+				item: { Count: 16, id: "xtraarrows:netherite_arrow" }
+				type: "item"
+			}]
+			x: -5.845684523809517d
+			y: -2.0238095238095255d
+		}
+		{
+			id: "33C445291FA7D3F7"
+			rewards: [
+				{
+					count: 16
+					id: "70F88F51928A9628"
+					item: "xtraarrows:golden_arrow"
+					type: "item"
+				}
+				{
+					id: "76A69AA2F8EDE758"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "75250A497A1921BD"
+				item: { Count: 16, id: "xtraarrows:golden_arrow" }
+				type: "item"
+			}]
+			x: -7.095684523809517d
+			y: 0.9761904761904745d
+		}
+		{
+			id: "213DC090EE58575E"
+			rewards: [
+				{
+					count: 16
+					id: "0AE1E57D3B786EE9"
+					item: "xtraarrows:diamond_arrow"
+					type: "item"
+				}
+				{
+					id: "45C48C81C292FFAC"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "3880E6550DA41A02"
+				item: { Count: 16, id: "xtraarrows:diamond_arrow" }
+				type: "item"
+			}]
+			x: -7.095684523809517d
+			y: -0.7738095238095255d
+		}
+		{
+			id: "55998CB505D85E8A"
+			rewards: [
+				{
+					count: 16
+					id: "0A10DB73B18A98D2"
+					item: "xtraarrows:iron_arrow"
+					type: "item"
+				}
+				{
+					id: "1DF2DADC3F12BFAA"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "45179229D1C5EB32"
+				item: { Count: 16, id: "xtraarrows:iron_arrow" }
+				type: "item"
+			}]
+			x: -5.845684523809517d
+			y: 2.2261904761904745d
+		}
+		{
+			id: "0DA1D838A5748F7A"
+			rewards: [
+				{
+					count: 16
+					id: "70B3F942067FA436"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "1C7965A84D179959"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "0969C07E39FE728A"
+				item: { Count: 16, id: "xtraarrows:netherite_atlantean_arrow" }
+				type: "item"
+			}]
+			x: 8.382886904761925d
+			y: -1.4166666666666998d
+		}
+		{
+			id: "50E4B580965E0003"
+			rewards: [
+				{
+					count: 16
+					id: "65F4D70263950A03"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "4254A78ABF772CEE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "1F285CB9AE91BB4A"
+				item: { Count: 16, id: "xtraarrows:netherite_redstone_torch_arrow" }
+				type: "item"
+			}]
+			x: -8.343303571428578d
+			y: 0.011904761904737882d
+		}
+		{
+			id: "1BE0A867760E24BD"
+			rewards: [
+				{
+					count: 16
+					id: "48D1D80908D00632"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "5BCB41A148752622"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "3D74FF8B8B9908BC"
+				item: { Count: 16, id: "xtraarrows:netherite_soul_torch_arrow" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.5d
+		}
+		{
+			id: "1169D05E4D8719F5"
+			rewards: [
+				{
+					count: 16
+					id: "50A3C75575E4E07A"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "7D5AFEF3F441FB3A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "4F3CD83D4CF76C9A"
+				item: { Count: 16, id: "xtraarrows:netherite_vexing_arrow" }
+				type: "item"
+			}]
+			x: 8.811458333333327d
+			y: -0.4642857142857437d
+		}
+		{
+			id: "3EDE289E44F16000"
+			rewards: [
+				{
+					count: 16
+					id: "10AC471CC1747072"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "29F4F2CFC3DF1D1D"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "67630AEDC34BFD63"
+				item: { Count: 16, id: "xtraarrows:netherite_tracking_arrow" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -1.25d
+		}
+		{
+			id: "7816B4E98A2DD83B"
+			rewards: [
+				{
+					count: 16
+					id: "36590FD6421384CF"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "10E8A89A92CDF357"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "2ED33B8BAA9F4AB3"
+				item: { Count: 16, id: "xtraarrows:netherite_ender_arrow" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 1.25d
+		}
+		{
+			id: "78731A281DFD02C2"
+			rewards: [
+				{
+					count: 16
+					id: "472E4BAA6D080BCF"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "12ED4E1F8092E447"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "61AF06F785D3A83B"
+				item: { Count: 16, id: "xtraarrows:netherite_slime_arrow" }
+				type: "item"
+			}]
+			x: 8.287648809523837d
+			y: 1.4880952380952124d
+		}
+		{
+			id: "7E1573F0C320B706"
+			rewards: [
+				{
+					count: 16
+					id: "333C9C9CAE4D67BB"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "6C8EFA7BC451E1D5"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "1F0D07BEDDEBDE51"
+				item: { Count: 16, id: "xtraarrows:netherite_torch_arrow" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -2.5d
+		}
+		{
+			id: "39A70BE978DF0445"
+			rewards: [
+				{
+					count: 16
+					id: "5DCD22B459E6F4D0"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "64F97C06DD7B1B6E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "411B13350C4C79C4"
+				item: { Count: 16, id: "xtraarrows:netherite_lightning_arrow" }
+				type: "item"
+			}]
+			x: 7.287648809523837d
+			y: 1.4880952380952124d
+		}
+		{
+			id: "6677541E068A5848"
+			rewards: [
+				{
+					count: 16
+					id: "3BDF974A3E00801A"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "25E78B45247892EE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "565D65B5859A7DB9"
+				item: { Count: 16, id: "xtraarrows:netherite_freezing_arrow" }
+				type: "item"
+			}]
+			x: 7.382886904761925d
+			y: -1.4166666666666998d
+		}
+		{
+			id: "49F89AF8097DF97F"
+			rewards: [
+				{
+					count: 16
+					id: "06FD3C84450D57D0"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "70D321B8B35AD53F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "5B30609CC675DC2B"
+				item: { Count: 16, id: "xtraarrows:netherite_magnetic_arrow" }
+				type: "item"
+			}]
+			x: 8.811458333333348d
+			y: 0.5357142857142563d
+		}
+		{
+			id: "2AAA2F92C0F4C3B4"
+			rewards: [
+				{
+					count: 16
+					id: "33EC645F28EF8DF6"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "5D1A7D0933543C90"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "53C2E2CA62EF5D70"
+				item: { Count: 16, id: "xtraarrows:netherite_life_steal_arrow" }
+				type: "item"
+			}]
+			x: 6.287648809523837d
+			y: 1.4880952380952124d
+		}
+		{
+			id: "45BA07BBE031442E"
+			rewards: [
+				{
+					count: 16
+					id: "1771EE6FBFAC02B8"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "36392737AF6B831C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "76EFAD9D4B087FEC"
+				item: { Count: 16, id: "xtraarrows:netherite_gravity_arrow" }
+				type: "item"
+			}]
+			x: 9.75d
+			y: 0.0d
+		}
+		{
+			id: "4EC1A59FF757E5ED"
+			rewards: [
+				{
+					count: 16
+					id: "32B8126A0EFB3194"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "60F3B12C0BBB1EA6"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "14FED5AED62D6D1D"
+				item: { Count: 16, id: "xtraarrows:netherite_lantern_arrow" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 5.5d
+		}
+		{
+			id: "399C31255DC2B571"
+			rewards: [
+				{
+					count: 16
+					id: "5253CDF5E8DE7297"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "6DF79C38D044894A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "219787256AFA2C65"
+				item: { Count: 16, id: "xtraarrows:netherite_soul_lantern_arrow" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: -4.75d
+		}
+		{
+			id: "758F6F65F35E2E6D"
+			rewards: [
+				{
+					id: "1362EE5D966B4A06"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "0D90760A2AE72981"
+					item: "xtraarrows:apple_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "4E4870A5AAB08528"
+				item: { Count: 16, id: "xtraarrows:apple_arrow" }
+				type: "item"
+			}]
+			x: 5.906696428571422d
+			y: 0.011904761904737882d
+		}
+		{
+			id: "53CFEB63EC3B1C6D"
+			rewards: [
+				{
+					id: "0D3A9C128EAC2C71"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "452F5C9FC04A10EC"
+					item: "xtraarrows:golden_apple_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "082E818295F124B1"
+				item: { Count: 16, id: "xtraarrows:golden_apple_arrow" }
+				type: "item"
+			}]
+			x: 9.382886904761925d
+			y: -1.4166666666666998d
+		}
+		{
+			id: "0C0691038B5EA1CE"
+			rewards: [
+				{
+					id: "4E37645D93701E86"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "2372D45B345175CB"
+					item: "xtraarrows:notch_apple_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "2B83D9E7A3F1EA86"
+				item: { Count: 16, id: "xtraarrows:notch_apple_arrow" }
+				type: "item"
+			}]
+			x: 9.287648809523837d
+			y: 1.4880952380952124d
+		}
+	]
+	title: "Archery"
+}

@@ -1,0 +1,2314 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "soulslikes_blades"
+	group: "0748AA7BE31FEC41"
+	icon: {
+		Count: 1
+		id: "soulsweapons:master_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2C6CAC1F47F606B2"
+	images: [
+		{
+			height: 10.0d
+			image: "soulsweapons:item/darkin_scythe_pre_transform"
+			rotation: 0.0d
+			width: 9.0d
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			height: 10.0d
+			image: "soulsweapons:item/shadow_assassin_scythe"
+			rotation: 180.0d
+			width: 9.0d
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			height: 1.5d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -25.0d
+			width: 1.5d
+			x: -0.1428571428571388d
+			y: -1.1948979591836775d
+		}
+		{
+			height: 1.5d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -50.0d
+			width: 1.5d
+			x: 0.10204081632652873d
+			y: -2.256122448979596d
+		}
+		{
+			height: 1.5d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -50.0d
+			width: 1.5d
+			x: 0.0d
+			y: -3.3785714285714263d
+		}
+		{
+			height: 1.5d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -15.0d
+			width: 1.5d
+			x: 0.06122448979591866d
+			y: -4.480612244897955d
+		}
+		{
+			height: 1.75d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -45.0d
+			width: 1.5d
+			x: 0.408163265306122d
+			y: -5.623469387755094d
+		}
+		{
+			height: 1.5d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -55.0d
+			width: 1.5d
+			x: 0.20408163265306456d
+			y: -6.84795918367346d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/whisperwind_effect_below"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: 10.0d
+			y: -6.0d
+		}
+		{
+			height: 0.75d
+			image: "decorative_blocks:block/bonfire_x"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0367346938775555d
+			y: -8.203061224489794d
+		}
+		{
+			height: 0.75d
+			image: "decorative_blocks:block/bonfire_x"
+			rotation: 180.0d
+			width: 1.0d
+			x: -2.9795918367346985d
+			y: -8.745918367346931d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/unique_longsword_tainted_layer_32x32_e"
+			rotation: 0.0d
+			width: 0.008333333333333333d
+			x: 10.5d
+			y: -5.5d
+		}
+		{
+			height: 0.75d
+			image: "decorative_blocks:block/bonfire_x"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.007185374149657d
+			y: -8.174489795918376d
+		}
+		{
+			height: 0.75d
+			image: "decorative_blocks:block/bonfire_x"
+			rotation: 180.0d
+			width: 1.0d
+			x: 3.007185374149657d
+			y: -8.774489795918377d
+		}
+		{
+			height: 1.5d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -25.0d
+			width: 1.5d
+			x: -0.2309098639455911d
+			y: 1.5969387755102105d
+		}
+		{
+			height: 1.5d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -50.0d
+			width: 1.5d
+			x: -0.1237670068027299d
+			y: 2.7040816326530646d
+		}
+		{
+			height: 1.5d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -15.0d
+			width: 1.5d
+			x: -0.3380527210884594d
+			y: 3.775510204081648d
+		}
+		{
+			height: 1.5d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -70.0d
+			width: 1.5d
+			x: -0.0523384353741676d
+			y: 4.775510204081641d
+		}
+		{
+			height: 5.0d
+			image: "tridents_n_stuff:item/frenzied_trident"
+			rotation: 90.0d
+			width: 5.0d
+			x: -2.359481292517053d
+			y: 8.782653061224487d
+		}
+		{
+			height: 5.0d
+			image: "tridents_n_stuff:item/farshot_trident"
+			rotation: -180.0d
+			width: 5.0d
+			x: 2.3262329931972303d
+			y: 8.896938775510208d
+		}
+		{
+			height: 5.0d
+			image: "simplyswords:item/brimstone_claymore"
+			rotation: -45.0d
+			width: 5.0d
+			x: 5.430654761904755d
+			y: -8.944387755102042d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: 8.5d
+			y: -8.5d
+		}
+		{
+			height: 5.0d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: -45.0d
+			width: 5.0d
+			x: 5.466369047619047d
+			y: -9.230102040816327d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/mythicmetals_compat/claymore/claymore_metallurgium"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -7.5d
+			y: -7.5d
+		}
+		{
+			height: 5.0d
+			image: "simplyswords:item/mythicmetals_compat/rapier/rapier_metallurgium"
+			rotation: -45.0d
+			width: 5.0d
+			x: -5.390773809523807d
+			y: -8.551530612244896d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "64C95E952DA756D0"
+			shape: "rsquare"
+			size: 2.0d
+			subtitle: "Blades forged from worthy souls..."
+			tasks: [{
+				id: "7C28795E3ABE1158"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "soulsweapons:lord_soul"
+					}
+				}
+				title: "Any #soulsweapons:lord_soul"
+				type: "item"
+			}]
+			title: "<rainb>Obtain any Lord Soul"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "7EB9BBD92BC8A8F5"
+			rewards: [{
+				id: "2A5CC019DBC16164"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "071D00D822755056"
+				item: {
+					Count: 1
+					id: "soulsweapons:pure_moonlight_greatsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Pure Moonlight Greatsword"
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "37EBEBF1B80895BC"
+			rewards: [{
+				id: "4F81334BCA46BBE8"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "021D7497A1E55954"
+				item: {
+					Count: 1
+					id: "soulsweapons:master_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Master Sword"
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "4090797F9E9611B2"
+			rewards: [{
+				id: "77DDC6488E8F9789"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "53EB12C42ED5B324"
+				item: {
+					Count: 1
+					id: "soulsweapons:darkin_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Darkin Blade"
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "0A6F354EF24C438D"
+			rewards: [{
+				id: "037FE02D022BA8B6"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "201F6A93984F0212"
+				item: {
+					Count: 1
+					id: "soulsweapons:crucible_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Crucible Sword"
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "3A152EF2A93CB2A0"
+			rewards: [{
+				id: "18336F199E264FA1"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2124120CC868EF5B"
+				item: {
+					Count: 1
+					id: "soulsweapons:holy_moonlight_sword"
+					tag: {
+						Damage: 0
+						current_charge: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Holy Moonlight Sword"
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			icon: {
+				Count: 1
+				id: "soulsweapons:frostmourne"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "218EB07FF973DBF3"
+			rewards: [
+				{
+					id: "366F92434EBA14D1"
+					type: "xp_levels"
+					xp_levels: 7
+				}
+				{
+					id: "058FDB0ED05E20DE"
+					item: {
+						Count: 1
+						id: "soulsweapons:frostmourne"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Temporary Recipe!"
+			tasks: [
+				{
+					consume_items: true
+					id: "414A24EB55E0B75F"
+					item: {
+						Count: 1
+						id: "wizards:staff_netherite_frost"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2D7D178920720A5A"
+					item: {
+						Count: 1
+						id: "spellbladenext:frost_claymore"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "71CB0338DD424776"
+					item: {
+						Count: 1
+						id: "minecells:frost_blast"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "49D096798DFE48D0"
+					item: {
+						Count: 1
+						id: "spellbladenext:frost_orb"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "09B744D2366006D7"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "soulsweapons:lord_soul"
+						}
+					}
+					title: "Any #soulsweapons:lord_soul"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "6F95A394998B7D7C"
+					item: {
+						Count: 1
+						id: "wizards:frost_spell_book"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "3A8E9F7C54818103"
+					item: {
+						Count: 1
+						id: "frostiful:frost_wand"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2D86D55B6EE5CC28"
+					item: {
+						Count: 1
+						id: "mcdw:scythe_frost_scythe"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "mcdw:freezing"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "034A84AE0BDAE40E"
+					item: {
+						Count: 1
+						id: "mcdw:dagger_fangs_of_frost"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "mcdw:freezing"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft the Frostmourne"
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "0FC293E3D4FC00EC"
+			rewards: [{
+				id: "06E14B8B732728B5"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "3146E50A97E3ACA0"
+				item: {
+					Count: 1
+					id: "soulsweapons:darkin_scythe_pre"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Darkin Scythe"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "64485131DD634258"
+			rewards: [{
+				id: "159BAB02D4AC1F51"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "5F3FF4DB14264C35"
+				item: {
+					Count: 1
+					id: "soulsweapons:freyr_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Sword of Freyr"
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "494FB5FA4960E37D"
+			rewards: [{
+				id: "4833543FD84B3299"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "5CE36230CC43265D"
+				item: {
+					Count: 1
+					id: "soulsweapons:whirligig_sawblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Whirligig Sawblade"
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "2C774586B66EFA4E"
+			rewards: [{
+				id: "2B221FC20CACFB2D"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "22F88C0EFD5A1292"
+				item: {
+					Count: 1
+					id: "soulsweapons:dragonslayer_swordspear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Dragonslayer Swordspear"
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "1DCCFBF6B6FEEB70"
+			rewards: [{
+				id: "07B0426571B6E551"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "7AD733B34C6EA01D"
+				item: {
+					Count: 1
+					id: "soulsweapons:rageblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft Guinsoo's Rageblade"
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "4B098E74F55A2215"
+			rewards: [{
+				id: "138D9D8AA9FCDB4E"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "4E38A6BC5CC327C3"
+				item: {
+					Count: 1
+					id: "soulsweapons:nightfall"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft Nightfall"
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "5D9C72B150CA9DF7"
+			rewards: [{
+				id: "2F36080912426929"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "0A37519E80A8B4B7"
+				item: {
+					Count: 1
+					id: "soulsweapons:comet_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Comet Spear"
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "24942BADFF27FE78"
+			rewards: [{
+				id: "7D91FE39EAB694E4"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "7F3FAE0AD19127F5"
+				item: {
+					Count: 1
+					id: "soulsweapons:lich_bane"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Lich Bane"
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "4B1F5D796694F814"
+			rewards: [{
+				id: "04D8E5AFB14F9E02"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "0D77D786F468675A"
+				item: {
+					Count: 1
+					id: "soulsweapons:forlorn_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Obtain the Scythe of the Forlorn"
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "1D31C75C9D1A087C"
+			rewards: [{
+				id: "48CE61C82EB1DB1C"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "55BE31AEBA600621"
+				item: {
+					Count: 1
+					id: "soulsweapons:soul_reaper"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Soul Reaper"
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "52C59C9384ACFF71"
+			rewards: [{
+				id: "484A66E00175D193"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "16BD47A89926A19A"
+				item: {
+					Count: 1
+					id: "soulsweapons:draupnir_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Draupnir Spear"
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "540E69668E1DC2AE"
+			rewards: [{
+				id: "33759759D22F5674"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "01729ADD164F4A2D"
+				item: {
+					Count: 1
+					id: "soulsweapons:draugr"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft Draugr"
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "3895B323DCBB0B2B"
+			rewards: [{
+				id: "06B764303CDFEE74"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2CA4E6FFCFFB878F"
+				item: {
+					Count: 1
+					id: "soulsweapons:dawnbreaker"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Dawnbreaker"
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "133BA55B5227277A"
+			rewards: [{
+				id: "3712D1C41C9F2579"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "69EED5023205295C"
+				item: {
+					Count: 1
+					id: "soulsweapons:leviathan_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Leviathan Axe"
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "6648D153270C3828"
+			rewards: [{
+				id: "7006D1D672A79AAF"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "5C1EA2324FD0CCD2"
+				item: {
+					Count: 1
+					id: "soulsweapons:skofnung"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft Skofnung"
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "1D7C1D3033823500"
+			rewards: [{
+				id: "21EC343C79B1704D"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "141A2462672EF3F6"
+				item: {
+					Count: 1
+					id: "soulsweapons:mjolnir"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft Mjölnir"
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "6A5FACF6AA363D4A"
+			rewards: [{
+				id: "11807234AE66F54A"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2DD193F8CE5C0A23"
+				item: {
+					Count: 1
+					id: "soulsweapons:dawnbreaker"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "1E40AB6B77E2FC43"
+			rewards: [{
+				id: "3C35F2B7FC7A290E"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [
+				{
+					id: "3D1476084B55317B"
+					item: {
+						Count: 1
+						id: "soulsweapons:kraken_slayer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72952673C570B841"
+					item: {
+						Count: 1
+						id: "soulsweapons:kraken_slayer_crossbow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "5499F2DBBD287988"
+			rewards: [{
+				id: "397B50D697803146"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "38E2323B497B4711"
+				item: {
+					Count: 1
+					id: "soulsweapons:empowered_dawnbreaker"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["64C95E952DA756D0"]
+			id: "2611AD102B245707"
+			rewards: [{
+				id: "67F4CE7037651454"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "07F6058A70835D94"
+				item: {
+					Count: 1
+					id: "soulsweapons:nights_edge_item"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "708A7DE0D1D255BF"
+			size: 2.0d
+			subtitle: "Extraordianary Blades... Who could've forged them?"
+			tasks: [
+				{
+					id: "398BEBD65C02CF1A"
+					item: "simplyswords:runic_tablet"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "77D591D21C0D418D"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "simplyswords:uniques"
+						}
+					}
+					optional_task: true
+					title: "Any #simplyswords:uniques"
+					type: "item"
+				}
+			]
+			title: "<rainb>Obtain a Runic Tablet"
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "71901244A8CD5F87"
+			rewards: [{
+				id: "003E2F6068C7DA96"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "35F4FB559E7B85CD"
+				item: {
+					Count: 1
+					id: "simplyswords:soulstealer"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "5E6854366EC75733"
+			rewards: [{
+				id: "52A8540CCD74364E"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "4D4F3B3FB6C67B39"
+				item: {
+					Count: 1
+					id: "simplyswords:bramblethorn"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "4CE38CA870DC2190"
+			rewards: [{
+				id: "145AE90E5B0720C2"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "6568CC7445BCE1FB"
+				item: {
+					Count: 1
+					id: "simplyswords:stormbringer"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "278B50B43196A966"
+			rewards: [{
+				id: "32C614B98555B056"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "405884E9E58A542C"
+				item: {
+					Count: 1
+					id: "simplyswords:storms_edge"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "5DCDD35A2465D8C3"
+			rewards: [{
+				id: "6766F6A0F4442DD0"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "46E9DD5C2E125DB6"
+				item: {
+					Count: 1
+					id: "simplyswords:brimstone_claymore"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "043E0E2CAC90115A"
+			rewards: [{
+				id: "1089EC22C95815F0"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "76CE9886002A67E1"
+				item: {
+					Count: 1
+					id: "simplyswords:watcher_claymore"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "47DCDB9B0E7C07BA"
+			rewards: [{
+				id: "35E8EC981256A072"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "216AF7A563FCC0A0"
+				item: {
+					Count: 1
+					id: "simplyswords:toxic_longsword"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "0A09CFEB1453C0CE"
+			rewards: [{
+				id: "7DF1E1321F0002B6"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "68F0CD3F5D97E28A"
+				item: {
+					Count: 1
+					id: "simplyswords:emberblade"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "2BC01083402307B8"
+			rewards: [{
+				id: "7AF5AC0E105007C3"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "733B6DF557670209"
+				item: {
+					Count: 1
+					id: "simplyswords:hearthflame"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "01944BDC8A88AD4C"
+			rewards: [{
+				id: "12EE8994B79657C1"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "23102BF80A284DB0"
+				item: {
+					Count: 1
+					id: "simplyswords:twisted_blade"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "3F894D7603224DD3"
+			rewards: [{
+				id: "7E9640D2C428DBFD"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "740CA173A11982E5"
+				item: {
+					Count: 1
+					id: "simplyswords:awakened_lichblade"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "79A61887B0890041"
+			rewards: [{
+				id: "3BA052A70489FC0E"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "4F1D3CEA3A127C63"
+				item: {
+					Count: 1
+					id: "simplyswords:harbinger"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "52E558FF898B45C9"
+			rewards: [{
+				id: "53C31AF0119DA8EF"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "45851B7512F642FB"
+				item: {
+					Count: 1
+					id: "simplyswords:whisperwind"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "524B1F771CC3230C"
+			rewards: [{
+				id: "30971FE496FD1C71"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "64D6AA4FC891556B"
+				item: {
+					Count: 1
+					id: "simplyswords:sunfire"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "6F9A486CBE4049E3"
+			rewards: [{
+				id: "03E1A73EB457FEA7"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2146D83FD57A34EA"
+				item: {
+					Count: 1
+					id: "simplyswords:mjolnir"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "0167A17B916C925E"
+			rewards: [{
+				id: "5995C2B964EA6CEE"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2EBE0311BA58EA3E"
+				item: {
+					Count: 1
+					id: "simplyswords:arcanethyst"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "68CF41CE20F5D8D4"
+			rewards: [{
+				id: "78A2A28D686F7DBF"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "656043BB655A876A"
+				item: {
+					Count: 1
+					id: "simplyswords:thunderbrand"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "78487B17DEE48EA4"
+			rewards: [{
+				id: "173AD9142057C9B7"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "37309778E0E99CE8"
+				item: {
+					Count: 1
+					id: "simplyswords:tainted_relic"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "4DE056958ACC5B7C"
+			rewards: [{
+				id: "79B27ABFC08E57A3"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2CF0A7934857D603"
+				item: {
+					Count: 1
+					id: "simplyswords:soulrender"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "42557FF8AB388300"
+			rewards: [{
+				id: "04581D112C395FC1"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "5785579A3884D1B2"
+				item: {
+					Count: 1
+					id: "simplyswords:shadowsting"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "054EAE1FEB393240"
+			rewards: [{
+				id: "0E50F97B70FE868B"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "427AEBD671AD65FB"
+				item: {
+					Count: 1
+					id: "simplyswords:watching_warglaive"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "0A9BB131FEEBCCFE"
+			rewards: [{
+				id: "429B0CEA5D9A7A55"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2730F0C9EC521B3A"
+				item: {
+					Count: 1
+					id: "simplyswords:righteous_relic"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "279A776FB4E58F46"
+			rewards: [{
+				id: "7D9D780AD48C1C8C"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "4CAC2D562E288716"
+				item: {
+					Count: 1
+					id: "simplyswords:icewhisper"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "44C82AE333E15D8C"
+			rewards: [{
+				id: "4D515DDBBF8E23DA"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "776C79B195681FAE"
+				item: {
+					Count: 1
+					id: "simplyswords:livyatan"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "5CFD25CD8C0ED47A"
+			rewards: [{
+				id: "083C797216CF1F28"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "741B713B377DB7EB"
+				item: {
+					Count: 1
+					id: "simplyswords:frostfall"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "57056CCDFD2750F8"
+			rewards: [{
+				id: "2460A6682D859AEE"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "5432F66E59C60A75"
+				item: {
+					Count: 1
+					id: "simplyswords:soulkeeper"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -15.25d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "4F0668AD75A4D443"
+			rewards: [{
+				id: "60192F40F74C4F3E"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "586967A39C32ABA3"
+				item: {
+					Count: 1
+					id: "simplyswords:molten_edge"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "2829E4AE0687BC27"
+			rewards: [{
+				id: "4F81C7E6AA10FC40"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "391259E0AF38B88E"
+				item: {
+					Count: 1
+					id: "simplyswords:soulpyre"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -13.0d
+		}
+		{
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "652A2A3B25A3502A"
+			size: 2.0d
+			subtitle: "Conquer the sea!"
+			tasks: [{
+				id: "56312A96C1321FD0"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:ancient_trident"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "<rainb>Obtain an Ancient Trident"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["652A2A3B25A3502A"]
+			id: "39D0C06D21B993D2"
+			rewards: [{
+				id: "364F500D8BB37E76"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "50C30EF880678C41"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:holy_trident"
+					tag: {
+						Damage: 0
+						gc_item.tridents_n_stuff.holy_trident: 1b
+						gear_modifiers: [{
+							gear_modifier_id: "tridents_n_stuff:holy"
+						}]
+						item_stack_id: 5336814183614290944L
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["652A2A3B25A3502A"]
+			id: "6D96EC4AEC84BF5E"
+			rewards: [{
+				id: "02E7B7725B1996EF"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "345E32F245053170"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:oceanic_trident"
+					tag: {
+						Damage: 0
+						gc_item.tridents_n_stuff.oceanic_trident: 1b
+						gear_modifiers: [{
+							gear_modifier_id: "tridents_n_stuff:oceanic"
+						}]
+						item_stack_id: 5642049755985106944L
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["652A2A3B25A3502A"]
+			id: "5539F5999B23999C"
+			rewards: [{
+				id: "474B7140AD9AD861"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "281C1BD97D9A2FC8"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:sanguine_bond"
+					tag: {
+						Damage: 0
+						gc_item.tridents_n_stuff.sanguine_bond: 1b
+						gear_modifiers: [{
+							gear_modifier_id: "tridents_n_stuff:sanguine"
+						}]
+						item_stack_id: 2687669358882758656L
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["652A2A3B25A3502A"]
+			id: "22139885A499ED29"
+			rewards: [{
+				id: "6626A23982316E30"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "60E8B3FDDC367BC0"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:frenzied_trident"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["652A2A3B25A3502A"]
+			id: "550A01CD16CC66B7"
+			rewards: [{
+				id: "0872C650F1CCD62A"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "7F1B87F147CFF690"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:stellaris"
+					tag: {
+						Damage: 0
+						gc_item.tridents_n_stuff.stellaris: 1b
+						gear_modifiers: [{
+							gear_modifier_id: "tridents_n_stuff:stellar"
+						}]
+						item_stack_id: 1711364383537008640L
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["652A2A3B25A3502A"]
+			id: "603E2D32C39DC0CD"
+			rewards: [{
+				id: "61437A23DFFF7ACE"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "5B0E6942FF296299"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:echo_of_the_deep"
+					tag: {
+						Damage: 0
+						gc_item.tridents_n_stuff.echo_of_the_deep: 1b
+						gear_modifiers: [{
+							gear_modifier_id: "tridents_n_stuff:echoing"
+						}]
+						item_stack_id: 1733254217342337024L
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["652A2A3B25A3502A"]
+			id: "1E157EA8E1B6CE28"
+			rewards: [{
+				id: "35F46FD63D897E7D"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "5600E69F865356BB"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:the_desecrator"
+					tag: {
+						Damage: 0
+						gc_item.tridents_n_stuff.the_desecrator: 1b
+						gear_modifiers: [{
+							gear_modifier_id: "tridents_n_stuff:vile"
+						}]
+						item_stack_id: 8295763227575320576L
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["652A2A3B25A3502A"]
+			id: "2BF59C96A7FDEC56"
+			rewards: [{
+				id: "56009DBE327F66F1"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "5D9DD657CC2E4660"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:stormseeker"
+					tag: {
+						Damage: 0
+						gc_item.tridents_n_stuff.stormseeker: 1b
+						gear_modifiers: [{
+							gear_modifier_id: "tridents_n_stuff:storm_blessed"
+						}]
+						item_stack_id: 2469725237412517888L
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["652A2A3B25A3502A"]
+			id: "63220116A50F9A41"
+			rewards: [{
+				id: "0208AE9655F3D020"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2C79450C5A3A5843"
+				item: {
+					Count: 1
+					id: "tridents_n_stuff:farshot_trident"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			id: "04E2EFBD70B53BD0"
+			rewards: [{
+				id: "2CCD09EC762C69D6"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			tasks: [
+				{
+					id: "0F48A1FA38C5017C"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_rapier"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C1DE065143C4A12"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_katana"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0BD6D247A2099311"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_sai"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "19E07B13DAAF455C"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_twinblade"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6071E45CFA77DCAB"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_longsword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D88A3A189099923"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_warglaive"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28C078B3057FEF61"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_glaive"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "60991FA815E5023C"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_spear"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B491143E61228A1"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_greataxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "23F1864312D272A3"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_scythe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73C3F3F6A67A5FC8"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_halberd"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "25B2184DB2704850"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_greathammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "686A22E04FB38CD1"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_chakram"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7BE7ED919959DC36"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_cutlass"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A35540FA40B3694"
+					item: {
+						Count: 1
+						id: "simplyswords:mythicmetals_compat/metallurgium/metallurgium_claymore"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "093783D3594FD904"
+			rewards: [{
+				id: "0311336690E460FA"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "4C940F95637C6D92"
+				item: {
+					Count: 1
+					id: "simplyswords:hiveheart"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.75d
+			y: -14.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "7D428F5AE17D8B67"
+			rewards: [{
+				id: "38AA2D9D27D16CBE"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "3D678BCC16070A2F"
+				item: {
+					Count: 1
+					id: "simplyswords:stars_edge"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "58400F2795936149"
+			rewards: [{
+				id: "610385FB1595D4E2"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "598BD23A1910C301"
+				item: {
+					Count: 1
+					id: "simplyswords:wickpiercer"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "6BC27010BE0D7364"
+			rewards: [{
+				id: "007421381D7EC9FB"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "388E8996A5A237AD"
+				item: {
+					Count: 1
+					id: "simplyswords:emberlash"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "2543E70B213FFF85"
+			rewards: [{
+				id: "2C1DC392DACA9C1F"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2D93E213655EE3D1"
+				item: {
+					Count: 1
+					id: "simplyswords:waxweaver"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -15.25d
+		}
+		{
+			dependencies: ["708A7DE0D1D255BF"]
+			id: "039B2BE566539607"
+			rewards: [{
+				id: "342D8A87CB498990"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "02D0E51255987894"
+				item: {
+					Count: 1
+					id: "simplyswords:tempest"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -14.75d
+		}
+		{
+			id: "535C48D68C26BB1B"
+			rewards: [{
+				id: "487D2D9B6845C515"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2B0D201237E1E63C"
+				item: {
+					Count: 1
+					id: "simplyswords:ribboncleaver"
+					tag: {
+						Damage: 0
+						nether_power: "socket_empty"
+						runic_power: "no_socket"
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -12.25d
+		}
+		{
+			id: "694D258DDCD2904D"
+			rewards: [{
+				id: "6CDB0E8BC9319CFF"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "45FB6435B344CE20"
+				item: {
+					Count: 1
+					id: "simplyswords:flamewind"
+					tag: {
+						Damage: 0
+						nether_power: "no_socket"
+						runic_power: "socket_empty"
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -12.5d
+		}
+	]
+	title: "Soulslike's Blades"
+}

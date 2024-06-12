@@ -1,0 +1,115 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "commandstuff10"
+	group: "1AAFABCE3EF340C4"
+	id: "5E8053864A49A7B5"
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"3C3F2644E22230A9"
+				"0229FFC7C32CDD26"
+				"60FC391AE348BC98"
+				"40E331F71E8050FD"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4C3F40246E14F9EA"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p reset 1529A54F24023993"
+				elevate_perms: true
+				id: "4E02AEC55626CB37"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "5B3E9B48E38C6148"
+				type: "advancement"
+			}]
+			title: "area2unlock"
+			x: -3.42d
+			y: -1.14d
+		}
+		{
+			dependencies: [
+				"2F63BD395659AEA6"
+				"0DD71B547B6E673D"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "767262522DBFFEDA"
+			invisible: true
+			size: 1.0d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "66B2C53B97672028"
+				type: "advancement"
+			}]
+			title: "123"
+			x: -1.755d
+			y: -1.1700000000000002d
+		}
+		{
+			dependencies: [
+				"347C252B95C7060E"
+				"14EC2CCAFDEA5A09"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "1529A54F24023993"
+			invisible: true
+			size: 1.0d
+			tasks: [{
+				disable_toast: true
+				id: "16F4FB2975DE04C4"
+				type: "checkmark"
+			}]
+			title: "area2"
+			x: -1.71d
+			y: 0.37999999999999995d
+		}
+		{
+			dependencies: [
+				"0DD71B547B6E673D"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "14EC2CCAFDEA5A09"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 1529A54F24023993"
+				elevate_perms: true
+				id: "5FBC0B9DBF55B12A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "5EF5B7D7905B6DE4"
+				type: "advancement"
+			}]
+			x: -3.42d
+			y: 0.37999999999999995d
+		}
+	]
+	title: "CommandStuff1.0"
+}

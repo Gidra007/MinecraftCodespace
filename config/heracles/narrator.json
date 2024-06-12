@@ -1,0 +1,31 @@
+{
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": true,
+  "start_at": "start",
+  "states": {
+    "start": {
+      "choices": [
+        {
+          "text": "123",
+          "next": "end"
+        }
+      ],
+      "action": {
+        "type": "blabber:command",
+        "value": "/say hi"
+      },
+      "type": "default",
+      "text": "Welcome!"
+    },
+    "end": {
+      "type": "end_dialogue",
+      "choices": [],
+      "action": {
+        "type": "blabber:command",
+        "value": "say end"
+      }
+    }
+  }
+}

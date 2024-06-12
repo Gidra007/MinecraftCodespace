@@ -1,0 +1,1390 @@
+{
+	autofocus_id: "21C0C88BA12F8A54"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "chapter_38"
+	group: "1AAFABCE3EF340C4"
+	icon: "artifacts:running_shoes"
+	id: "5020BF77347D2E12"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.8319727891156106d
+			y: -1.5683673469388175d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.8319727891156035d
+			y: -2.4306122448980005d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.8319727891156035d
+			y: -0.7163265306122852d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.02517006802724353d
+			y: 0.14081632653058307d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8823129251700905d
+			y: 0.14081632653057596d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7394557823129588d
+			y: 0.14081632653057596d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.59659863945582d
+			y: -0.7163265306122781d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.596598639455813d
+			y: -1.5734693877551358d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.596598639455813d
+			y: -2.4306122448979934d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.02517006802724353d
+			y: -3.267346938775546d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8823129251700976d
+			y: -3.267346938775546d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7394557823129588d
+			y: -3.267346938775546d
+		}
+		{
+			click: "#345E0939811C1B45"
+			dependency: "4C97DC13A4C71DFB"
+			height: 3.0d
+			hover: ["The End?"]
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.8904761904762211d
+			y: -1.5734693877551322d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/soulstealer_layer_e"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: 4.5d
+			y: -2.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.189455782312962d
+			y: 0.09897959183670935d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.25d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.75d
+			y: 2.75d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -0.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.096258503401323d
+			y: -3.272448979591857d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.25d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 1.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.75d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.75d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			click: "#19A56981E67A1C9B"
+			height: 1.0d
+			hover: ["?"]
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.75d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -8.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.25d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.75d
+			y: 3.75d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.25d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 3.75d
+		}
+		{
+			click: "#2156EF77B139777B"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.124829931972755d
+			y: -1.5153061224490045d
+		}
+		{
+			click: "#345E0939811C1B45"
+			height: 1.5d
+			hover: ["Next"]
+			image: "fantasy_mc:textures/newquestimg/next.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 3.8037414965986756d
+			y: -1.5867346938775668d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: -9.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.25d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.25d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.25d
+			y: -6.75d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/lichblade_aura_e"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.75d
+			y: -4.5d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["347C252B95C7060E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "3C31BDC1C6E1CE3A"
+			rewards: [{
+				id: "224B93C099D6CB1A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Small chance to obtain when Enchanting items"
+			tasks: [{
+				id: "5850C95747905798"
+				item: "endrem:cryptic_eye"
+				type: "item"
+			}]
+			x: 5.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "050A0049F6398721"
+			rewards: [{
+				id: "7864D9467A58685B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Crafted using aquatic items"
+			tasks: [{
+				id: "20AD85EE88C7DECF"
+				item: "endrem:exotic_eye"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "3371B878C5CF26A2"
+			rewards: [{
+				id: "68F821B4CD7D3022"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Crafted using an Undead Soul"
+			tasks: [{
+				id: "48563E972A2CE7A0"
+				item: "endrem:undead_eye"
+				type: "item"
+			}]
+			x: -1.75d
+			y: -3.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "3E38DFDA3BD63DDC"
+			rewards: [{
+				id: "78CDA5C2DA112BA0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Crafted using the Witch Pupil"
+			tasks: [{
+				id: "06FBD1A5B424AF18"
+				item: "endrem:witch_eye"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "77B195FF68FB5BE4"
+			rewards: [{
+				id: "6F1B4A5646AD7BC3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Dropped by the Wither"
+			tasks: [{
+				id: "71A18B11757F5AD9"
+				item: "endrem:wither_eye"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "7AD4850289E6357C"
+			rewards: [{
+				id: "5E918C29FC5EA799"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Dropped by Envokers"
+			tasks: [{
+				id: "60791DB250087BCB"
+				item: "endrem:magical_eye"
+				type: "item"
+			}]
+			x: 3.25d
+			y: -5.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "27BF643A76C9601E"
+			rewards: [{
+				id: "1614F8A17934F331"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Dropped by Elder Guardians"
+			tasks: [{
+				id: "4ED3E599CBC5DCC9"
+				item: "endrem:guardian_eye"
+				type: "item"
+			}]
+			x: 5.25d
+			y: -5.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "31478B83672DB69E"
+			rewards: [{
+				id: "695E57EEA451E686"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found in Igloos"
+			tasks: [{
+				id: "3235ADACB75B5F95"
+				item: "endrem:cold_eye"
+				type: "item"
+			}]
+			x: 2.25d
+			y: 1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "00D9EC12EF559AE2"
+			rewards: [{
+				id: "59E8300D40635958"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found in Pillager Outposts"
+			tasks: [{
+				id: "5BA87EBD552335A0"
+				item: "endrem:corrupted_eye"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "6691806BF8D1A85C"
+			rewards: [{
+				id: "6D6CA3181DC231F8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Bought from a master Cleric"
+			tasks: [{
+				id: "162A9C0263AEE150"
+				item: "endrem:evil_eye"
+				type: "item"
+			}]
+			x: -3.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "538387CC09B25A24"
+			rewards: [{
+				id: "6FCC0FFBC2C9ED92"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found in Bastions"
+			tasks: [{
+				id: "14B06B8626397E44"
+				item: "endrem:cursed_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "7E580B2D5C24CA23"
+			rewards: [{
+				id: "389FAAF8A7AD2FFA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found in Jungle Temples"
+			tasks: [{
+				id: "7A68F5D28D457B51"
+				item: "endrem:rogue_eye"
+				type: "item"
+			}]
+			x: -1.8605442176870497d
+			y: 0.41326530612242607d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "6FC4B60B7C6FDFFD"
+			rewards: [{
+				id: "273E9277BED50FAB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found in Desert Temples"
+			tasks: [{
+				id: "1842399487B98CF3"
+				item: "endrem:old_eye"
+				type: "item"
+			}]
+			x: 3.6394557823129503d
+			y: 0.41326530612242607d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "4F85688ECBEC8955"
+			rewards: [{
+				id: "438FF18886A5C827"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found in Nether Fortresses"
+			tasks: [{
+				id: "1979C4A6E5FD7B06"
+				item: "endrem:nether_eye"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "687A23C649907D50"
+			rewards: [{
+				id: "2C76CF8952FFE3AC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found in Mineshafts"
+			tasks: [{
+				id: "65D6AA13E8F3CD0E"
+				item: "endrem:lost_eye"
+				type: "item"
+			}]
+			x: 1.75d
+			y: 2.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "312682182CA5453C"
+			rewards: [{
+				id: "06B849B9525885BB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found in Burried Treasures"
+			tasks: [{
+				id: "74131334E38875F7"
+				item: "endrem:black_eye"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5D800225E080CCD0"
+			invisible: true
+			min_required_dependencies: 5
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "079731A879158024"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: 2.596598639455813d
+			y: -2.4306122448980076d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "72826FC4891D8C44"
+			invisible: true
+			min_required_dependencies: 6
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "54EB08582589C583"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: 2.6292517006803138d
+			y: -1.5448979591837215d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "77778E8577E220BE"
+			invisible: true
+			min_required_dependencies: 7
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "1C92A92B4CAEF136"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: 2.608843537414991d
+			y: -0.708163265306176d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "71326DB63509127B"
+			invisible: true
+			min_required_dependencies: 8
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "68109D1713795535"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: 1.7517006802721298d
+			y: 0.1489795918366852d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "05E4DBA2043683D3"
+			invisible: true
+			min_required_dependencies: 9
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "1BB134E11AAF7CAC"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: 0.9149659863945843d
+			y: 0.1489795918366852d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "38DB8D6B518DD96A"
+			invisible: true
+			min_required_dependencies: 10
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "217D26B232BD65D7"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: 0.03741496598642158d
+			y: 0.16938775510198667d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "152C2F88AA673B14"
+			invisible: true
+			min_required_dependencies: 11
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "173D9FB0447732B5"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: -0.799319727891131d
+			y: -0.708163265306176d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "401CAF323DB4D120"
+			invisible: true
+			min_required_dependencies: 12
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "16B47C72BDD48793"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: -0.799319727891131d
+			y: -1.5448979591837215d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "69BC2588286222B4"
+			invisible: true
+			min_required_dependencies: 13
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "37768B545639ABBF"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: -0.8197278911564396d
+			y: -2.4020408163265827d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "78B1A1211719F9C2"
+			invisible: true
+			min_required_dependencies: 2
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "29B1B8F57502B5DA"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: 0.057823129251730165d
+			y: -3.2387755102041353d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "0146C95AEFB04025"
+			invisible: true
+			min_required_dependencies: 3
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "7F8AE83C24807DD5"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: 0.8945578231292757d
+			y: -3.259183673469444d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"27BF643A76C9601E"
+				"7E580B2D5C24CA23"
+				"4F85688ECBEC8955"
+				"6691806BF8D1A85C"
+				"31478B83672DB69E"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"00D9EC12EF559AE2"
+				"687A23C649907D50"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "70F34B0790AC307E"
+			invisible: true
+			min_required_dependencies: 4
+			shape: "heart"
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "470EB6F25FA8E49E"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "Eye slot"
+			x: 1.7721088435374455d
+			y: -3.2387755102041353d
+		}
+		{
+			dependencies: [
+				"69BC2588286222B4"
+				"05E4DBA2043683D3"
+				"5D800225E080CCD0"
+				"70F34B0790AC307E"
+				"71326DB63509127B"
+				"38DB8D6B518DD96A"
+				"152C2F88AA673B14"
+				"0146C95AEFB04025"
+				"401CAF323DB4D120"
+				"78B1A1211719F9C2"
+				"77778E8577E220BE"
+				"72826FC4891D8C44"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4C97DC13A4C71DFB"
+			invisible: true
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run playsound minecraft:block.end_portal.spawn ambient @p"
+					elevate_perms: true
+					id: "095D560A84F0BAF0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You have unlocked Chapter 4!\",\"color\":\"yellow\"}]"
+					id: "5F66A22FBE759E13"
+					type: "command"
+				}
+			]
+			shape: "heart"
+			size: 1.0E-5d
+			subtitle: "Replace the vanilla eye of ender with End Remastered eyes!"
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				icon: "minecraft:ender_eye"
+				id: "7DDD52B26C0D13A9"
+				title: "Eye slot"
+				type: "advancement"
+			}]
+			title: "endportal"
+			x: 5.25d
+			y: -2.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "21C0C88BA12F8A54"
+			rewards: [{
+				id: "4503325B16C6161C"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			subtitle: "Traveller's bestfriend!"
+			tasks: [{
+				id: "1DD0B5C80238239B"
+				item: {
+					Count: 1
+					id: "travellersbootsreloaded:travellers_boots_tier3"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.875170068027245d
+			y: -5.015306122449008d
+		}
+		{
+			disable_toast: true
+			id: "19A56981E67A1C9B"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "22C7EC857A821154"
+					item: "simplyswords:runic_tablet"
+					team_reward: true
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"A runic tablet dropped out of nowhere!\",\"color\":\"yellow\"}]"
+					id: "720E8CD2D37EADA6"
+					type: "command"
+				}
+			]
+			size: 1.0E-7d
+			tasks: [{
+				id: "43A20862004F0FDC"
+				type: "checkmark"
+			}]
+			title: "Easter Egg!"
+			x: -9.0d
+			y: -1.25d
+		}
+		{
+			disable_toast: true
+			id: "4F610CE9DA7DED64"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "3DF2BA751565EEF7"
+					item: "simplyswords:runic_tablet"
+					team_reward: true
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"A runic tablet dropped out of nowhere!\",\"color\":\"yellow\"}]"
+					id: "623198B08D9C6211"
+					type: "command"
+				}
+			]
+			size: 1.0E-7d
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "0D055C8ECA87BA3A"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: -3.25d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"3371B878C5CF26A2"
+				"312682182CA5453C"
+				"3E38DFDA3BD63DDC"
+				"3C31BDC1C6E1CE3A"
+				"7AD4850289E6357C"
+				"77B195FF68FB5BE4"
+				"4F85688ECBEC8955"
+				"7E580B2D5C24CA23"
+				"27BF643A76C9601E"
+				"31478B83672DB69E"
+				"6691806BF8D1A85C"
+				"538387CC09B25A24"
+				"050A0049F6398721"
+				"687A23C649907D50"
+				"00D9EC12EF559AE2"
+				"6FC4B60B7C6FDFFD"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+				}
+			}
+			id: "7A039338F2518A9C"
+			min_required_dependencies: 12
+			rewards: [
+				{
+					id: "03FB680BD62F37F7"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "23CCEADB5876523C"
+					item: "aquamirae:treasure_pouch"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "117A6FD1B3265C7C"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "4B810A6B8B4C210F"
+					item: "bakery:chocolate_box"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0C1CCF58E9527EB9"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "21DCD799470871D4"
+					item: "simplyskills:malevolent_manuscript"
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			subtitle: "Collect at least 12 unique eyes!"
+			tasks: [{
+				id: "5428D6756CAFB44B"
+				title: "Complete all Boss Chapters"
+				type: "checkmark"
+			}]
+			title: "<rainb>Chapter Reward"
+			x: 0.875170068027245d
+			y: -7.229591836734713d
+		}
+	]
+	subtitle: ["&9Journey to the End"]
+	title: "Chapter 3.8"
+}

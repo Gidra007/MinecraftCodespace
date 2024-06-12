@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "graveyard:purple_bone_staff"
+    },
+    "title": "Defeat the Necromancers!",
+    "description": "Defeat the Necromancer terrorizing the village!"
+  },
+  "criteria": {
+    "killNecromancer": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[\"questmobNecromancer\"]}"
+        }
+      }
+    },
+    "killNecromancerSon": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[\"questmobNecromancerSon\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "kevs:adv_necromancer"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "states": {
+    "start": {
+      "type": "default",
+      "text": [
+        {
+          "text": "Welcome to FantasyMC, "
+        },
+        {
+          "selector": "@interlocutor"
+        },
+        {
+          "text": ".\nPleased to make your acquaintance..."
+        }
+      ],
+      "choices": [
+        {
+          "text": "Who are you?",
+          "next": "who"
+        },
+        {
+          "next": "where",
+          "text": "Where am I?"
+        },
+        {
+          "next": "end",
+          "text": "Get to the point."
+        }
+      ]
+    },
+    "who": {
+      "type": "default",
+      "choices": [
+        {
+          "text": "Okay...",
+          "next": "start"
+        }
+      ],
+      "text": "I am one of the many voices you may have in your head.\nI have no name."
+    },
+    "where": {
+      "text": "This the overworld, where you'll be living in for a very long time.",
+      "choices": [
+        {
+          "next": "start",
+          "text": "Cool."
+        }
+      ],
+      "type": "default"
+    },
+    "end": {
+      "text": "I hope your adventures go well.\nBye. For now.",
+      "choices": [
+        {
+          "next": "end2",
+          "text": "Wait I still have more questions!"
+        }
+      ],
+      "type": "default"
+    },
+    "end2": {
+      "text": "But no one answered...",
+      "choices": [
+        {
+          "next": "end3",
+          "text": "..."
+        }
+      ]
+    },
+    "end3": {
+      "text": "",
+      "type": "end_dialogue",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run ftbquests change_progress @p complete 059DEEECE0953084"
+      }
+    }
+  },
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": true,
+  "start_at": "start"
+}

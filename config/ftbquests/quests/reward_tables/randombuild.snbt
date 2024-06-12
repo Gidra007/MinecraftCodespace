@@ -1,0 +1,53 @@
+{
+	id: "7A2B5C4357F3CD00"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			auto: "invisible"
+			command: "/execute as @p at @p run ftbquests change_progress @p complete 759E3668D8938E15"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/star.png"
+				}
+			}
+			silent: true
+			title: "Maybe an X...?"
+			type: "command"
+		}
+		{
+			auto: "invisible"
+			command: "/execute as @p at @p run ftbquests change_progress @p complete 1FB5D80C615009FE"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/star.png"
+				}
+			}
+			silent: true
+			title: "Maybe something like @?"
+			type: "command"
+		}
+		{
+			auto: "invisible"
+			command: "/execute as @p at @p run ftbquests change_progress @p complete 686C771BE4782EF1"
+			elevate_perms: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/star.png"
+				}
+			}
+			silent: true
+			title: "Hm... Maybe a circle?"
+			type: "command"
+		}
+	]
+	title: "RandomBuild"
+}

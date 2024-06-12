@@ -1,0 +1,12 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "village1"
+	group: "429A845DD1E3DE92"
+	id: "4BB932000EF00FFF"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "village1"
+}

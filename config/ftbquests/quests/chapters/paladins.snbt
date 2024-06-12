@@ -1,0 +1,477 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "paladins"
+	group: "0748AA7BE31FEC41"
+	icon: {
+		Count: 1
+		id: "paladins:aeternium_great_hammer"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2E963BA230AFEE02"
+	images: [
+		{
+			click: "#4BA97909341A9328"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.1023809523809831d
+			y: 0.39047619047620685d
+		}
+		{
+			height: 5.0d
+			image: "paladins:textures/mob_effect/priest_absorption.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.75d
+			y: 0.75d
+		}
+		{
+			height: 5.0d
+			image: "paladins:textures/mob_effect/priest_absorption.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.25d
+			y: 0.75d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["16DF472AF3B9404A"]
+			id: "107119BB363C1F3E"
+			optional: true
+			rewards: [{
+				id: "378DB60378B6604D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "26017E785E6CFF1A"
+					item: {
+						Count: 1
+						id: "paladins:iron_mace"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "350A349453611B49"
+					item: {
+						Count: 1
+						id: "paladins:golden_mace"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Iron/Golden Mace"
+			x: -4.25d
+			y: 0.75d
+		}
+		{
+			id: "445E83C76DCD79DC"
+			optional: true
+			rewards: [{
+				id: "3F6A2FA1B6D25056"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "61713D9572D15771"
+					item: {
+						Count: 1
+						id: "paladins:iron_great_hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "08BFA8DC6EA47765"
+					item: {
+						Count: 1
+						id: "paladins:golden_great_hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Iron/Golden Hammer"
+			x: -2.75d
+			y: 2.0d
+		}
+		{
+			dependencies: ["445E83C76DCD79DC"]
+			id: "1CBB2ED6940FE746"
+			rewards: [{
+				id: "2C07A56866D092F4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "68E44BE21043C064"
+				item: {
+					Count: 1
+					id: "paladins:diamond_great_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1CBB2ED6940FE746"]
+			id: "6CBB97276344CC91"
+			rewards: [{
+				id: "40BFA911D82EC651"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1F181CDD0DDA20CB"
+				item: {
+					Count: 1
+					id: "paladins:netherite_great_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6CBB97276344CC91"]
+			id: "4177BDB5CBCD5F97"
+			rewards: [{
+				id: "3A80EF1AB304D1C1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7A0DDEB5F62EA64C"
+				item: {
+					Count: 1
+					id: "paladins:aeternium_great_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["107119BB363C1F3E"]
+			id: "4079F4805AA46955"
+			rewards: [{
+				id: "6B8B0A7F1F2E5C11"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "52171D12C6AD2C7A"
+				item: {
+					Count: 1
+					id: "paladins:diamond_mace"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4079F4805AA46955"]
+			id: "274036594EDF28BF"
+			rewards: [{
+				id: "5161689035535450"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "26B264552B607D33"
+				item: {
+					Count: 1
+					id: "paladins:netherite_mace"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "74010AC76B6CAAF5"
+			optional: true
+			rewards: [{
+				id: "490B71342CD6FF96"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "23C1B8EE8F0D1E1F"
+					item: {
+						Count: 1
+						id: "paladins:iron_claymore"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7F1BDBB36C9F51DA"
+					item: {
+						Count: 1
+						id: "paladins:golden_claymore"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["74010AC76B6CAAF5"]
+			id: "55035743A71F598E"
+			rewards: [{
+				id: "19ECA5408C72AB8C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0474C001D1EE92D7"
+				item: {
+					Count: 1
+					id: "paladins:diamond_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["55035743A71F598E"]
+			id: "46E1058A7D9326CC"
+			rewards: [{
+				id: "07CF3C141073E627"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "24D7707B356A07A5"
+				item: {
+					Count: 1
+					id: "paladins:netherite_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.75d
+			y: 3.0d
+		}
+		{
+			dependencies: ["46E1058A7D9326CC"]
+			id: "24E4043AA10C9197"
+			rewards: [{
+				id: "08F668AAF63D36B5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3615BA7948ABE9DE"
+				item: {
+					Count: 1
+					id: "paladins:aeternium_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.75d
+			y: 3.0d
+		}
+		{
+			dependencies: ["74269380D31386CE"]
+			id: "5BB952C9A9C0A81D"
+			rewards: [{
+				id: "1B33760E0D3B3888"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "26BD84FC763E615C"
+				item: {
+					Count: 1
+					id: "paladins:diamond_holy_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5BB952C9A9C0A81D"]
+			id: "0820F82819039D0B"
+			optional: true
+			rewards: [{
+				id: "2350A83F199BF72F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "14CDDDD2E00F6895"
+					item: {
+						Count: 1
+						id: "paladins:netherite_holy_staff"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "4FB4086E94C60307"
+					item: {
+						Count: 1
+						id: "paladins:netherite_holy_wand"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Netherite Holy Staff/Wand"
+			x: 2.75d
+			y: 2.75d
+		}
+		{
+			dependencies: ["0820F82819039D0B"]
+			id: "59EC90E14A8B6C86"
+			rewards: [{
+				id: "1517A425CEEB1297"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "47A39A2CE3CAB12E"
+				item: {
+					Count: 1
+					id: "paladins:ruby_holy_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.75d
+			y: 4.0d
+		}
+		{
+			id: "74269380D31386CE"
+			optional: true
+			rewards: [{
+				id: "184ED385991D3E9B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "40E7F875C6F78081"
+					item: {
+						Count: 1
+						id: "paladins:holy_staff"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "538DAD75805D6851"
+					item: {
+						Count: 1
+						id: "paladins:holy_wand"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Holy Staff/Wand"
+			x: 2.75d
+			y: -3.0d
+		}
+		{
+			id: "16DF472AF3B9404A"
+			rewards: [{
+				id: "508E78E1BF8DC17C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Nothing out of place here"
+			tasks: [{
+				id: "0A37FE57FF62E1C9"
+				item: {
+					Count: 1
+					id: "mcdw:hammer_mace"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.75d
+		}
+	]
+	title: "Paladins \\& Priests"
+}

@@ -1,0 +1,251 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sword_pedestal_but_small"
+	group: "429A845DD1E3DE92"
+	id: "678F1327CBF6EEA4"
+	images: [
+		{
+			height: 0.35d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 0.35d
+			x: -1.5199999999999998d
+			y: 1.9d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: -1.5d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 0.35d
+			x: -1.3d
+			y: 1.9d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 0.35d
+			x: -1.1d
+			y: 1.9d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.9d
+			y: 1.9d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.7d
+			y: 1.9d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.5d
+			y: 1.9d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.3d
+			y: 1.9d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.1d
+			y: 1.9d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 0.35d
+			x: 0.1d
+			y: 1.9d
+		}
+		{
+			height: 0.25d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 0.6d
+			x: -1.1d
+			y: 1.5d
+		}
+		{
+			height: 0.25d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 0.25d
+			x: -2.68d
+			y: 2.56d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: -1.3d
+			y: 1.7d
+		}
+		{
+			height: 0.25d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 0.6d
+			x: -0.3d
+			y: 1.5d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: -1.2d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.9d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.6d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.7d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.4d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: -0.2d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: 0.0d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: 0.0d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: 0.0d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: 0.0d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: 0.0d
+			y: 1.7d
+		}
+		{
+			height: 0.35d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 0.35d
+			x: 0.1d
+			y: 1.7d
+		}
+		{
+			height: 0.25d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 0.4d
+			x: -1.131326530612263d
+			y: 1.311224489795908d
+		}
+		{
+			height: 0.25d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 0.4d
+			x: -0.4d
+			y: 1.3d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+	title: "Sword Pedestal but Small"
+}

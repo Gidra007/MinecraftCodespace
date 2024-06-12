@@ -1,0 +1,5 @@
+{
+  "condition": "origins:origin",
+  "origin": "origins:empty",
+  "layer": "origins:origin"
+}

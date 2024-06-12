@@ -1,0 +1,1651 @@
+{
+	autofocus_id: "4FE5DD745B1883A4"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "aquamirae"
+	group: "5FF1082427F20D4E"
+	icon: "aquamirae:ship_graveyard_echo"
+	id: "1F831982482B7673"
+	images: [
+		{
+			height: 3.0d
+			image: "fantasy_mc:textures/newquestimg/ghostofcaptaincornelia.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 14.5d
+			y: -9.5d
+		}
+		{
+			height: 3.0d
+			image: "fantasy_mc:textures/newquestimg/eel1.png"
+			rotation: 0.0d
+			width: 2.074074074074074d
+			x: 11.75d
+			y: -8.75d
+		}
+		{
+			height: 3.0d
+			image: "fantasy_mc:textures/newquestimg/mother1.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 17.5d
+			y: -8.75d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.5d
+			y: -3.0d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.25d
+			y: -3.0d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.5d
+			y: -2.75d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.5d
+			y: -3.25d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.25d
+			y: -3.25d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.0d
+			y: -3.0d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.75d
+			y: -3.0d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.25d
+			y: -2.75d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.75d
+			y: -2.75d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.901448727639199d
+			y: -2.3824829931972857d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.5d
+			y: -2.5d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.25d
+			y: -2.5d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.25d
+			y: -2.25d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.0d
+			y: -2.25d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.615734441924907d
+			y: -2.2600340136054484d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.472877299067768d
+			y: -2.2600340136054484d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.472877299067768d
+			y: -2.3824829931972857d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.146346686822866d
+			y: -2.5253401360544387d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.28920382968002d
+			y: -3.2192176870748384d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.146346686822866d
+			y: -3.2600340136054484d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.146346686822866d
+			y: -2.9335034013605537d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.28920382968002d
+			y: -2.790646258503415d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.41165280927185d
+			y: -3.5865646258503503d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.595326278659613d
+			y: -3.6681972789115704d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.636142605190216d
+			y: -3.8926870748299436d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.88104056437389d
+			y: -3.9743197278911637d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.003489543965735d
+			y: -4.178401360544228d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.41165280927185d
+			y: -4.178401360544228d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.84022423784328d
+			y: -4.178401360544228d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.26879566641471d
+			y: -4.178401360544228d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.18716301335349d
+			y: -3.9539115646258622d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.330020156210637d
+			y: -3.9335034013605465d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.452469135802481d
+			y: -3.6681972789115704d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.697367094986163d
+			y: -3.5661564625850417d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.656550768455553d
+			y: -3.2600340136054484d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.921856890904529d
+			y: -3.239625850340147d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.656550768455553d
+			y: -2.913095238095252d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.921856890904536d
+			y: -2.8518707482993335d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.656550768455553d
+			y: -2.6273809523809604d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.656550768455553d
+			y: -2.2192176870748384d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.534101788863715d
+			y: -1.8926870748299436d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 15.24838750314943d
+			y: -1.6069727891156518d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.901448727639227d
+			y: -1.5865646258503503d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.656550768455546d
+			y: -1.2600340136054484d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.289203829680048d
+			y: -1.2192176870748384d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 14.105530360292285d
+			y: -1.096768707483001d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.819816074578d
+			y: -1.0763605442176924d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.513693625598414d
+			y: -1.0151360544217738d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 13.166754850088203d
+			y: -0.9335034013605537d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 12.860632401108617d
+			y: -0.9947278911564723d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 12.472877299067797d
+			y: -1.1171768707483096d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 12.33002015621065d
+			y: -1.4028911564625943d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 12.268795666414725d
+			y: -1.6069727891156518d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 11.860632401108603d
+			y: -1.9335034013605465d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 0.5d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 0.5d
+			x: 11.676958931720854d
+			y: -2.1784013605442283d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.595326278659627d
+			y: -2.6681972789115775d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.595326278659627d
+			y: -2.0763605442176996d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.819816074578007d
+			y: -1.5661564625850417d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.187163013353512d
+			y: -1.0355442176870824d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.411652809271878d
+			y: -0.7498299319727977d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.064714033761675d
+			y: -0.48452380952382157d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.901448727639227d
+			y: -0.19880952380952976d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.758591584782081d
+			y: -0.17840136054422828d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.085122197026976d
+			y: -0.4437074829932044d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.799407911312692d
+			y: -0.6477891156462618d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.289203829680034d
+			y: -1.096768707483001d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.697367094986156d
+			y: -1.647789115646269d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.860632401108603d
+			y: -2.1784013605442283d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.003489543965742d
+			y: -2.7498299319727977d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.044305870496366d
+			y: -3.3824829931972857d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.044305870496352d
+			y: -3.994727891156465d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.636142605190244d
+			y: -4.606972789115659d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.04430587049636d
+			y: -5.096768707483001d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.411652809271871d
+			y: -5.402891156462594d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.636142605190244d
+			y: -5.566156462585042d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.901448727639213d
+			y: -5.586564625850343d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.33002015621065d
+			y: -5.341666666666676d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.554509952129017d
+			y: -4.913095238095245d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.085122197026976d
+			y: -4.362074829931984d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.758591584782074d
+			y: -3.913095238095245d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.595326278659627d
+			y: -3.3008503401360656d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.105530360292285d
+			y: -1.504931972789123d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.962673217435139d
+			y: -1.5661564625850417d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.819816074577986d
+			y: -1.729421768707489d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.840224237843302d
+			y: -2.586564625850343d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.248387503149416d
+			y: -1.6273809523809604d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.268795666414725d
+			y: -2.4845238095238216d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.268795666414725d
+			y: -3.3416666666666757d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.615734441924928d
+			y: -4.19880952380953d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.411652809271871d
+			y: -5.035544217687082d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.47287729906779d
+			y: -4.178401360544228d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.105530360292285d
+			y: -2.3620748299319843d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.778999748047376d
+			y: -2.790646258503415d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.942265054169823d
+			y: -2.423299319727903d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.105530360292285d
+			y: -3.1784013605442283d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.085122197026969d
+			y: -3.6681972789115704d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.268795666414725d
+			y: -4.811054421768716d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.125938523557586d
+			y: -4.749829931972798d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.962673217435139d
+			y: -4.54574829931974d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.676958931720854d
+			y: -3.913095238095245d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.330020156210644d
+			y: -3.831462585034025d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.411652809271864d
+			y: -3.0355442176870824d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.105530360292278d
+			y: -2.2192176870748384d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.840224237843294d
+			y: -1.3620748299319771d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.003489543965749d
+			y: -0.9947278911564723d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.146346686822895d
+			y: -0.6681972789115775d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.615734441924936d
+			y: -0.7090136054421805d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.268795666414732d
+			y: -2.0763605442176996d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.25d
+			y: -2.75d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.25d
+			y: -3.25d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.75d
+			y: -3.5d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.75d
+			y: -3.25d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.25d
+			y: -3.75d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.75d
+			y: -4.0d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/ice"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.25d
+			y: -3.75d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.24736709498616d
+			y: -2.394727891156478d
+		}
+		{
+			dependency: "1FB5D80C615009FE"
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.218795666414735d
+			y: -3.223299319727907d
+		}
+		{
+			click: "#02A8BB87444C3A1F"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 14.5d
+			y: 1.25d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7FAB2BEDD804E894"
+			rewards: [{
+				id: "62C1597A68FF7523"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			shape: "square"
+			subtitle: "Chilly..."
+			tasks: [{
+				biome: "#aquamirae:ice_maze"
+				icon: "minecraft:ice"
+				id: "788DA4ED0D144001"
+				title: "Found in Deep Frozen Oceans"
+				type: "biome"
+			}]
+			title: "Find the Ice Maze"
+			x: 14.5d
+			y: -0.25d
+		}
+		{
+			dependencies: ["7FAB2BEDD804E894"]
+			id: "29BB8DAFFC28C854"
+			rewards: [{
+				id: "2F8ED0B46B3C1056"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Here lies the horns..."
+			tasks: [{
+				id: "70D5F072413E6B66"
+				structure: "aquamirae:outpost"
+				type: "structure"
+			}]
+			title: "The Outpost"
+			x: 11.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7FAB2BEDD804E894"]
+			id: "65A21F8FF1A3A424"
+			rewards: [{
+				id: "3E1C1774AC381F19"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Here lies the captives..."
+			tasks: [{
+				id: "1C8225F014AAE59E"
+				structure: "aquamirae:ship"
+				type: "structure"
+			}]
+			title: "The Icebound Ship"
+			x: 17.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1BF77F792ED32051"]
+			id: "7349CE4992875132"
+			rewards: [{
+				id: "2EBB464A4AA84CB0"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Trapped for eternity"
+			tasks: [{
+				id: "683E01C213937C81"
+				structure: "aquamirae:shelter"
+				type: "structure"
+			}]
+			title: "The Shelter"
+			x: 11.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"29BB8DAFFC28C854"
+				"65A21F8FF1A3A424"
+			]
+			id: "1BF77F792ED32051"
+			rewards: [{
+				id: "1C9979241AC14428"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3FFD03B5CE660055"
+				item: "aquamirae:shell_horn"
+				type: "item"
+			}]
+			x: 14.5d
+			y: -5.75d
+		}
+		{
+			dependencies: ["1BF77F792ED32051"]
+			id: "3B792A1691240AE5"
+			rewards: [{
+				id: "3B3B607EDE678587"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Protection against the ice cold water!"
+			tasks: [
+				{
+					id: "685184C3D647D216"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3592FAE3083C4669"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_suit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3237B3B001614BB6"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "05933AF51CCE1BE9"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["7349CE4992875132"]
+			id: "475920E54FA6993E"
+			rewards: [{
+				count: 3
+				id: "70783063D1BC8908"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			subtitle: "Those are some sharp teeth..."
+			tasks: [{
+				entity: "aquamirae:eel"
+				id: "07D4F436A204CBD0"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3B792A1691240AE5"]
+			id: "4CCED548A37E62C6"
+			rewards: [{
+				count: 3
+				id: "684E31E1878D99E2"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			subtitle: "Watch your feet..."
+			tasks: [{
+				entity: "aquamirae:maze_mother"
+				id: "4BDFD1F118049639"
+				type: "kill"
+				value: 1L
+			}]
+			x: 17.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["1BF77F792ED32051"]
+			id: "00FAC81D8A6B2F90"
+			rewards: [{
+				count: 3
+				id: "759187A358A266D9"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			subtitle: "Formiddable foe"
+			tasks: [{
+				entity: "aquamirae:captain_cornelia"
+				id: "7F6C7FE6AFF1786A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 14.5d
+			y: -7.5d
+		}
+		{
+			disable_toast: true
+			id: "1FB5D80C615009FE"
+			invisible: true
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"\",\"color\":\"green\"},{\"text\":\"You built something similar to @! The middle seems to be shining...?\",\"color\":\"white\"}]"
+					elevate_perms: true
+					id: "122514333E981505"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 1A26027A229F6C4A"
+					elevate_perms: true
+					id: "52F8CFBFF8C08995"
+					silent: true
+					type: "command"
+				}
+			]
+			size: 1.0E-6d
+			tasks: [{
+				id: "5D4121CB3D4887F2"
+				type: "checkmark"
+			}]
+			title: "@"
+			x: 5.25d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1A26027A229F6C4A"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4FE5DD745B1883A4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E3A053903368B35"
+				table_id: 8803231340933926144L
+				type: "choice"
+			}]
+			subtitle: "What should you build here?"
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					id: "64D897BF1C93313D"
+					item: { Count: 64, id: "minecraft:snow_block" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "0A835B68C7A75D0B"
+					item: { Count: 64, id: "minecraft:ice" }
+					type: "item"
+				}
+			]
+			title: "You're bored"
+			x: 14.5d
+			y: -3.0d
+		}
+		{
+			disable_toast: true
+			id: "759E3668D8938E15"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"\",\"color\":\"green\"},{\"text\":\"You built an X! Nothing seems to have happened...\",\"color\":\"white\"}]"
+				elevate_perms: true
+				id: "60D5CFBE4E43C7E1"
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				id: "3B09FD449B7F4B6B"
+				type: "checkmark"
+			}]
+			title: "X"
+			x: 5.25d
+			y: -3.25d
+		}
+		{
+			disable_toast: true
+			id: "686C771BE4782EF1"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"\",\"color\":\"green\"},{\"text\":\"You built a circle! You feel as if it's missing something in the middle...\",\"color\":\"white\"}]"
+				elevate_perms: true
+				id: "18F8DE479D3DC19A"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				id: "576BF7E7B7840FC4"
+				title: "Circle"
+				type: "checkmark"
+			}]
+			x: 5.25d
+			y: -0.75d
+		}
+		{
+			dependencies: ["38E11E9FC7A762C9"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "1A26027A229F6C4A"
+			invisible: true
+			size: 1.0E-6d
+			tasks: [{
+				disable_toast: true
+				id: "05CAC2B3B2217115"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			disable_toast: true
+			id: "38E11E9FC7A762C9"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 1A26027A229F6C4A"
+				elevate_perms: true
+				id: "3DD43FB1ED69AB46"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "2E776419458238AD"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 2.75d
+		}
+		{
+			dependencies: ["759E3668D8938E15"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "0E3C24FB236DCA29"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 4FE5DD745B1883A4"
+					elevate_perms: true
+					id: "7FBD582E492CB2CF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 759E3668D8938E15"
+					elevate_perms: true
+					id: "7AA60E97EB425DC6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 0E3C24FB236DCA29"
+					elevate_perms: true
+					id: "14100CB62C7F4D81"
+					silent: true
+					type: "command"
+				}
+			]
+			size: 1.0E-6d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "629FED4FDD7BF6D0"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -3.25d
+		}
+		{
+			dependencies: ["686C771BE4782EF1"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "7E5CEF54F19F105B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 686C771BE4782EF1"
+					elevate_perms: true
+					id: "257864CE179D5A75"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 4FE5DD745B1883A4"
+					elevate_perms: true
+					id: "55FBC4516DBBBE33"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 7E5CEF54F19F105B"
+					elevate_perms: true
+					id: "29956BE1BEB9871E"
+					silent: true
+					type: "command"
+				}
+			]
+			size: 1.0E-6d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "37DE5225A476C8BB"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["1FB5D80C615009FE"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "01F2C32EE5C3A8A5"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests open_book"
+				elevate_perms: true
+				id: "454688B47B0689DF"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "4247CB4FAF9D916A"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1FB5D80C615009FE"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "5B4E785AB75A9308"
+			rewards: [{
+				id: "4DEC18E371BD2564"
+				item: {
+					Count: 1
+					id: "aquamirae:coral_lance"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:unbreaking"
+							lvl: 4s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			size: 2.0d
+			subtitle: "It emits a strange aura..."
+			tasks: [
+				{
+					consume_items: true
+					count: 2L
+					id: "019A7ACA90F2BDC0"
+					item: "aquamirae:ship_graveyard_echo"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "14B1F2ED499ECD2C"
+					item: {
+						Count: 1
+						id: "archers:diamond_spear"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "45E841362BF8DA1A"
+					points: false
+					type: "xp"
+					value: 30L
+				}
+			]
+			title: "Coral Lance"
+			x: 14.475938523557588d
+			y: -3.0518707482993364d
+		}
+	]
+	title: "Aquamirae"
+}

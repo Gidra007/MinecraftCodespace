@@ -1,0 +1,1947 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "magical_experience"
+	group: "7DDF61ACA25A05AB"
+	icon: "spell_engine:spell_binding"
+	id: "4BA97909341A9328"
+	images: [
+		{
+			click: "#57F6721A3BCC2E36"
+			height: 3.0d
+			hover: ["Click here to move to Spellswords!"]
+			image: "fantasy_mc:textures/asword.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.6785714285714235d
+			y: -0.9642857142857153d
+		}
+		{
+			click: "#2A909EE8D9E8EA48"
+			height: 4.980310880829015d
+			hover: ["Click here to move to Wizards!"]
+			image: "fantasy_mc:textures/staff.png"
+			rotation: 90.0d
+			width: 1.2d
+			x: -0.5d
+			y: -6.1d
+		}
+		{
+			click: "#2E963BA230AFEE02"
+			height: 2.0d
+			hover: ["Click here to move to Paladins!"]
+			image: "merchantmarkers:textures/entity/villager/markers/paladins__monk.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.75d
+			y: -0.75d
+		}
+		{
+			click: "#15776A5EF5833CE8"
+			height: 1.0d
+			hover: ["Spell Engine Dependent mods tutorial for Dummies 101"]
+			image: "jei:textures/gui/icons/info.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -3.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "73E56BAC1D1B3D56"
+			rewards: [
+				{
+					count: 3
+					id: "5E6834270CF8265B"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "7907229C52C056EE"
+					item: "minecraft:lapis_lazuli"
+					type: "item"
+				}
+				{
+					id: "6BE79C98DA1C3635"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Put a book on here to create a spellbook and then put that in here to apply spells!"
+			tasks: [{
+				id: "12805CF026E72081"
+				item: "spell_engine:spell_binding"
+				type: "item"
+			}]
+			title: "Craft a Spell Binding Table"
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["693BA7B653390D07"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "3D8ED4F6E8C8974C"
+			rewards: [
+				{
+					count: 2
+					id: "3B9B8480FD4EF8D2"
+					item: "runes:arcane_stone"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3E650077F7076F2F"
+					item: "runes:fire_stone"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4023B9F7C0A4EE2A"
+					item: "runes:frost_stone"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "527DC23FDDA50A95"
+					item: "runes:healing_stone"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1EDC2A2F2FFAA5F1"
+					item: "runes:lightning_stone"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "728319A34394258B"
+					item: "runes:soul_stone"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "75175B7B359B45C4"
+					item: "runes:arcane_stone"
+					type: "item"
+				}
+				{
+					id: "4482B51DAC1D6B10"
+					item: "runes:frost_stone"
+					type: "item"
+				}
+				{
+					id: "10B019571E4C416B"
+					item: "runes:fire_stone"
+					type: "item"
+				}
+				{
+					id: "2A4A89503121E4E2"
+					item: "runes:healing_stone"
+					type: "item"
+				}
+				{
+					id: "1774469FD2EA31E9"
+					item: "runes:lightning_stone"
+					type: "item"
+				}
+				{
+					id: "1EEC05BBE224324F"
+					item: "runes:soul_stone"
+					type: "item"
+				}
+			]
+			title: "Craft all Rune types"
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "693BA7B653390D07"
+			rewards: [{
+				id: "39B5BE5E7D9DE9D5"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "2F6BD035F9211BA8"
+				item: "runes:crafting_altar"
+				type: "item"
+			}]
+			title: "Craft the Rune Crafting Table"
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3D8ED4F6E8C8974C"]
+			id: "3359558A272EAAC4"
+			rewards: [{
+				id: "671A7C658A7B6FB6"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "14F9E887F110059B"
+				item: "spellbladenext:runefrost_ingot"
+				type: "item"
+			}]
+			title: "Craft a Runefrost Ingot"
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3D8ED4F6E8C8974C"]
+			id: "618C521F620411C2"
+			rewards: [{
+				id: "38AA0DDFFD76C745"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "34A11498C7BB91BF"
+				item: "spellbladenext:runegleam_ingot"
+				type: "item"
+			}]
+			title: "Craft a Runegleam Ingot"
+			x: -0.5d
+			y: -6.75d
+		}
+		{
+			dependencies: ["3D8ED4F6E8C8974C"]
+			id: "6C2B68B1A533C986"
+			rewards: [{
+				id: "5FF2CE0736FEA38B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "519290AE9A93432C"
+				item: "spellbladenext:runeblaze_ingot"
+				type: "item"
+			}]
+			title: "Craft a Runeblaze Ingot"
+			x: 1.71d
+			y: -3.42d
+		}
+		{
+			dependencies: ["6C2B68B1A533C986"]
+			id: "0ABDCB4BCC04B40D"
+			rewards: [{
+				id: "45662D1529A06472"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "34AA8271D1C1DABC"
+					item: {
+						Count: 1
+						id: "spellbladenext:runeblazing_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2C60D01C4495DFA2"
+					item: {
+						Count: 1
+						id: "spellbladenext:runeblazing_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "418B6B18CEE86233"
+					item: {
+						Count: 1
+						id: "spellbladenext:runeblazing_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0087E0E89F32E066"
+					item: {
+						Count: 1
+						id: "spellbladenext:runeblazing_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft Runeblaze Armor"
+			x: 3.23d
+			y: -4.56d
+		}
+		{
+			dependencies: ["6C2B68B1A533C986"]
+			id: "6413F606958D56F4"
+			rewards: [{
+				id: "743EA53D5ACCD247"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [
+				{
+					id: "3CEFBCE7B1319080"
+					item: {
+						Count: 1
+						id: "spellbladenext:blazing_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "57B5531D362E559B"
+					item: {
+						Count: 1
+						id: "spellbladenext:blazing_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6485CF7431C2DC05"
+					item: {
+						Count: 1
+						id: "spellbladenext:blazing_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft Blazing Magister Armor"
+			x: 3.25d
+			y: -2.5d
+		}
+		{
+			dependencies: ["618C521F620411C2"]
+			id: "195DEC774B7157E5"
+			rewards: [{
+				id: "32260A9DA5966F81"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "4FFF509EFE7A91DE"
+					item: {
+						Count: 1
+						id: "spellbladenext:runegleaming_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1E5E66D02A846AAC"
+					item: {
+						Count: 1
+						id: "spellbladenext:runegleaming_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2713ACC9DB5D9789"
+					item: {
+						Count: 1
+						id: "spellbladenext:runegleaming_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "20D6ED0D16BBEFA4"
+					item: {
+						Count: 1
+						id: "spellbladenext:runegleaming_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft Runegleam Armor"
+			x: 0.75d
+			y: -8.0d
+		}
+		{
+			dependencies: ["618C521F620411C2"]
+			id: "6E36949B586BEE14"
+			rewards: [{
+				id: "30B4786D4965736E"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [
+				{
+					id: "698673873020FF5B"
+					item: {
+						Count: 1
+						id: "spellbladenext:gleaming_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2540A44B069B762C"
+					item: {
+						Count: 1
+						id: "spellbladenext:gleaming_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C8B4C8FA042739F"
+					item: {
+						Count: 1
+						id: "spellbladenext:gleaming_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft Gleaming Magister Armor"
+			x: -1.75d
+			y: -8.0d
+		}
+		{
+			dependencies: ["3359558A272EAAC4"]
+			id: "2E25908314907E68"
+			rewards: [{
+				id: "6C5FD853B4B3D33E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "45F8E9C5BAA47E7A"
+					item: {
+						Count: 1
+						id: "spellbladenext:runefrosted_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "736548C124532365"
+					item: {
+						Count: 1
+						id: "spellbladenext:runefrosted_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "174B58DC10D8C040"
+					item: {
+						Count: 1
+						id: "spellbladenext:runefrosted_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3153795EE6451DE7"
+					item: {
+						Count: 1
+						id: "spellbladenext:runefrosted_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft Runefrost Armor"
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3359558A272EAAC4"]
+			id: "7883A19571A8FEAF"
+			rewards: [{
+				id: "6BDFC9354FCEB24C"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [
+				{
+					id: "437151A6E9D43EF6"
+					item: {
+						Count: 1
+						id: "spellbladenext:frozen_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0FE190833FD31EFE"
+					item: {
+						Count: 1
+						id: "spellbladenext:frozen_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "19AD07B4421AF483"
+					item: {
+						Count: 1
+						id: "spellbladenext:frozen_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1041245258653732"
+					item: {
+						Count: 1
+						id: "spellbladenext:frozen_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft Deathchill Magister Armor"
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "1C1DE68A3D929448"
+			rewards: [{
+				id: "0E1164CDE8E1766C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "66B275ABA6EB49BF"
+				item: {
+					Count: 1
+					id: "wizards:arcane_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Obtain the Tome of Arcane"
+			x: -3.5d
+			y: -9.75d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "0D7E66076BB2C733"
+			rewards: [{
+				id: "6F15A8906573AF93"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "71CFEE5BB48DF4E0"
+				item: {
+					Count: 1
+					id: "wizards:fire_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Obtain the Tome of Fire"
+			x: 4.75d
+			y: -5.25d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5F16C50A3B4E9AAF"
+			rewards: [{
+				id: "3B6CE3CF6F751D65"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "04B1F84D0850EF14"
+				item: {
+					Count: 1
+					id: "wizards:frost_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Obtain the Tome of Frost"
+			x: -5.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "69764B398627CAEB"
+			rewards: [{
+				id: "6E59B7076738E5FE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4E5C417F9F2ADA8B"
+				item: {
+					Count: 1
+					id: "spellbladenext:arcane_battlemage_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Obtain the Arcane Techniques"
+			x: 2.5d
+			y: -9.75d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "647794FA22C32F0F"
+			rewards: [{
+				id: "2CC65E0D1E22DA6C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "243EEC972F47F029"
+				item: {
+					Count: 1
+					id: "spellbladenext:fire_battlemage_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Obtain the Fire Techniques"
+			x: 5.75d
+			y: -4.25d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "3753AAC73F2B0343"
+			rewards: [{
+				id: "06FD5DEAB8EB96D9"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "62500CAB01EE13AD"
+				item: {
+					Count: 1
+					id: "spellbladenext:frost_battlemage_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Obtain the Frost Techniques"
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "35CF12EAC527A2A5"
+			rewards: [{
+				id: "39AC9F12337EA3FA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1FE3F7F47E7CAE80"
+				item: {
+					Count: 1
+					id: "paladins:priest_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Obtain the Holy Book"
+			x: -3.25d
+			y: 5.0d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "021A4081EB1B81BA"
+			rewards: [{
+				id: "1D382347570ED78B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "15418D29940FAC83"
+				item: {
+					Count: 1
+					id: "paladins:paladin_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Obtain the Paladin Libram"
+			x: 2.25d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3D8ED4F6E8C8974C"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "runes:arcane_stone"
+			id: "0485842149986A00"
+			rewards: [{
+				auto: "enabled"
+				count: 5
+				id: "02F765FAA4F05745"
+				item: "runes:arcane_stone"
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				entity: "spellbladenext:magister"
+				icon: "spellbladenext:offering"
+				id: "2CA5338C3FB54F68"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Arcane Rune"
+			x: -0.5d
+			y: -9.25d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3D8ED4F6E8C8974C"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "runes:frost_stone"
+			id: "6D3E789A0945E05F"
+			rewards: [{
+				auto: "enabled"
+				count: 5
+				id: "1696CD3F93833A03"
+				item: "runes:frost_stone"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:stray"
+				id: "1377635907758AEA"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Frost Rune"
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3D8ED4F6E8C8974C"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "runes:fire_stone"
+			id: "15FDEB8D6AD9E955"
+			rewards: [{
+				auto: "enabled"
+				count: 5
+				id: "70D61BAA87B16F9B"
+				item: "runes:fire_stone"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "1F5396EC6DAAC991"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Fire Rune"
+			x: 4.25d
+			y: -3.5d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "30B60FEA039AA373"
+			rewards: [{
+				id: "183599CD9C241B48"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "16C4023F1B37DCCC"
+				item: {
+					Count: 1
+					id: "invoke:invoker_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "52D6C04A1112860F"
+			rewards: [{
+				id: "73D34126AB046BCD"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "692AC2FC207A8582"
+				item: {
+					Count: 1
+					id: "archers:archer_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"693BA7B653390D07"
+				"7DFE0BDE2F9F3433"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "3926D8E7EFF98B4A"
+			rewards: [
+				{
+					id: "6B6A6492A03FB0B6"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "3C423B803CBCFEA9"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "2B03091DEA05B35B"
+				item: {
+					Count: 1
+					id: "spellbladenext:magus_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.75d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"693BA7B653390D07"
+				"7DFE0BDE2F9F3433"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "78D5991C5CBDA5C6"
+			rewards: [
+				{
+					id: "6DF7B60C5E51AAD3"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "331D3531B9847655"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "3E73BC8989A30B9C"
+				item: {
+					Count: 1
+					id: "spellbladenext:magus_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.75d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"693BA7B653390D07"
+				"7DFE0BDE2F9F3433"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "00B642D06492CA00"
+			rewards: [
+				{
+					id: "2E968A483555E320"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "2CF9EDB0B2E9EB70"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "3DFBCB542456A077"
+				item: {
+					Count: 1
+					id: "spellbladenext:magus_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.25d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"693BA7B653390D07"
+				"7DFE0BDE2F9F3433"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "117D0FE36E4D926A"
+			rewards: [
+				{
+					id: "0215DC2F92364B8D"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "34C45F9558603746"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "4FD771DA75108BB0"
+				item: {
+					Count: 1
+					id: "spellbladenext:magus_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "40BFF039EBCC37F3"
+			rewards: [{
+				id: "7231F3376F74B1BC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5E6FDE0E68281920"
+				item: {
+					Count: 1
+					id: "spellbladenext:deathchill_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73E56BAC1D1B3D56"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "1E4C5237694A1D06"
+			rewards: [{
+				id: "251F75A2656327B5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "21DC881C5F522F5C"
+				item: {
+					Count: 1
+					id: "spellbladenext:runic_echoes_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3D8ED4F6E8C8974C"
+				"7DFE0BDE2F9F3433"
+			]
+			id: "33CC50A9DBD79DFC"
+			tasks: [
+				{
+					id: "3BEDE63BA7D3420A"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "768464669666AF7D"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "789FB9CE044C4066"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "12825A9AF58C3CF8"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 3.25d
+		}
+		{
+			dependencies: [
+				"3D8ED4F6E8C8974C"
+				"7DFE0BDE2F9F3433"
+			]
+			id: "15F15D683A28C041"
+			tasks: [
+				{
+					id: "3BEDE0BBF3890B03"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "138BDF9033D4DA45"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3DEBA5021E512310"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1A55CA5D8ED5927B"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"3D8ED4F6E8C8974C"
+				"7DFE0BDE2F9F3433"
+			]
+			id: "256623E704668EE1"
+			tasks: [
+				{
+					id: "09536163F292E1D7"
+					item: {
+						Count: 1
+						id: "paladins:prior_robe_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "17158830A77E00D8"
+					item: {
+						Count: 1
+						id: "paladins:prior_robe_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4510F2A9B1D165D0"
+					item: {
+						Count: 1
+						id: "paladins:prior_robe_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "747F23275D8AC6E1"
+					item: {
+						Count: 1
+						id: "paladins:prior_robe_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"3D8ED4F6E8C8974C"
+				"7DFE0BDE2F9F3433"
+			]
+			id: "1B74F3BFC44B50F3"
+			tasks: [
+				{
+					id: "6E9D46E27B772B74"
+					item: {
+						Count: 1
+						id: "paladins:priest_robe_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "64CD23476D340DD1"
+					item: {
+						Count: 1
+						id: "paladins:priest_robe_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "51A908011A88D5D5"
+					item: {
+						Count: 1
+						id: "paladins:priest_robe_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "17B5F97C6D917008"
+					item: {
+						Count: 1
+						id: "paladins:priest_robe_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 3.25d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"3D8ED4F6E8C8974C"
+				"7DFE0BDE2F9F3433"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "runes:healing_stone"
+			id: "6448461EAF0386D1"
+			rewards: [{
+				auto: "enabled"
+				count: 5
+				id: "063FF89BDEE339A3"
+				item: "runes:healing_stone"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "4C47F0537EAF6682"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Healing Rune"
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DFE0BDE2F9F3433"]
+			id: "4344BEBDD2921686"
+			rewards: [{
+				id: "15BE3A7994B97253"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6A375D0152C77C8D"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:blue_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "27B27C526C650414"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:blue_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "350ED84BA1C95146"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:blue_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DEA652DD6584444"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:blue_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Noble Knight Set"
+			x: -6.0d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"73E56BAC1D1B3D56"
+				"7DFE0BDE2F9F3433"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "0A820D48F1338722"
+			rewards: [{
+				id: "309E6583C1C9624C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4F8253088A926FBA"
+				item: {
+					Count: 1
+					id: "spellbladenext:phoenix_spell_book"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["7DFE0BDE2F9F3433"]
+			id: "61787A01B304F032"
+			rewards: [{
+				id: "222EAF134495F06A"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "442A3439C5BFB3C2"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:dark_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E53FD98BB41E34D"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:dark_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7F8429B0350553C8"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:dark_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "08A460C5A379748E"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:dark_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Dark Knight Set"
+			x: 5.25d
+			y: -9.5d
+		}
+		{
+			dependencies: ["7DFE0BDE2F9F3433"]
+			id: "438E5D86759B793C"
+			rewards: [{
+				id: "654755BBE32C1C8D"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "10EDB4BD54C9C4F3"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:elite_mage_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "17D93AEBEEE8109A"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:elite_mage_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C3248004FB32374"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:elite_mage_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "642C636C07A631FF"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:elite_mage_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Elite Wizard Set"
+			x: 5.75d
+			y: 2.25d
+		}
+		{
+			dependencies: ["7DFE0BDE2F9F3433"]
+			id: "043DC9B83438BF47"
+			rewards: [{
+				id: "12966A3605974B0D"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "68637287F045C6E5"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:armored_mage_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "58C6BE7E5F90B502"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:armored_mage_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28FCB10200A40759"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:armored_mage_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "063FAB37EE02A31E"
+					item: {
+						Count: 1
+						id: "epicknightsnmages:armored_mage_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Elite Battlemage Set"
+			x: -6.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["7DFE0BDE2F9F3433"]
+			id: "1ADC809FA471DD97"
+			rewards: [{
+				count: 2
+				id: "655CFFA6BA317CCE"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "75EB84ABE38143AF"
+					item: {
+						Count: 1
+						id: "spellbladenext:frostherald_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3E4D6F1259377A93"
+					item: {
+						Count: 1
+						id: "spellbladenext:frostherald_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "669D29224C117305"
+					item: {
+						Count: 1
+						id: "spellbladenext:frostherald_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D3406D79BCD3B83"
+					item: {
+						Count: 1
+						id: "spellbladenext:frostherald_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Frigid Herald Set"
+			x: -2.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["7DFE0BDE2F9F3433"]
+			id: "496F13BC7BB8B1FE"
+			rewards: [{
+				count: 2
+				id: "7D182C55A1B3F56A"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "302680419FE7A879"
+					item: {
+						Count: 1
+						id: "spellbladenext:arcaneherald_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50FAC3ADFC2E0DFD"
+					item: {
+						Count: 1
+						id: "spellbladenext:arcaneherald_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F75F93D6A72D1E5"
+					item: {
+						Count: 1
+						id: "spellbladenext:arcaneherald_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1770D50247EDFF35"
+					item: {
+						Count: 1
+						id: "spellbladenext:arcaneherald_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Enigmatic Herald Set"
+			x: 1.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["7DFE0BDE2F9F3433"]
+			id: "23C164B6E78850F8"
+			rewards: [{
+				count: 2
+				id: "7D6D022BD3E1C302"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0ABD18B1E18DC8D7"
+					item: {
+						Count: 1
+						id: "spellbladenext:ashherald_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3FCDB0002C4B0F98"
+					item: {
+						Count: 1
+						id: "spellbladenext:ashherald_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3E35F64C5AD0AE86"
+					item: {
+						Count: 1
+						id: "spellbladenext:ashherald_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6D0054205542829B"
+					item: {
+						Count: 1
+						id: "spellbladenext:ashherald_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Ashen Herald Set"
+			x: -0.5d
+			y: -12.75d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"3D8ED4F6E8C8974C"
+				"7DFE0BDE2F9F3433"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "runes:soul_stone"
+			id: "01C8871DD80CAAA6"
+			rewards: [{
+				auto: "enabled"
+				count: 5
+				id: "310E3A0BD6AA3DE3"
+				item: "runes:soul_stone"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "06907D59CCBFEB14"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Frost Rune"
+			x: -5.0d
+			y: -8.25d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"3D8ED4F6E8C8974C"
+				"7DFE0BDE2F9F3433"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "runes:lightning_stone"
+			id: "06C808576A70A606"
+			rewards: [{
+				auto: "enabled"
+				count: 5
+				id: "2757DC9D068BFC2C"
+				item: "runes:lightning_stone"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "714CD711DC0B8800"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Frost Rune"
+			x: 4.0d
+			y: -8.25d
+		}
+		{
+			dependencies: ["3D8ED4F6E8C8974C"]
+			id: "634BCF4BD7A8516B"
+			rewards: [{
+				id: "7A411EEE4AD2ADAC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "10B7035B281B27B5"
+				item: {
+					Count: 1
+					id: "druids:shard_arcane"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.25d
+			y: -8.25d
+		}
+		{
+			dependencies: ["3D8ED4F6E8C8974C"]
+			id: "6CAEA299AF38A805"
+			rewards: [{
+				id: "2E271DE5E25AE579"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3FB9183ABC33BF95"
+				item: {
+					Count: 1
+					id: "druids:shard_frost"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3D8ED4F6E8C8974C"]
+			id: "1695C4204563B905"
+			rewards: [{
+				id: "24A1A698E1C698F7"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "69F4CA195C034A46"
+				item: {
+					Count: 1
+					id: "druids:shard_fire"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.75d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3D8ED4F6E8C8974C"]
+			id: "23203CAF1727467F"
+			rewards: [{
+				id: "2F26221BD4CD7585"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7C63BA566A508054"
+				item: {
+					Count: 1
+					id: "druids:shard_lightning"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -8.25d
+		}
+		{
+			description: [
+				"<typewriter>Weapons with <rainb>\"Casts Spells from equipped Spellbooks\"</rainb> are able to use spells from spellbooks."
+				"Where can one get a <rainb>Spellbook</rainb>?"
+				"- By surrounding a &e<shake>Spell Binding Table</shake>&r with Bookshelves just like a lvl 30 Enchanting Table, placing a book inside will bring out a list of &e<shake>Spellbooks</shake>&r, you will also need lapis to actually get the book."
+				"How can one equip the <rainb>Spellbook</rainb>?"
+				"- By hovering over the &e<shake>Charm (Trinkets) slot</shake>&r, you will see the slot for the Spellbook, place it there."
+				"How does one get more <rainb>Spells</rainb> on their Spellbook?"
+				"- By doing the same as what you did to acquire the book, place the &e<shake>Spellbook</shake>&r in the &e<shake>Spell Binding Table</shake>&r along with a few lapis, a list of available spells will be shown."
+				"- Use Archon's spellbooks, shift right-clicking with a &e<shake>Wand</shake>&r will cycle through applicable spells from that element. "
+				"<shake>ARCHON SPELLBOOKS ARE NOT THE SAME AS SPELL DEPENDENT MODS SPELLBOOKS"
+			]
+			disable_toast: true
+			id: "15776A5EF5833CE8"
+			rewards: [
+				{
+					id: "1971817ECD319F0A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "637422F352C9816A"
+					item: "archon:fireball_tome"
+					type: "item"
+				}
+			]
+			size: 1.0E-6d
+			subtitle: "As of 2.9.3a, Archon's Mana is integrated with RPGMana, meaning you're able to use spells from spell dependent mods if you have enough mana (free) (still able to use runes). Archon's spells uses this mana as well."
+			tasks: [
+				{
+					id: "60C2FB659C5B3B0D"
+					item: {
+						Count: 1
+						id: "wizards:wand_frost"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E6D35EB4817D105"
+					item: "runes:frost_stone"
+					type: "item"
+				}
+				{
+					id: "769E60EAD9586F50"
+					item: "spell_engine:spell_binding"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "4CA191F0B925840B"
+					item: { Count: 16, id: "minecraft:bookshelf" }
+					type: "item"
+				}
+				{
+					id: "4E036FD5C88A6901"
+					item: {
+						Count: 1
+						id: "wizards:frost_spell_book"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "1D9E4E367D04BC1F"
+					item: {
+						Count: 1
+						id: "archon:fire_wand"
+						tag: {
+							archon: { }
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Spell Engine Dependent mods tutorial for Dummies 101"
+			x: -0.5d
+			y: -3.5d
+		}
+	]
+	subtitle: ["Spell Power Mods"]
+	title: "Magical Experience &b🔮"
+}

@@ -1,0 +1,1556 @@
+{
+	autofocus_id: "11B0C36A8AC60FBA"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "chapter_1"
+	group: "1AAFABCE3EF340C4"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "fantasy_mc:textures/overworld.png"
+		}
+	}
+	id: "0E7D5F6CF416A64F"
+	images: [
+		{
+			height: 4.0d
+			image: "fantasy_mc:textures/border1.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			click: "#10EF7E6F2A9401ED"
+			height: 1.0d
+			hover: ["Click me!"]
+			image: "betternether:block/basalt_furnace_front_on"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.007653061224481d
+			y: 0.1785714285714377d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.007653061224481d
+			y: -0.6785714285714164d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_hanging"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.864795918367335d
+			y: -0.2295918367346914d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.864795918367335d
+			y: -0.6785714285714164d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.02806122448979d
+			y: -1.556122448979579d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.150510204081627d
+			y: -0.698979591836725d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.150510204081627d
+			y: -1.556122448979579d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.885204081632644d
+			y: -1.556122448979579d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.742346938775498d
+			y: -0.6989795918367321d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.72193877551019d
+			y: -1.5153061224489761d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.885204081632637d
+			y: -2.4132653061224474d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.048469387755084d
+			y: -2.4132653061224474d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.170918367346921d
+			y: -2.4132653061224474d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.272959183673457d
+			y: -0.7193877551020336d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.313775510204067d
+			y: -1.5765306122448948d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_hanging"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.721938775510196d
+			y: -1.1683673469387728d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_hanging"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.477040816326515d
+			y: -1.8010204081632608d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_hanging"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.207653061224477d
+			y: -2.037755102040819d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_birch_leaves_hanging"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.354591836734677d
+			y: -0.45408163265305745d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.011734693877543d
+			y: 1.8683673469387827d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.154591836734681d
+			y: 1.8683673469387827d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.052551020408153d
+			y: 2.6846938775510267d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.297448979591827d
+			y: 1.8683673469387827d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.868877551020397d
+			y: 1.8683673469387827d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.726020408163258d
+			y: 1.8683673469387827d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.195408163265292d
+			y: 2.705102040816328d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.889285714285705d
+			y: 2.705102040816328d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.60357142857142d
+			y: 3.541836734693881d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.74642857142856d
+			y: 3.541836734693888d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.670238095238062d
+			y: 2.7173469387755134d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.338265306122437d
+			y: 2.7051020408163353d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.221598639455742d
+			y: 3.541156462585029d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.807653061224485d
+			y: 3.5214285714285793d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_grass_3"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cornflower"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 1.0d
+		}
+		{
+			click: "#0015259C12B78EF1"
+			height: 2.0d
+			image: "fantasy_mc:textures/steve.png"
+			rotation: 0.0d
+			width: 2.3d
+			x: -11.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.8545396376372096d
+			y: -0.9491496598639344d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.856240317909311d
+			y: 1.0185374149660191d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7133831750521722d
+			y: 1.0185374149660191d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5705260321950405d
+			y: 1.0185374149660191d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4276688893378946d
+			y: 1.0185374149660191d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.284811746480756d
+			y: 1.0185374149660191d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.025392335360038E-4d
+			y: 1.2566326530612528d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.856240317909311d
+			y: 1.2566326530612528d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7133831750521793d
+			y: 1.2566326530612528d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5705260321950263d
+			y: 1.2566326530612528d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4276688893378875d
+			y: 1.2566326530612528d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.284811746480742d
+			y: 1.2566326530612528d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.856240317909311d
+			y: 1.518537414966012d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7133831750521793d
+			y: 1.518537414966012d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5705260321950263d
+			y: 1.518537414966012d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4276688893378875d
+			y: 1.518537414966012d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.284811746480742d
+			y: 1.518537414966012d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.9990974607664569d
+			y: 0.7090136054422089d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.9990974607664569d
+			y: -0.12431972789112677d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.9973967804943555d
+			y: -0.9491496598639344d
+		}
+		{
+			click: "#29CF713A0B5F1038"
+			height: 1.0d
+			image: "minecraft:block/oak_door_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.854539637637231d
+			y: -0.13282312925169037d
+		}
+		{
+			click: "#29CF713A0B5F1038"
+			height: 1.0d
+			image: "minecraft:block/oak_door_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.856240317909318d
+			y: 0.6852040816326834d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.688190901360521d
+			y: 1.005612244897975d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.688190901360521d
+			y: 1.2505102040816496d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.688190901360521d
+			y: 1.4750000000000156d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.711682494780071d
+			y: -0.17363945578230044d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.711682494780071d
+			y: 0.6835034013605608d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.711682494780071d
+			y: -0.9491496598639344d
+		}
+		{
+			height: 1.0d
+			image: "bakery:block/cake_stand_glass_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.8341314743719224d
+			y: -0.2552721088435277d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.2831110662086616d
+			y: 1.7855442176870966d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4259682090658075d
+			y: 1.7855442176870966d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5688253519229463d
+			y: 1.7855442176870966d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7116824947800993d
+			y: 1.7855442176870966d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8545396376372381d
+			y: 1.7855442176870966d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.00260321950563025d
+			y: 1.79d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.688190901360521d
+			y: 1.7811224489796018d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7167845355964175d
+			y: 1.0049319727891302d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0024988213107022d
+			y: 0.9845238095238287d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_trapdoor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7167845355964175d
+			y: 1.1886054421768932d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_trapdoor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0024988213107022d
+			y: 1.2294217687075033d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.16576412743315672d
+			y: 0.14778911564626895d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.1657641274331425d
+			y: 0.9845238095238287d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/peat_grass_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5739273927392645d
+			y: 1.0049319727891302d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_trapdoor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5739273927392645d
+			y: 1.1886054421768932d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_trapdoor"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.1657641274331425d
+			y: 1.2294217687075033d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.16576412743315672d
+			y: -0.3215986394557717d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.16576412743315672d
+			y: -0.9746598639455684d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5551020408163225d
+			y: 0.17755102040816695d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5551020408163225d
+			y: -0.23061224489796217d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5551020408163225d
+			y: -0.9448979591836704d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/poppy"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5551020408163225d
+			y: 0.2795918367347028d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/poppy"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.1861722906984653d
+			y: 0.3518707482993335d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dandelion"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.757600862127049d
+			y: 0.29064625850341486d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dandelion"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.022906984576018d
+			y: 0.27023809523810627d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.737192698861726d
+			y: -1.8113945578231139d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5739273927392787d
+			y: -1.8113945578231139d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.880049841718872d
+			y: -1.8113945578231139d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.022906984576018d
+			y: -1.8113945578231139d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.16576412743315672d
+			y: -1.8113945578231139d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_planks"
+			rotation: 0.0d
+			width: 0.25d
+			x: 4.104539637637238d
+			y: 1.004931972789123d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_planks"
+			rotation: 0.0d
+			width: 0.25d
+			x: -0.3648481174647955d
+			y: 0.964115646258513d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: 4.145355964167855d
+			y: -1.5664965986394463d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: 3.7576008621270276d
+			y: -1.9950680272108698d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: 3.3086212702902955d
+			y: -2.403231292516999d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.4056644439954198d
+			y: -1.5869047619047478d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.058725668485209326d
+			y: -2.0154761904761784d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.41066208661683845d
+			y: -2.4236394557823004d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.8596416784535705d
+			y: -2.852210884353731d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.9004580049841735d
+			y: -2.8318027210884225d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.2065804539637668d
+			y: -3.260374149659853d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.4922947396780515d
+			y: -3.260374149659853d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.8596416784535563d
+			y: -3.668537414965975d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.920866168249482d
+			y: -2.668537414965975d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.063723311106628d
+			y: -2.668537414965975d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mossy_cobblestone"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.6759682090658217d
+			y: -2.668537414965975d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/torch"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/torch"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.8152104591836817d
+			y: -1.8107142857142833d
+		}
+		{
+			height: 1.2d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.726881377551024d
+			y: -2.21377551020408d
+		}
+		{
+			click: "#4DC1FFE7F51C774D"
+			height: 1.5d
+			hover: ["Next"]
+			image: "fantasy_mc:textures/newquestimg/next.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			click: "#7E81B8B6138F1BFE"
+			height: 1.5d
+			hover: ["Menu"]
+			image: "fantasy_mc:textures/newquestimg/menu.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			click: "#08FB8566BA1005C9"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -7.0200000000000005d
+			y: 2.535d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"6CABE5D96EE566FD"
+				"347C252B95C7060E"
+			]
+			id: "4427AD21161C6FFF"
+			rewards: [
+				{
+					count: 12
+					id: "0494527D862F3B7D"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "5AC6B66386D27E5E"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					id: "3D4BB887EA9717F1"
+					item: "paraglider:goddess_statue"
+					type: "item"
+				}
+			]
+			subtitle: "Find a Village"
+			tasks: [{
+				icon: "artifacts:villager_hat"
+				id: "4FAF5AAEAE2FC474"
+				structure: "#minecraft:village"
+				type: "structure"
+			}]
+			title: "&2Civilization?&r"
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"5A9BC3519BB4FDF0"
+				"347C252B95C7060E"
+			]
+			id: "6CABE5D96EE566FD"
+			rewards: [
+				{
+					command: "/execute as @p at @p run puffish_skills points add @p simplyskills:tree 1"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "fantasy_mc:textures/newquestimg/scroll.png"
+						}
+					}
+					id: "46D62A71BF7F0481"
+					silent: true
+					title: "+1 Skill Point"
+					type: "command"
+				}
+				{
+					id: "083D71128EAF24B0"
+					item: {
+						Count: 1
+						id: "travellersbootsreloaded:travellers_boots_tier1"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Preperation"
+			tasks: [
+				{
+					id: "76981E68FD365004"
+					item: {
+						Count: 1
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79B0BFF43BD7AA07"
+					item: {
+						Count: 1
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0D0DB4E8A1C772C4"
+					item: {
+						Count: 1
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "43D80B490251CC6C"
+					item: {
+						Count: 1
+						id: "minecraft:iron_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1AF789F7D0097A97"
+					item: {
+						Count: 1
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A02622605EA1709"
+					item: {
+						Count: 1
+						id: "minecraft:iron_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&bThe Neccessities"
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"54EF546728C3940D"
+				"347C252B95C7060E"
+			]
+			id: "2D96AD36D9D0EF0D"
+			rewards: [
+				{
+					id: "12CB59C9C3258876"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 117BF74771A3BF3B"
+					elevate_perms: true
+					id: "0D32033121C82B2A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5844818294FE2ECA"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "&5The Start of Everything"
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2D96AD36D9D0EF0D"]
+			id: "117BF74771A3BF3B"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 5A9BC3519BB4FDF0"
+				elevate_perms: true
+				id: "5BC1DE9ED4FCD511"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-4d
+			tasks: [{
+				consume_items: true
+				disable_toast: true
+				id: "7F2FF9694680DE34"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			x: -5.992857142857147d
+			y: 0.5948979591836547d
+		}
+		{
+			id: "5A9BC3519BB4FDF0"
+			size: 1.0E-4d
+			tasks: [{
+				consume_items: true
+				disable_toast: true
+				id: "7AC3D1F654DFE8A3"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			x: -5.564285714285717d
+			y: 1.0234693877550853d
+		}
+		{
+			dependencies: [
+				"4427AD21161C6FFF"
+				"347C252B95C7060E"
+			]
+			description: ["Unlocks the quest \"Obtain Verglas and Moonstone\"."]
+			id: "234255ED906CDB5C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @e[type=minecraft:villager,limit=1,sort=nearest] run tellraw @p {\"text\":\"\",\"color\":\"gray\",\"extra\":[{\"selector\":\"@e[type=minecraft:villager,limit=1,sort=nearest]\",\"color\":\"green\"},{\"text\":\" says: \"},{\"text\":\"You're a weird looking monkey... Here's some food for you..?\",\"color\":\"yellow\"}]}"
+					elevate_perms: true
+					id: "734D8738609DFACE"
+					silent: true
+					type: "command"
+				}
+				{
+					count: 12
+					id: "17E520224E00646C"
+					item: "livingthings:banana"
+					type: "item"
+				}
+			]
+			subtitle: "Look at the Villagers"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "ftbquests:textures/gui/search.png"
+					}
+				}
+				id: "24A6F8164ADB15F1"
+				observe_type: 5
+				timer: 200L
+				to_observe: "minecraft:villager"
+				type: "observation"
+			}]
+			title: "&4Observe your&r &3Locals&r"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "11B0C36A8AC60FBA"
+			tasks: [
+				{
+					entity: "minecraft:pillager"
+					icon: {
+						Count: 1
+						id: "minecraft:crossbow"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "1C3D6164E6C15665"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecraft:witch"
+					icon: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:healing"
+						}
+					}
+					id: "446E29717268BF1F"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecraft:vindicator"
+					id: "446383EBA3734571"
+					type: "kill"
+					value: 5L
+				}
+			]
+			title: "Angry Locals"
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "6D0D8E68AC830841"
+			rewards: [{
+				count: 4
+				id: "480334FF6AF372F3"
+				item: "minecraft:bone"
+				type: "item"
+			}]
+			subtitle: "Look at a dog"
+			tasks: [{
+				icon: "minecraft:bone"
+				id: "72B10E751CEA4F4B"
+				observe_type: 5
+				timer: 50L
+				title: "Observe a Wolf"
+				to_observe: "minecraft:wolf"
+				type: "observation"
+			}]
+			title: "&aMan's Best Friend"
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "33A3DE2DC67D4905"
+			rewards: [{
+				count: 4
+				id: "19EB825EF8DB7570"
+				item: "minecraft:salmon"
+				type: "item"
+			}]
+			subtitle: "Look at a cat"
+			tasks: [{
+				icon: "minecraft:salmon"
+				id: "49A3E5EB0C6E09F2"
+				observe_type: 5
+				timer: 50L
+				title: "Observe a Cat"
+				to_observe: "minecraft:cat"
+				type: "observation"
+			}]
+			title: "&aAgile Friend"
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["234255ED906CDB5C"]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+				}
+			}
+			id: "786EF8849EB60A40"
+			rewards: [
+				{
+					id: "600717E8A57C53FC"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "1126D1B7C7933C52"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					id: "0E82DB0DB8232006"
+					item: "origins:orb_of_origin"
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "3B09A3D81FE39061"
+				title: "&4C&dh&1a&3p&6t&ee&fr &0R&8e&2w&ca&7r&9d"
+				type: "checkmark"
+			}]
+			title: "<rainb>Chapter Reward"
+			x: -4.9857142857142875d
+			y: -2.9778911564626185d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "48E25C828AF37301"
+			rewards: [{
+				count: 2
+				id: "4EC464326F13684C"
+				item: "minecraft:golden_apple"
+				type: "item"
+			}]
+			subtitle: "Look at a Zar-ptak"
+			tasks: [{
+				icon: "mythicmounts:firebird_feather3"
+				id: "6F47FE473216789C"
+				observe_type: 5
+				timer: 50L
+				title: "Observe a Zar-ptak"
+				to_observe: "mythicmounts:firebird"
+				type: "observation"
+			}]
+			title: "&4Zar-ptak"
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "2B4283698594DD71"
+			rewards: [{
+				id: "63F620B7AA2D919E"
+				item: "deeperdarker:reinforced_echo_shard"
+				type: "item"
+			}]
+			subtitle: "Look at a Warden"
+			tasks: [{
+				icon: "deeperdarker:heart_of_the_deep"
+				id: "0932A377B8E32E39"
+				observe_type: 5
+				timer: 200L
+				title: "Observe a Warden"
+				to_observe: "minecraft:warden"
+				type: "observation"
+			}]
+			title: "&5???"
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "54EF546728C3940D"
+			rewards: [{
+				count: 5
+				id: "766CDC24E500C2D6"
+				item: "minecraft:apple"
+				type: "item"
+			}]
+			tasks: [{
+				id: "531458931DB2C484"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "Where are we?"
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"Min Reward: 4 "
+				"Max Reward: 36"
+			]
+			disable_toast: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/door.png"
+				}
+			}
+			id: "29CF713A0B5F1038"
+			invisible: true
+			rewards: [{
+				auto: "enabled"
+				count: 4
+				id: "2559B6EE97494421"
+				item: "minecraft:experience_bottle"
+				random_bonus: 32
+				team_reward: true
+				title: "4-36x Bottle o' Enchanting"
+				type: "item"
+			}]
+			subtitle: "<wave>Care to do a tradeeee?"
+			tasks: [{
+				consume_items: true
+				count: 24L
+				disable_toast: true
+				id: "47B8881AF3DEF30F"
+				item: { Count: 24, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			title: "Sketchy Villager"
+			x: 1.8571428571428683d
+			y: -0.9642857142857153d
+		}
+		{
+			id: "0015259C12B78EF1"
+			invisible: true
+			rewards: [
+				{
+					id: "1FB5BCA82FFF7A0F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "4641B572AA810952"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			size: 1.0E-5d
+			tasks: [{
+				id: "2125CADDE7697D4D"
+				title: "Easter egg!"
+				type: "checkmark"
+			}]
+			x: -11.0d
+			y: 0.0d
+		}
+		{
+			id: "547E3EBDB092E525"
+			invisible: true
+			size: 1.0E-6d
+			tasks: [{
+				count: 64L
+				id: "66AAFF69AAF9E86B"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Just to keep the quest centered"
+			x: -16.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "68D47F94182FC236"
+			rewards: [{
+				id: "11D4E777A1D69FB5"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "09E6BB8B98D24E26"
+				item: {
+					Count: 1
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+	]
+	subtitle: ["&aVast landscape surrounds you..."]
+	title: "Chapter 1"
+}
