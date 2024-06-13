@@ -403,6 +403,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "scorching_caves": "2024-06-11 21:04:21 +0000",
+      "magnolia_highlands": "2024-06-13 15:49:55 +0000",
       "sparse_redwoods": "2024-06-12 00:59:29 +0000",
       "deciduous_forest": "2024-06-13 06:20:54 +0000",
       "chalk_cliffs": "2024-06-11 18:43:23 +0000",
@@ -413,6 +414,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "magnolia_highlands": "2024-06-13 15:49:55 +0000",
       "sparse_redwoods": "2024-06-12 00:59:29 +0000",
       "deciduous_forest": "2024-06-13 06:20:54 +0000",
       "chalk_cliffs": "2024-06-11 18:43:23 +0000",
@@ -10039,51 +10041,9 @@
     },
     "done": true
   },
-  "mythicmetals:runite": {
-    "criteria": {
-      "buying_gf": "2024-06-13 12:35:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/altar_block": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/verglas_block": {
-    "criteria": {
-      "has_item": "2024-06-13 12:20:21 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2024-06-13 12:14:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2024-06-13 12:36:17 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/lucernia_hanging_sign": {
     "criteria": {
       "has_chain": "2024-06-13 11:43:41 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/moonstone_hoe": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
     },
     "done": true
   },
@@ -10099,45 +10059,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/skofnung_stone": {
-    "criteria": {
-      "has_item": "2024-06-13 12:20:21 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/stalagnate_hanging_sign": {
     "criteria": {
       "has_chain": "2024-06-13 11:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:verglas": {
-    "criteria": {
-      "item": "2024-06-13 12:20:21 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/bluemoon_shortsword": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2024-06-13 12:36:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-06-13 12:13:09 +0000"
     },
     "done": true
   },
@@ -10153,45 +10077,9 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2024-06-13 12:30:55 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/bluemoon_greatsword": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2024-06-13 11:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2024-06-13 12:13:09 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/phantom_armor_leggings": {
-    "criteria": {
-      "has_phantom_skin": "2024-06-13 12:08:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2024-06-13 12:14:05 +0000"
     },
     "done": true
   },
@@ -10207,12 +10095,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-06-13 12:13:09 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/dragon_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2024-06-13 11:43:41 +0000"
@@ -10225,39 +10107,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/phantom_armor_helmet": {
-    "criteria": {
-      "has_phantom_skin": "2024-06-13 12:08:16 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/loam": {
-    "criteria": {
-      "has_clay_ball": "2024-06-13 12:36:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2024-06-13 11:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-06-13 12:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-06-13 12:14:05 +0000"
     },
     "done": true
   },
@@ -10267,81 +10119,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/phantom_armor_boots": {
-    "criteria": {
-      "has_phantom_skin": "2024-06-13 12:08:16 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2024-06-13 12:02:10 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2024-06-13 12:13:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/moonstone_pickaxe": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/boss_compass": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2024-06-13 12:13:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-06-13 12:13:09 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:prometheum": {
-    "criteria": {
-      "beware_piranha": "2024-06-13 12:14:02 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
     "criteria": {
       "has_chain": "2024-06-13 11:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/verglas": {
-    "criteria": {
-      "has_item": "2024-06-13 12:20:21 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_sand": {
-    "criteria": {
-      "has_item": "2024-06-13 12:14:21 +0000"
     },
     "done": true
   },
@@ -10351,81 +10131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-06-13 12:13:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/nether_sakura_hanging_sign": {
     "criteria": {
       "has_chain": "2024-06-13 11:43:41 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:sting_recipe": {
-    "criteria": {
-      "has_item": "2024-06-13 12:20:21 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/diorite_corner_trim": {
-    "criteria": {
-      "has_diorite_corner_trim": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:mythril": {
-    "criteria": {
-      "mith": "2024-06-13 12:45:05 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/phantom_armor_chestplate": {
-    "criteria": {
-      "has_phantom_skin": "2024-06-13 12:08:16 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/andesite_pillar_trim": {
-    "criteria": {
-      "has_andesite_pillar_trim": "2024-06-13 12:13:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/moonstone_axe": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-06-13 12:14:21 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/diorite_pillar_trim": {
-    "criteria": {
-      "has_diorite_pillar_trim": "2024-06-13 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/whos_the_pillager_now": {
-    "criteria": {
-      "kill_pillager": "2024-06-13 11:59:24 +0000"
     },
     "done": true
   },
@@ -10441,6 +10149,120 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2024-06-13 11:43:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2024-06-13 11:43:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2024-06-13 11:43:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cryptic_eye": {
+    "criteria": {
+      "cryptic_eye": "2024-06-13 11:52:45 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "cryptic_eye": "2024-06-13 11:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2024-06-13 11:59:24 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-06-13 12:02:10 +0000"
+    },
+    "done": false
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2024-06-13 12:08:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_skin": "2024-06-13 12:08:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2024-06-13 12:08:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_skin": "2024-06-13 12:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-06-13 12:13:09 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-06-13 12:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-06-13 12:13:09 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-06-13 12:13:09 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-06-13 12:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-06-13 12:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-06-13 12:13:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2024-06-13 12:13:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_andesite_corner_trim": "2024-06-13 12:13:09 +0000"
@@ -10450,24 +10272,6 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-06-13 12:13:09 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:orichalcum": {
-    "criteria": {
-      "orich": "2024-06-13 12:43:31 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/moonstone_shovel": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:moonstone": {
-    "criteria": {
-      "item": "2024-06-13 12:31:30 +0000"
     },
     "done": true
   },
@@ -10483,39 +10287,9 @@
     },
     "done": true
   },
-  "endrem:main/cryptic_eye": {
-    "criteria": {
-      "cryptic_eye": "2024-06-13 11:52:45 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/moonstone_block": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-06-13 12:13:09 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/root": {
-    "criteria": {
-      "cryptic_eye": "2024-06-13 11:52:45 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
-    "criteria": {
-      "has_chain": "2024-06-13 11:43:41 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/blackstone_pedestal": {
-    "criteria": {
-      "has_item": "2024-06-13 12:31:30 +0000"
     },
     "done": true
   },
@@ -10531,15 +10305,213 @@
     },
     "done": true
   },
+  "mythicmetals:prometheum": {
+    "criteria": {
+      "beware_piranha": "2024-06-13 12:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2024-06-13 12:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-06-13 12:14:05 +0000"
     },
     "done": true
   },
-  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_chain": "2024-06-13 11:43:41 +0000"
+      "has_sand": "2024-06-13 12:14:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2024-06-13 12:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-06-13 12:14:21 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-06-13 12:14:54 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/verglas_block": {
+    "criteria": {
+      "has_item": "2024-06-13 12:20:21 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-06-13 12:20:21 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-06-13 12:20:21 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/verglas": {
+    "criteria": {
+      "has_item": "2024-06-13 12:20:21 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:sting_recipe": {
+    "criteria": {
+      "has_item": "2024-06-13 12:20:21 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-06-13 12:30:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/altar_block": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone_hoe": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/boss_compass": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone_axe": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-06-13 12:31:30 +0000"
     },
     "done": true
   },
@@ -10549,11 +10521,89 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+  "mythicmetals:runite": {
     "criteria": {
-      "has_chain": "2024-06-13 11:43:41 +0000"
+      "buying_gf": "2024-06-13 12:35:23 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-06-13 12:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-06-13 12:36:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2024-06-13 12:36:17 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:orichalcum": {
+    "criteria": {
+      "orich": "2024-06-13 12:43:31 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:mythril": {
+    "criteria": {
+      "mith": "2024-06-13 12:45:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/raw_silver_block": {
+    "criteria": {
+      "has_item": "2024-06-13 15:28:31 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_item": "2024-06-13 15:28:31 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_item": "2024-06-13 15:28:31 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/specialblades": {
+    "criteria": {
+      "arcane": "2024-06-13 15:31:52 +0000"
+    },
+    "done": true
+  },
+  "artifality:gather_crystal": {
+    "criteria": {
+      "name": "2024-06-13 15:43:20 +0000"
+    },
+    "done": true
+  },
+  "artifality:gather_all_crystals": {
+    "criteria": {
+      "lunar_crystal": "2024-06-13 15:43:20 +0000"
+    },
+    "done": false
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_04": "2024-06-13 15:53:45 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_giant_taiga": "2024-06-13 16:06:36 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
