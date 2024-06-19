@@ -2847,6 +2847,7 @@
       "honey_bottle": "2024-06-12 00:40:48 +0000",
       "cooked_beef": "2024-06-11 20:20:28 +0000",
       "cooked_cod": "2024-06-11 19:02:53 +0000",
+      "pumpkin_pie": "2024-06-15 02:32:35 +0000",
       "bread": "2024-06-11 18:42:23 +0000",
       "golden_apple": "2024-06-11 20:51:51 +0000",
       "rotten_flesh": "2024-06-11 19:48:56 +0000",
@@ -10606,6 +10607,24 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-06-14 15:02:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-06-14 15:02:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-06-14 15:02:09 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_dark_oak": "2024-06-14 15:04:22 +0000"
@@ -10624,21 +10643,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
+  "regions_unexplored:recipes/decorations/jungle_shrub": {
     "criteria": {
-      "cooked_mutton_chops": "2024-06-14 15:02:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-06-14 15:02:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-06-14 15:02:09 +0000"
+      "has_jungle_sapling": "2024-06-15 02:34:02 +0000"
     },
     "done": true
   },
