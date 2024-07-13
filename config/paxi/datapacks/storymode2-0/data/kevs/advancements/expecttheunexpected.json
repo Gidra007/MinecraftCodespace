@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:potion"
+    },
+    "title": "Expect the Unexpected!",
+    "description": "Yeet the potion!"
+  },
+  "criteria": {
+    "none": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "kevs:adv_etu"
+  }
+}

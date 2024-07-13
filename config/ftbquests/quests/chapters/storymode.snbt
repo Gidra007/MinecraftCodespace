@@ -1,0 +1,3677 @@
+{
+	autofocus_id: "36636A93F303CCF8"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	disable_toast: true
+	filename: "storymode"
+	group: "7DDF61ACA25A05AB"
+	icon: "minecraft:writable_book"
+	id: "08FB8566BA1005C9"
+	images: [
+		{
+			dependency: "347C252B95C7060E"
+			height: 5.0d
+			image: "fantasy_mc:textures/s10.png"
+			order: 10
+			rotation: 0.0d
+			width: 7.2296124927703875d
+			x: -1.56d
+			y: -1.9500000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 5.0d
+			image: "fantasy_mc:textures/s20.png"
+			order: 10
+			rotation: 0.0d
+			width: 7.2296124927703875d
+			x: 7.410000000000001d
+			y: -1.9500000000000002d
+		}
+		{
+			click: "#02325F5DE2507D72"
+			color: 6324918
+			dependency: "69229D8D4EADB5D8"
+			height: 5.0d
+			hover: [
+				"Storymode 2.0 is currently in progress"
+				"Click here to enable Storymode 1.0!"
+			]
+			image: "fantasy_mc:textures/s10.png"
+			order: 11
+			rotation: 0.0d
+			width: 7.2296124927703875d
+			x: -1.56d
+			y: -1.9500000000000002d
+		}
+		{
+			click: "#6463A17606BA4267"
+			color: 6324918
+			dependency: "347C252B95C7060E"
+			height: 5.0d
+			hover: [
+				"Storymode 1.0 is currently in progress"
+				"Click here to enable Storymode 2.0!"
+			]
+			image: "fantasy_mc:textures/s20.png"
+			order: 11
+			rotation: 0.0d
+			width: 7.2296124927703875d
+			x: 7.410000000000001d
+			y: -1.9500000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 3.0d
+			image: "fantasy_mc:textures/s2.png"
+			order: 12
+			rotation: 0.0d
+			width: 4.3377674956622325d
+			x: 2.9250000000000003d
+			y: 3.3150000000000004d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.555000000000001d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: -1.56d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.145d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.7050000000000005d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.535d
+			y: -1.56d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.3150000000000004d
+			y: -1.56d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: -2.3400000000000003d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: -2.7300000000000004d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: -3.3150000000000004d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: -3.9000000000000004d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: -4.485d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9573469387755031d
+			y: 0.2069387755101968d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.7050000000000005d
+			y: -0.39d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.485d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.265000000000001d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.045000000000001d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.825d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.605d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.385000000000002d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.97d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3650000000000002d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.78d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5850000000000001d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7550000000000001d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.535d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.3150000000000004d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.3400000000000003d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.56d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.78d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.7050000000000005d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5850000000000001d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8500000000000005d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.630000000000001d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.410000000000001d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.190000000000001d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.97d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.265000000000001d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.29d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.14d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.29d
+			y: -1.56d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.29d
+			y: -2.3400000000000003d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.29d
+			y: -3.12d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: -1.56d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: -2.3400000000000003d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: -3.12d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: -1.56d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: -2.3400000000000003d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: -3.12d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.14d
+			y: -1.56d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.14d
+			y: -2.3400000000000003d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.14d
+			y: -3.12d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.29d
+			y: -3.705d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.7050000000000005d
+			y: -4.095d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.535d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.755d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.9750000000000001d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.17d
+			y: -3.705d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.585d
+			y: -4.095d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.3900000000000001d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: -3.7050000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.265000000000001d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8500000000000005d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.4350000000000005d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.800000000000001d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.58d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.14d
+			y: -3.7050000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.555000000000001d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.97d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.78d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.56d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.07d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.29d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3650000000000002d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -1.3650000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -1.7550000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -2.145d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: -2.145d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: -2.145d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.875d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.095000000000001d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -1.3650000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -1.7550000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -2.145d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -2.535d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -2.9250000000000003d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -3.3150000000000004d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -2.535d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -2.9250000000000003d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -3.3150000000000004d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: -2.535d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: -2.535d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: -2.9250000000000003d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: -2.9250000000000003d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: -3.3150000000000004d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: -3.3150000000000004d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.322346938775503d
+			y: 0.2069387755101968d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.152346938775503d
+			y: 0.5969387755101968d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.7123469387755037d
+			y: 0.5969387755101968d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.542346938775503d
+			y: 0.01193877551019673d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.322346938775503d
+			y: 0.01193877551019673d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.535d
+			y: -0.9750000000000001d
+		}
+		{
+			color: 6324918
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: 5
+			rotation: 0.0d
+			width: 0.5d
+			x: 1.741530612244901d
+			y: 0.2004761904761807d
+		}
+		{
+			color: 6324918
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: 5
+			rotation: 0.0d
+			width: 0.5d
+			x: 4.142755102040806d
+			y: 0.20183673469387797d
+		}
+		{
+			color: 6324918
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: 5
+			rotation: 0.0d
+			width: 0.5d
+			x: 1.925204081632664d
+			y: -0.5546258503401518d
+		}
+		{
+			color: 6324918
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: 5
+			rotation: 0.0d
+			width: 0.5d
+			x: 3.9456122448979656d
+			y: -0.5342176870748432d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.542346938775503d
+			y: 0.2069387755101968d
+		}
+		{
+			color: 6324918
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: 5
+			rotation: 90.0d
+			width: 0.5d
+			x: 2.152346938775503d
+			y: 0.7919387755101969d
+		}
+		{
+			color: 6324918
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: 5
+			rotation: 90.0d
+			width: 0.5d
+			x: 2.9323469387755035d
+			y: 0.7919387755101969d
+		}
+		{
+			color: 6324918
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: 5
+			rotation: 90.0d
+			width: 0.5d
+			x: 3.786428571428594d
+			y: 0.7926530612244918d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_diamond_vertex"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.07d
+			y: 0.39d
+		}
+		{
+			height: 6.0d
+			image: "minecraft:block/glass"
+			order: -10
+			rotation: 0.0d
+			width: 7.0d
+			x: 7.4354081632652935d
+			y: -2.2314965986394597d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -1.3650000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -1.7550000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -2.145d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -2.535d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -2.9250000000000003d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -3.3150000000000004d
+		}
+		{
+			height: 6.0d
+			image: "minecraft:block/glass"
+			order: -10
+			rotation: 0.0d
+			width: 7.0d
+			x: -1.6598299319727943d
+			y: -2.183877551020416d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -3.7050000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.97d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.190000000000001d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.410000000000001d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.630000000000001d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8500000000000005d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.07d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -3.7050000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.07d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: -3.7050000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: -3.7050000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -3.7050000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -1.3650000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -1.7550000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -2.145d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -2.535d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -2.9250000000000003d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -3.3150000000000004d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -3.7050000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: -4.095000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.3400000000000003d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.56d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.78d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5850000000000001d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5850000000000001d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: -4.095000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.145d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 1.0d
+			image: "galosphere:block/charged_lumiere_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.390102040816323d
+			y: 0.8018367346938788d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.535d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.535d
+			y: -0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.78d
+			y: 0.39d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.39d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.78d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5850000000000001d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5850000000000001d
+			y: 0.78d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 1.1700000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.78d
+			y: 1.1700000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 0.78d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 1.1700000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 1.56d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 1.9500000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 2.3400000000000003d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 2.7300000000000004d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 3.12d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 3.5100000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 3.9000000000000004d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 4.29d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 4.680000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.1700000000000002d
+			y: 5.07d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.78d
+			y: 5.460000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 5.8500000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 6.24d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.78d
+			y: 6.24d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: 6.4350000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7550000000000001d
+			y: 6.24d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: 6.045000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.535d
+			y: 6.045000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.12d
+			y: 6.045000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.7050000000000005d
+			y: 6.045000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.095000000000001d
+			y: 6.045000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.095000000000001d
+			y: 6.24d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: 6.4350000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.460000000000001d
+			y: 6.24d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8500000000000005d
+			y: 6.24d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 5.8500000000000005d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.630000000000001d
+			y: 5.460000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 5.07d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 4.680000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 4.29d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 3.9000000000000004d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 3.5100000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 3.12d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 2.7300000000000004d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 2.3400000000000003d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 1.9500000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 1.56d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 1.1700000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 0.78d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0200000000000005d
+			y: 0.39d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 1.1700000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 0.78d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 0.39d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.655d
+			y: 0.78d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.655d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.07d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.9500000000000002d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.9500000000000002d
+			y: 0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.9500000000000002d
+			y: 1.3650000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.7300000000000004d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.7300000000000004d
+			y: 0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.800000000000001d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.800000000000001d
+			y: 0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.800000000000001d
+			y: 1.3650000000000002d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.58d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/dark_oak_planks"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.58d
+			y: 0.9750000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.390102040816323d
+			y: 0.18959183673469937d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.530000000000001d
+			y: -5.265000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.381938775510193d
+			y: -4.871632653061205d
+		}
+		{
+			height: 1.0d
+			image: "galosphere:block/charged_lumiere_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.381938775510193d
+			y: -5.504285714285693d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -0.195d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -4.485d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: -4.875d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: -5.265000000000001d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5384693877551d
+			y: -4.860408163265312d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5384693877551d
+			y: 0.20081632653060666d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:block/chiseled_deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 0.5850000000000001d
+		}
+		{
+			height: 1.0d
+			image: "galosphere:block/charged_lumiere_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.538469387755093d
+			y: 0.8232653061224369d
+		}
+		{
+			height: 1.0d
+			image: "galosphere:block/charged_lumiere_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.538469387755093d
+			y: -5.503265306122458d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_diamond_vertex"
+			order: 2
+			rotation: 90.0d
+			width: 1.0d
+			x: -5.07d
+			y: -5.07d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_diamond_vertex"
+			order: 2
+			rotation: 180.0d
+			width: 1.0d
+			x: 10.920000000000002d
+			y: -5.07d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_diamond_vertex"
+			order: 2
+			rotation: -90.0d
+			width: 1.0d
+			x: 10.920000000000002d
+			y: 0.39d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_shrub_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.07d
+			y: 5.265000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_top"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.095000000000001d
+			y: 1.1700000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.7550000000000001d
+			y: 1.1700000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.3400000000000003d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			rotation: 90.0d
+			width: 1.0d
+			x: 3.5100000000000002d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.485d
+			y: 0.78d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.265000000000001d
+			y: 0.9750000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.655d
+			y: 0.9750000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.8500000000000005d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 6.24d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.3650000000000002d
+			y: 0.78d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.5850000000000001d
+			y: 0.78d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.5850000000000001d
+			y: 0.9750000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.195d
+			y: 0.9750000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.195d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: -0.39d
+			y: 1.3650000000000002d
+		}
+		{
+			color: 16335945
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 2.145d
+		}
+		{
+			color: 16335945
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 2.9250000000000003d
+		}
+		{
+			color: 16335945
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 3.7050000000000005d
+		}
+		{
+			color: 16335945
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 4.485d
+		}
+		{
+			color: 16335945
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 2.145d
+		}
+		{
+			color: 16335945
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 2.9250000000000003d
+		}
+		{
+			color: 16335945
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 3.7050000000000005d
+		}
+		{
+			color: 16335945
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 4.485d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: -0.39d
+			y: 5.265000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.0d
+			y: 5.655d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.39d
+			y: 6.045000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: 6.045000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.3650000000000002d
+			y: 5.8500000000000005d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: 5.655d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.3400000000000003d
+			y: 5.655d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_top"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: 5.460000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 6.24d
+			y: 5.265000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.8500000000000005d
+			y: 5.655d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.460000000000001d
+			y: 6.045000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.875d
+			y: 6.045000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.485d
+			y: 5.8500000000000005d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.095000000000001d
+			y: 5.655d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_log_magma"
+			order: -3
+			rotation: 90.0d
+			width: 1.0d
+			x: 3.5100000000000002d
+			y: 5.655d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_shrub_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.78d
+			y: 5.265000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_shrub_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.145d
+			y: 4.875d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_shrub_bottom"
+			rotation: 180.0d
+			width: 1.0d
+			x: 4.29d
+			y: 1.9500000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_shrub_bottom"
+			rotation: 180.0d
+			width: 1.0d
+			x: 5.265000000000001d
+			y: 1.7550000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_shrub_bottom"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.1700000000000002d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 1.0d
+			image: "regions_unexplored:block/brimwood_shrub_bottom"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.39d
+			y: 2.145d
+		}
+		{
+			click: "#11440C137FB7C9C0"
+			color: 4251856
+			dependency: "69229D8D4EADB5D8"
+			height: 5.8d
+			hover: ["Your Journey Awaits..."]
+			image: "customportalapi:block/customportalblock"
+			order: -90
+			rotation: 0.0d
+			width: 8.8d
+			x: 2.9250000000000003d
+			y: 3.12d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 5.07d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 4.485d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 3.705000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8500000000000005d
+			y: 5.460000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.460000000000001d
+			y: 5.8500000000000005d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_cluster"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.265000000000001d
+			y: 5.265000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: 5.8500000000000005d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.095000000000001d
+			y: 5.460000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_lamp"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: 5.460000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5100000000000002d
+			y: 5.460000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.3400000000000003d
+			y: 5.460000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.755d
+			y: 5.460000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.17d
+			y: 5.8500000000000005d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.39000000000000024d
+			y: 5.8500000000000005d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_cluster"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5850000000000001d
+			y: 5.265000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.3306690738754696E-16d
+			y: 5.460000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 5.07d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 4.485d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 3.705000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 2.9250000000000007d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 2.145d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.39d
+			y: 1.56d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.19499999999999995d
+			y: 1.1700000000000002d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 3.0d
+			image: "fantasy_mc:textures/s1.png"
+			order: 12
+			rotation: 0.0d
+			width: 4.3377674956622325d
+			x: 2.9250000000000003d
+			y: 3.3150000000000004d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_cluster"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.19499999999999995d
+			y: 1.7550000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3650000000000002d
+			y: 0.78d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7799999999999999d
+			y: 0.78d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000002d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.3400000000000003d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5100000000000002d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_lamp"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9250000000000003d
+			y: 1.365d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9d
+			y: 1.3650000000000002d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_cluster"
+			rotation: 180.0d
+			width: 1.0d
+			x: 4.680000000000001d
+			y: 1.56d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.485d
+			y: 0.78d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.07d
+			y: 0.78d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 1.56d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 0.5d
+			image: "galosphere:block/allurite_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.655d
+			y: 1.1700000000000002d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 2.145d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.24d
+			y: 2.9250000000000007d
+		}
+		{
+			click: "#0E7D5F6CF416A64F"
+			color: 5452686
+			dependency: "347C252B95C7060E"
+			height: 5.8d
+			hover: ["A New World..."]
+			image: "customportalapi:block/customportalblock"
+			order: -90
+			rotation: 0.0d
+			width: 8.8d
+			x: 2.9250000000000003d
+			y: 3.12d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_cluster"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.7550000000000003d
+			y: 2.145d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_cluster"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9500000000000006d
+			y: 4.680000000000001d
+		}
+		{
+			dependency: "347C252B95C7060E"
+			height: 1.0d
+			image: "galosphere:block/allurite_cluster"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0950000000000015d
+			y: 4.680000000000001d
+		}
+		{
+			dependency: "69229D8D4EADB5D8"
+			height: 4.0d
+			image: "fantasy_mc:textures/newquestimg/blood2.png"
+			order: 5
+			rotation: 0.0d
+			width: 4.0d
+			x: 2.3413265306122426d
+			y: 6.859999999999985d
+		}
+		{
+			click: "#"
+			height: 1.0d
+			hover: ["Storymode 1.0 offers a more simple approach to quests while Storymode 2.0 is more complicated with its quests and requirements."]
+			image: "jei:textures/gui/icons/info.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.9147959183673464d
+			y: -1.451326530612242d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/s10.png"
+				}
+			}
+			icon_scale: 2.0d
+			id: "02325F5DE2507D72"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 347C252B95C7060E"
+					elevate_perms: true
+					id: "0DE8C0DC59A2B430"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 69229D8D4EADB5D8"
+					elevate_perms: true
+					id: "2360D8B7F924AB8C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 6463A17606BA4267"
+					elevate_perms: true
+					id: "0E0AD50A4A75D382"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"Storymode 1.0 progress is currently enabled\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					id: "0F5533CD80F244E8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book"
+					elevate_perms: true
+					id: "3CE5D5C10CEA8D51"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run playsound minecraft:entity.arrow.hit_player ambient @p"
+					elevate_perms: true
+					id: "7EE129EA178E8B1F"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			size: 1.0E-7d
+			subtitle: "Click me to enable Storymode 1.0"
+			tasks: [{
+				disable_toast: true
+				id: "77E4E1D0FA4007A0"
+				type: "checkmark"
+			}]
+			title: "  &9-===== &6🕮 Storymode 1.0 🕮 &9=====-"
+			x: 2.9250000000000003d
+			y: 1.3650000000000002d
+		}
+		{
+			disable_toast: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/s20.png"
+				}
+			}
+			id: "6463A17606BA4267"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 02325F5DE2507D72"
+					elevate_perms: true
+					id: "767D9AA7084680D4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 347C252B95C7060E"
+					elevate_perms: true
+					id: "4F650DD9AA8CAA96"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 69229D8D4EADB5D8"
+					elevate_perms: true
+					id: "2D1F146183EFFC6F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"Storymode 2.0 progress is currently enabled\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					id: "1C358955B2B4A001"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 1529A54F24023993"
+					elevate_perms: true
+					id: "0028B39D731BAC34"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 14EC2CCAFDEA5A09"
+					elevate_perms: true
+					id: "5FF1511E996E4178"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book"
+					elevate_perms: true
+					id: "6AC7B504EB2B00EF"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run playsound minecraft:entity.arrow.hit_player ambient @p"
+					elevate_perms: true
+					id: "54FCC1A3C01B31C9"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			size: 1.0E-6d
+			subtitle: "Click me to enable Storymode 2.0!"
+			tasks: [{
+				disable_toast: true
+				id: "4BDF4FE3410CC067"
+				type: "checkmark"
+			}]
+			title: "  &9-===== &6🕮 Storymode 2.0 🕮 &9=====-"
+			x: 2.9250000000000003d
+			y: 1.3650000000000002d
+		}
+		{
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "36636A93F303CCF8"
+			invisible: true
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "4DBD908897B05BB4"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Center"
+			x: 2.9250000000000003d
+			y: -2.3400000000000003d
+		}
+		{
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "60C1836BFB6D6BE5"
+			invisible: true
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "4291A3FB5FDF4E2B"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Center"
+			x: 2.9250000000000003d
+			y: 11.31d
+		}
+		{
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4617828658A0C7DC"
+			invisible: true
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "63BC0472B50A3BB8"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Center"
+			x: 2.9250000000000003d
+			y: -8.58d
+		}
+	]
+	title: "Storymode &b🕮"
+}

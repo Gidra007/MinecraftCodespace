@@ -1,0 +1,2357 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_35"
+	group: "1AAFABCE3EF340C4"
+	icon: "minecraft:skeleton_skull"
+	id: "2156EF77B139777B"
+	images: [
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_block"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: -0.2850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/chiseled_deepslate"
+			order: 3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: -1.2850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_trapdoor"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.636734693877571d
+			y: -2.785034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.636734693877571d
+			y: -1.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sea_lantern"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: -1.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sea_lantern"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: -1.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_trapdoor"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: -1.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sea_lantern"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: -2.785034013605401d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sea_lantern"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.636734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sea_lantern"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_trapdoor"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: -1.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/chiseled_deepslate"
+			order: 3
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: -1.2850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sea_lantern"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: -2.785034013605401d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sea_lantern"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sea_lantern"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.136734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_trapdoor"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.136734693877571d
+			y: -2.785034013605401d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.636734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.136734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.636734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.136734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.636734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.136734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.636734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.136734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/chiseled_deepslate"
+			order: 3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/chiseled_deepslate"
+			order: 3
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: -0.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.136734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.636734693877571d
+			y: -2.785034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: -3.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: -2.785034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: -1.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.136734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: -1.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.636734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: -2.785034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: -3.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.136734693877571d
+			y: -2.785034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.636734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "betterend:block/violecite_bricks_wall_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.136734693877571d
+			y: -1.7850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:textures/particle/soul_beam_12.png"
+			order: 6
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:textures/particle/soul_beam_12.png"
+			order: 6
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: -2.285034013605401d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: -0.2850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: 0.21496598639459918d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: 0.7149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: 1.2149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: 1.7149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_block"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: 0.7149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: 0.21496598639459918d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.636734693877571d
+			y: 0.21496598639459918d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.636734693877571d
+			y: 1.2149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.636734693877571d
+			y: 2.214965986394599d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: 0.21496598639459918d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: 1.2149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_block"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: 1.7149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_block"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: 2.714965986394599d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: 1.2149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: 2.214965986394599d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: 2.714965986394599d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.636734693877571d
+			y: 2.214965986394599d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.136734693877571d
+			y: 2.214965986394599d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_block"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: -0.2850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_block"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: 0.7149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_block"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: 1.7149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_block"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: 2.714965986394599d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: -0.2850340136054008d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: 0.21496598639459918d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: 0.7149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: 1.2149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: 1.7149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: 2.214965986394599d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/dark_iron_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: 2.714965986394599d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: 0.21496598639459918d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: 1.2149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.136734693877571d
+			y: 2.214965986394599d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.136734693877571d
+			y: 2.214965986394599d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.136734693877571d
+			y: 1.2149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/bone_wall_top_ns"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.136734693877571d
+			y: 0.21496598639459918d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: 0.21496598639459918d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: 1.2149659863945992d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.636734693877571d
+			y: 2.214965986394599d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/altar"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8663265306121986d
+			y: 1.3605442176870497d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/altar_bottom_left"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0091836734693445d
+			y: 2.217687074829904d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/altar_bottom_right"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.72346938775506d
+			y: 2.217687074829904d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/altar_bottom_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8663265306121986d
+			y: 2.217687074829904d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/altar_middle_left"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0091836734693445d
+			y: 1.3605442176870426d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/altar_middle_right"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.72346938775506d
+			y: 1.3605442176870426d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/altar_top_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8663265306121986d
+			y: 0.5034013605441885d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/altar_top_left"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.998979591836751d
+			y: 0.5006802721088874d
+		}
+		{
+			height: 1.0d
+			image: "graveyard:block/altar_top_right"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.72346938775506d
+			y: 0.5034013605441885d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.714285964285736d
+			y: 2.470748299319766d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.714285964285736d
+			y: 1.9707482993197658d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.714285964285736d
+			y: 1.4707482993197658d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.714285964285736d
+			y: 0.9707482993197658d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.714285964285736d
+			y: 0.4707482993197658d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			click: "#"
+			height: 1.0d
+			hover: ["A full bottle of blood together with the fragments, our king shall reign supreme again!"]
+			image: "minecraft:item/paper"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.670068027210867d
+			y: 3.471428571428568d
+		}
+		{
+			click: "#0674F7634E6E1597"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			click: "#5020BF77347D2E12"
+			height: 1.5d
+			hover: ["Next"]
+			image: "fantasy_mc:textures/newquestimg/next.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 8.035714535714284d
+			y: 5.520068027210911d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["347C252B95C7060E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "067368304E875918"
+			rewards: [{
+				id: "3FE8B53C467BCF9E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "heart"
+			size: 2.0d
+			tasks: [{
+				id: "7DB786FF8A100859"
+				item: "graveyard:lower_bone_staff"
+				type: "item"
+			}]
+			x: 5.335714535714274d
+			y: 0.20000000000000284d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "7A8608DE596A308C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"???: \",\"color\":\"gray\"},{\"text\":\"The embrace of death, a symphony of terror, yet there are those who dance within its shadows...\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					id: "308866AD7044A461"
+					silent: true
+					type: "command"
+				}
+				{
+					id: "69BEBA6AE2D055B6"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "square"
+			subtitle: "The Beginning of the Graveyard Journey"
+			tasks: [{
+				id: "15EDBF46A4C2466B"
+				structure: "graveyard:crypt"
+				type: "structure"
+			}]
+			title: "Find the Crypt"
+			x: 5.2d
+			y: 4.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "6E7C50A8404AA63C"
+			rewards: [{
+				id: "6B95875BB4FBA4C2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "heart"
+			size: 2.0d
+			tasks: [{
+				id: "0257EF34BF48694A"
+				item: "graveyard:middle_bone_staff"
+				type: "item"
+			}]
+			x: 6.3571433571428315d
+			y: -0.40136054421763845d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "1D9BC4A4F32679A7"
+			rewards: [{
+				id: "6C15F9C1700FA940"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "heart"
+			size: 2.0d
+			tasks: [{
+				id: "6CEB1D2DB87C6578"
+				item: "graveyard:upper_bone_staff"
+				type: "item"
+			}]
+			x: 7.042857642857129d
+			y: -1.029931972789072d
+		}
+		{
+			dependencies: [
+				"7A8608DE596A308C"
+				"347C252B95C7060E"
+				"70E5B454381289B1"
+			]
+			id: "6CF6A1BA90C2877B"
+			shape: "square"
+			subtitle: "Sacrifice multiple villagers using a bone dagger and a glass bottle in the off-hand"
+			tasks: [{
+				id: "7D10AAFCF15B4146"
+				item: {
+					Count: 1
+					id: "graveyard:vial_of_blood"
+					tag: {
+						Blood: 0.8000001f
+					}
+				}
+				type: "item"
+			}]
+			x: 5.913945578231292d
+			y: 3.0428571428571303d
+		}
+		{
+			dependencies: [
+				"6E7C50A8404AA63C"
+				"067368304E875918"
+				"1D9BC4A4F32679A7"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "016F11645AA47D83"
+			min_required_dependencies: 1
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"???: \",\"color\":\"gray\"},{\"text\":\"You, Player. What are you?\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "79F037870EFD4DEF"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "62EFAA92493FF5CB"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"6E7C50A8404AA63C"
+				"067368304E875918"
+				"1D9BC4A4F32679A7"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "148E49DEB0CF9D47"
+			min_required_dependencies: 2
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"???: \",\"color\":\"gray\"},{\"text\":\"Death alludes around you, but here you are.\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "48BBD40B2C3605EA"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "37115BC897F6946B"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"6E7C50A8404AA63C"
+				"067368304E875918"
+				"1D9BC4A4F32679A7"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4EF35A88B15F1F58"
+			min_required_dependencies: 3
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"???: \",\"color\":\"gray\"},{\"text\":\"Say... I will help you with your journey if you revive me.\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "1A75CBFD9314841D"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "46D4EE3BD6C3EDA9"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4EF35A88B15F1F58"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "18DFF16EE335E679"
+			min_required_dependencies: 3
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"???: \",\"color\":\"gray\"},{\"text\":\"Find the Altar and we shall speak again.\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "45FD2CDC354061B7"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "6A7E8B3B9A10B6CA"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"6CF6A1BA90C2877B"
+				"6E7C50A8404AA63C"
+				"067368304E875918"
+				"1D9BC4A4F32679A7"
+				"347C252B95C7060E"
+			]
+			id: "50329EE48637BD82"
+			rewards: [{
+				id: "0A46D85C835146CA"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			shape: "heart"
+			subtitle: "Find his prison on top of a floating island. Place the bone fragments down and click right the altar with the bottle of blood (full)"
+			tasks: [
+				{
+					advancement: "graveyard:graveyard/summon_lich"
+					criterion: ""
+					id: "6E3F9A8F0AFFD1DB"
+					type: "advancement"
+				}
+				{
+					id: "152A4C16BDC86480"
+					structure: "graveyard:lich_prison"
+					type: "structure"
+				}
+			]
+			title: "Summon the Lich"
+			x: 5.887755352040834d
+			y: 1.3891156462585457d
+		}
+		{
+			dependencies: ["50329EE48637BD82"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "486AC6F89F18A812"
+			min_required_dependencies: 1
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"???: \",\"color\":\"gray\"},{\"text\":\"It's great to have a physical form again. Oh? Did you really think I'll help you?\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "5C3A24BA682F9E82"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				disable_toast: true
+				id: "7CAC7CFC0A320904"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "0C8D6DB0FCB832A2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run puffish_skills points add @p simplyskills:tree 1"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "fantasy_mc:textures/newquestimg/scroll.png"
+						}
+					}
+					id: "04F736A4FE57AEB1"
+					silent: true
+					title: "Skill Point +1"
+					type: "command"
+				}
+				{
+					command: "/execute as @p at @p run summon mythicmounts:nightmare"
+					elevate_perms: true
+					icon: "minecraft:diamond_horse_armor"
+					id: "2560934E04347234"
+					silent: true
+					team_reward: false
+					title: "Summon a Nightmare steed"
+					type: "command"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4C013DFED0D5561D"
+					table_id: 742602483322765250L
+					type: "choice"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					entity: "graveyard:ghoul"
+					id: "6D277F83271872AD"
+					type: "kill"
+					value: 10L
+				}
+				{
+					entity: "graveyard:nightmare"
+					id: "1133798652BACD4D"
+					type: "kill"
+					value: 10L
+				}
+			]
+			title: "Purge"
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "319EA6B04A554D10"
+			rewards: [{
+				id: "5DBA1E11F98202D7"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			subtitle: "Start with a rest"
+			tasks: [{
+				id: "22783A4964F78BE9"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:beds"
+					}
+				}
+				title: "Any #minecraft:beds"
+				type: "item"
+			}]
+			title: "Getting Stronger"
+			x: 3.857142857142854d
+			y: 6.583673469387776d
+		}
+		{
+			dependencies: [
+				"319EA6B04A554D10"
+				"347C252B95C7060E"
+			]
+			id: "12EB53284B903EEE"
+			rewards: [{
+				count: 24
+				id: "6BEA4AD8EC476064"
+				item: "minecraft:experience_bottle"
+				team_reward: false
+				type: "item"
+			}]
+			tasks: [{
+				id: "4687DD035F84D001"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 1000
+			}]
+			x: 5.857142857142854d
+			y: 6.012244897959214d
+		}
+		{
+			dependencies: [
+				"319EA6B04A554D10"
+				"347C252B95C7060E"
+			]
+			id: "086F80AAEBE62DD8"
+			rewards: [{
+				count: 24
+				id: "33B42FC9B6B20473"
+				item: "minecraft:experience_bottle"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43B5022BA898D232"
+				stat: "minecraft:damage_taken"
+				type: "stat"
+				value: 1000
+			}]
+			x: 5.821428571428569d
+			y: 7.369387755102061d
+		}
+		{
+			dependencies: [
+				"086F80AAEBE62DD8"
+				"12EB53284B903EEE"
+				"347C252B95C7060E"
+			]
+			id: "2F39574F8A32E33D"
+			rewards: [{
+				id: "45F20803D5D6F7D2"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			subtitle: "End with a rest"
+			tasks: [{
+				id: "4D955225E60B037B"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:beds"
+					}
+				}
+				title: "Any #minecraft:beds"
+				type: "item"
+			}]
+			title: "Getting Stronger"
+			x: 7.9285714285714235d
+			y: 6.512244897959214d
+		}
+		{
+			dependencies: [
+				"50329EE48637BD82"
+				"0C8D6DB0FCB832A2"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+				}
+			}
+			id: "595BE63E212011DF"
+			rewards: [
+				{
+					id: "044BF06B19C1FF86"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7C21ACBDD060B28D"
+					item: "aquamirae:treasure_pouch"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "72D0D34FDAE8C92D"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "3618CDB91C1849BC"
+					item: "origins:orb_of_origin"
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			subtitle: "Complete all quests"
+			tasks: [{
+				id: "29C090D05EE3E5C2"
+				title: "Complete all Boss Chapters"
+				type: "checkmark"
+			}]
+			title: "<rainb>Chapter Reward"
+			x: 5.821428821428562d
+			y: -2.972789115646215d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "019D9E1ED8376CA9"
+			rewards: [{
+				id: "28C7AFECF0C63389"
+				item: "paraglider:heart_container"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Max 25 hearts"
+			tasks: [{
+				count: 2L
+				id: "0602394489B440E3"
+				item: "paraglider:heart_container"
+				type: "item"
+			}]
+			title: "Obtain a Heart Containers from the Goddess Statue"
+			x: 1.9642857142857153d
+			y: 1.4785714285714349d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "63EA8AE11EBCB631"
+			rewards: [{
+				id: "76F1137D46241F55"
+				item: "healpgood:golden_heart"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Max 20 hearts"
+			tasks: [{
+				count: 2L
+				id: "05986F79EC18FA3C"
+				item: "healpgood:golden_heart"
+				type: "item"
+			}]
+			title: "Craft the Heart Containers"
+			x: 9.714285714285715d
+			y: 1.2285714285714349d
+		}
+		{
+			id: "70E5B454381289B1"
+			rewards: [{
+				id: "1F8ECAD9B66F67E7"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "square"
+			tasks: [{
+				id: "091E00A3BC3DB5F7"
+				structure: "graveyard:dead_tree"
+				type: "structure"
+			}]
+			title: "Hanged Man?"
+			x: 6.5d
+			y: 4.5d
+		}
+	]
+	subtitle: ["The Graveyard..."]
+	title: "Chapter 3.5"
+}

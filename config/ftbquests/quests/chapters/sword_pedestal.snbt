@@ -1,0 +1,1784 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sword_pedestal"
+	group: "429A845DD1E3DE92"
+	id: "7A62201233BFB6AE"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.46d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.34d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7799999999999994d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5599999999999996d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.34d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.34d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5599999999999996d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7799999999999994d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5600000000000005d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7800000000000011d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7800000000000002d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7800000000000011d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5600000000000005d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7800000000000011d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5600000000000005d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.34d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5600000000000005d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.34d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.34d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5600000000000005d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5600000000000005d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7800000000000002d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7800000000000002d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.46d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.34d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7800000000000002d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7800000000000011d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5600000000000005d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.34d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.120000000000001d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.120000000000001d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.34d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3650000000000002d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5600000000000005d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5850000000000009d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.19500000000000028d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.9749999999999996d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.755d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.535d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.095000000000001d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.875d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.655d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.24d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.24d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0200000000000005d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0200000000000005d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.24d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.46d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7800000000000011d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5600000000000005d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.34d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.46d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0200000000000005d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.46d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7800000000000011d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5600000000000005d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.34d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.120000000000001d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.800000000000001d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.800000000000001d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.800000000000001d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.800000000000001d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0200000000000005d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.24d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0200000000000005d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.24d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.46d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.24d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.800000000000001d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0200000000000005d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0200000000000005d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.24d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.800000000000001d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0200000000000005d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.24d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.46d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.34d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5600000000000005d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7800000000000002d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7800000000000011d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5600000000000005d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.34d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.120000000000001d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.68d
+			y: 11.862040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.68d
+			y: 11.082040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.68d
+			y: 10.302040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.68d
+			y: 9.522040816326502d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.120000000000001d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5600000000000005d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.34d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.120000000000001d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.120000000000001d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.34d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.676428571428551d
+			y: 10.66489795918364d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.180714285714302d
+			y: 9.522040816326495d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.68d
+			y: 8.742040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.68d
+			y: 7.962040816326504d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: 7.182040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9000000000000004d
+			y: 6.402040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.630000000000001d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.8500000000000005d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.07d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.290000000000001d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.51d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.7300000000000004d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.9500000000000002d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.17d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.3899999999999997d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.39000000000000057d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.17d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.9499999999999993d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5100000000000016d
+			y: 5.6220408163265025d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.24d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.8500000000000005d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.46d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.120000000000001d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.7300000000000004d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.34d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.265000000000001d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.485d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.3400000000000007d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5599999999999996d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7800000000000002d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.881784197001252E-16d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7800000000000011d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3650000000000002d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.1449999999999996d
+			y: 2.502040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.46d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.07d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.9000000000000004d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.12d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.34d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.755d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.9749999999999996d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.19500000000000028d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5850000000000009d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3650000000000002d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7550000000000008d
+			y: 3.2820408163265027d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.1449999999999996d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.535d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7550000000000008d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3650000000000002d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.9749999999999996d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5850000000000009d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.19500000000000028d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.9749999999999996d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.755d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.535d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.3150000000000004d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.3150000000000004d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.705d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.095000000000001d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.680000000000001d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.875d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.290000000000001d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.34d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5600000000000005d
+			y: 4.062040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/black_concrete"
+			order: -4
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7800000000000002d
+			y: 4.062040816326503d
+		}
+		{
+			height: 20.0d
+			image: "simplyswords:item/brimstone_claymore"
+			order: -4
+			rotation: 135.0d
+			width: 20.0d
+			x: -16.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/brimstone_layer"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: 10.530000000000001d
+			y: 2.1120408163265028d
+		}
+		{
+			height: 20.0d
+			image: "simplyswords:item/brimstone_layer"
+			order: -2
+			rotation: 135.0d
+			width: 20.0d
+			x: 18.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5850000000000009d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.535d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.755d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.9749999999999996d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.19500000000000028d
+			y: 4.842040816326503d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.1407482993197178d
+			y: 10.30280612244897d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/gray_concrete"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.23d
+			y: 11.02d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Sword Pedestal"
+}

@@ -1,0 +1,67 @@
+{
+  "allow_stacking": true,
+  "spell_power": {
+    "requires": "MAGICAL_WEAPON",
+    "enabled": true,
+    "max_level": 5,
+    "min_cost": 10,
+    "step_cost": 9,
+    "bonus_per_level": 0.06
+  },
+  "soulfrost": {
+    "requires": "MAGICAL_ARMOR",
+    "enabled": true,
+    "max_level": 5,
+    "min_cost": 10,
+    "step_cost": 9,
+    "bonus_per_level": 0.04
+  },
+  "sunfire": {
+    "requires": "MAGICAL_ARMOR",
+    "enabled": true,
+    "max_level": 5,
+    "min_cost": 10,
+    "step_cost": 9,
+    "bonus_per_level": 0.04
+  },
+  "energize": {
+    "requires": "MAGICAL_ARMOR",
+    "enabled": true,
+    "max_level": 5,
+    "min_cost": 10,
+    "step_cost": 9,
+    "bonus_per_level": 0.04
+  },
+  "critical_chance": {
+    "requires": "MAGICAL_ARMOR",
+    "enabled": true,
+    "max_level": 5,
+    "min_cost": 10,
+    "step_cost": 12,
+    "bonus_per_level": 0.025
+  },
+  "critical_damage": {
+    "requires": "MAGICAL_ARMOR",
+    "enabled": true,
+    "max_level": 5,
+    "min_cost": 10,
+    "step_cost": 12,
+    "bonus_per_level": 0.055
+  },
+  "haste": {
+    "requires": "MAGICAL_WEAPON",
+    "enabled": true,
+    "max_level": 5,
+    "min_cost": 15,
+    "step_cost": 17,
+    "bonus_per_level": 0.05
+  },
+  "magic_protection": {
+    "enabled": true,
+    "max_level": 4,
+    "min_cost": 3,
+    "step_cost": 6,
+    "bonus_per_level": 2.45
+  },
+  "schema_version": 3
+}

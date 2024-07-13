@@ -1,0 +1,6 @@
+# [Default -> 1000] The new level limit. 40 by default in Minecraft vanilla
+levelLimit = 1000
+# [Default -> 0] In Minecraft vanilla, each time you combine or repair an item, the next cost will be increased. See https://minecraft.fandom.com/wiki/Anvil_mechanics
+# Here, you can nerf the cost by applying a percentage of reduction. 100 % mean that repair cost will always cost 0
+# 
+nerfIncrementalCostByPercent = 0

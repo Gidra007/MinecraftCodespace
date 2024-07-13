@@ -1,0 +1,56 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/paxi/miscellaneous/fancymenu/pixeldream.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 114
+  width = 252
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = bc677515-d861-4b9a-8b55-d3505c07fbe61692275362458
+  y = 95
+  height = 62
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 3ec906d5-b71a-4fe8-a440-fd5dc9872dac1692275362484
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #F92B7D
+  orientation = bottom-centered
+  hidden = false
+  original_pos_size_calculation = false
+  x = -126
+  width = 252
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 5436b3c6-a526-43de-8944-51416369d5121692275362484
+  y = -22
+  height = 10
+}
+

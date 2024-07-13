@@ -1,0 +1,1865 @@
+{
+	autofocus_id: "7D6A751596CE5490"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "chapter_4"
+	group: "1AAFABCE3EF340C4"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "fantasy_mc:textures/endworld.png"
+		}
+	}
+	id: "345E0939811C1B45"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: -0.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: -0.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: 0.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: 0.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.25d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: 1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: 2.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.75d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.75d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.75d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: 1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: 2.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.75d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.75d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.25d
+			y: 0.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.75d
+			y: 0.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.25d
+			y: 0.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.75d
+			y: 0.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -0.75d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -0.75d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -0.75d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: -1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: -2.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: -1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: -2.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.25d
+		}
+		{
+			dependency: "760FBD1899E9C7BB"
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.25d
+			y: 2.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 2.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.75d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.25d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.75d
+			y: 0.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.75d
+			y: -0.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.75d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.25d
+			y: -2.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: -2.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: -2.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.25d
+			y: -2.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -0.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: 0.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.25d
+			y: 2.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 2.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.75d
+			y: 2.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 3.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bedrock"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.75d
+			y: 2.75d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 10.0d
+			image: "fantasy_mc:textures/newquestimg/enderdragon.png"
+			order: 100
+			rotation: 0.0d
+			width: 10.0d
+			x: -0.016666666666644403d
+			y: 0.14897959183672072d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 2.0d
+			image: "minecraft:block/end_stone"
+			order: -3
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.7142857142856656d
+			y: -1.7142857142857153d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 2.0d
+			image: "minecraft:block/end_stone"
+			order: -3
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.815970093361102E-14d
+			y: -1.7142857142857153d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 2.0d
+			image: "minecraft:block/end_stone"
+			order: -3
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7142857142857864d
+			y: -1.7142857142857153d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 2.0d
+			image: "minecraft:block/end_stone"
+			order: -3
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.7142857142856869d
+			y: 0.0d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 2.0d
+			image: "minecraft:block/end_stone"
+			order: -3
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.6843418860808015E-14d
+			y: 0.0d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 2.0d
+			image: "minecraft:block/end_stone"
+			order: -3
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.714285714285765d
+			y: 0.0d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 2.0d
+			image: "minecraft:block/end_stone"
+			order: -3
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.7142857142856656d
+			y: 1.7142857142857153d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 2.0d
+			image: "minecraft:block/end_stone"
+			order: -3
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.815970093361102E-14d
+			y: 1.7142857142857153d
+		}
+		{
+			dependency: "11568A51677A9886"
+			height: 2.0d
+			image: "minecraft:block/end_stone"
+			order: -3
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7142857142857864d
+			y: 1.7142857142857153d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: -4.5d
+			y: 7.75d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 0.0d
+			width: 0.008333333333333333d
+			x: 3.0d
+			y: 6.25d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.75d
+			y: -1.25d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: -180.0d
+			width: 2.0d
+			x: -6.75d
+			y: -1.25d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: -180.0d
+			width: 2.0d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: -180.0d
+			width: 2.0d
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.25d
+			y: 3.25d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: -180.0d
+			width: 2.0d
+			x: 7.5d
+			y: 1.25d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: -90.0d
+			width: 2.0d
+			x: 7.25d
+			y: -1.25d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 90.0d
+			width: 2.0d
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: -90.0d
+			width: 2.0d
+			x: -6.5d
+			y: 1.25d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 90.0d
+			width: 2.0d
+			x: -6.5d
+			y: 1.25d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: -90.0d
+			width: 2.0d
+			x: 5.5442176870748625d
+			y: -2.8088435374149796d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 90.0d
+			width: 2.0d
+			x: 5.482993197278944d
+			y: -2.9108843537415083d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 90.0d
+			width: 2.0d
+			x: -5.25d
+			y: 2.5d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: -90.0d
+			width: 2.0d
+			x: -5.0d
+			y: 2.75d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: -90.0d
+			width: 2.0d
+			x: -2.7496598639455243d
+			y: -2.1819727891156617d
+		}
+		{
+			height: 2.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 90.0d
+			width: 2.0d
+			x: 3.0000000000000426d
+			y: 2.344217687074817d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.75d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.095000000000001d
+			y: 1.56d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.25d
+			y: -4.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -6.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.25d
+			y: -6.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.25d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 5.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.25d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.25d
+			y: 6.75d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.25d
+			y: 5.75d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.25d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.25d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -4.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -6.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.75d
+			y: 2.75d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 0.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.75d
+			y: -2.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.25d
+			y: -0.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 6.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.25d
+			y: 0.75d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -1.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.25d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/runefused_gem_bg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: -6.5d
+		}
+		{
+			click: "#2156EF77B139777B"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.75d
+			y: 4.0d
+		}
+		{
+			click: "#138098E5E4C1F97B"
+			height: 1.5d
+			hover: ["Next"]
+			image: "fantasy_mc:textures/newquestimg/next.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.75d
+			y: 4.0d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0E78D11C2171A1C1"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "7D6A751596CE5490"
+			shape: "heart"
+			size: 1.5d
+			tasks: [{
+				id: "6FE2958AF17D02D4"
+				item: "minecraft:dragon_egg"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11568A51677A9886"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "760FBD1899E9C7BB"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 0E78D11C2171A1C1"
+				elevate_perms: true
+				id: "4AD92C7E912F49DA"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-7d
+			tasks: [{
+				disable_toast: true
+				entity: "minecraft:ender_dragon"
+				id: "027C9F09E4AFDD16"
+				type: "kill"
+				value: 1L
+			}]
+			x: 16.75d
+			y: -0.5d
+		}
+		{
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "0E78D11C2171A1C1"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p reset 11568A51677A9886"
+				elevate_perms: true
+				id: "2C007C2085BBA883"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "6180EC31570A75A0"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: 16.75d
+			y: 0.75d
+		}
+		{
+			disable_toast: true
+			id: "11568A51677A9886"
+			invisible: true
+			size: 1.0E-6d
+			tasks: [{
+				disable_toast: true
+				id: "1AFF63EAF141973A"
+				type: "checkmark"
+			}]
+			title: "checkend"
+			x: 16.75d
+			y: -1.75d
+		}
+		{
+			dependencies: [
+				"7D6A751596CE5490"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "1CBE17614ACE683B"
+			subtitle: "Requirement: get the dragon egg"
+			tasks: [{
+				id: "1D9A48F39DF0AB1A"
+				item: "minecraft:end_crystal"
+				type: "item"
+			}]
+			x: 2.75d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"7D6A751596CE5490"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "01ED973D15910909"
+			subtitle: "Requirement: get the dragon egg"
+			tasks: [{
+				id: "66D158B08E616B67"
+				item: "minecraft:end_crystal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.75d
+		}
+		{
+			dependencies: [
+				"7D6A751596CE5490"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "7F6F3714E63EFC98"
+			subtitle: "Requirement: get the dragon egg"
+			tasks: [{
+				id: "0BBE69D7CDBAD941"
+				item: "minecraft:end_crystal"
+				type: "item"
+			}]
+			x: -2.75d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"7D6A751596CE5490"
+				"347C252B95C7060E"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "3A81DDBB4E28C4CD"
+			subtitle: "Requirement: get the dragon egg"
+			tasks: [{
+				id: "17CD2ECBD33AF372"
+				item: "minecraft:end_crystal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.75d
+		}
+		{
+			dependencies: [
+				"01009FA95AB21265"
+				"01ED973D15910909"
+				"1CBE17614ACE683B"
+				"7F6F3714E63EFC98"
+				"3A81DDBB4E28C4CD"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				Count: 1
+				id: "minecraft:netherite_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "585321A8F8FD2EEA"
+			rewards: [{
+				id: "442C9CBFA8E61A09"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					advancement: "minecraft:end/respawn_dragon"
+					criterion: ""
+					id: "3F7069BBE38A70B4"
+					type: "advancement"
+				}
+				{
+					entity: "minecraft:ender_dragon"
+					id: "3CFC0265B1F494FB"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 2.25d
+			y: -2.25d
+		}
+		{
+			disable_toast: true
+			id: "03B4C2F61FC9B502"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 11568A51677A9886"
+				elevate_perms: true
+				id: "3D8D7495BB8CA2A1"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-6d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				disable_toast: true
+				id: "2BC432F80AB6BC7D"
+				type: "dimension"
+			}]
+			x: 16.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "01009FA95AB21265"
+			rewards: [
+				{
+					id: "05C75C05E68F3C9A"
+					item: {
+						Count: 1
+						id: "adventurez:ender_flute"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EAD7CEF5019B8B8"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "6F54F5123E93D0AE"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The End's Protector"
+			x: -2.25d
+			y: 2.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "2914B86F57E1B236"
+			rewards: [{
+				id: "5C48F9302695D0C0"
+				item: {
+					Count: 1
+					id: "betterend:crystalite_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "City of the End"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "betterend:elytra_crystalite"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "4D639B8386179638"
+				structure: "minecraft:end_city"
+				type: "structure"
+			}]
+			title: "&6End City"
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "4A7403DEAF20357B"
+			rewards: [{
+				id: "17DF3AC55A351857"
+				item: "artifacts:villager_hat"
+				type: "item"
+			}]
+			subtitle: "The Countryside?"
+			tasks: [{
+				icon: "artifacts:villager_hat"
+				id: "69E69F5EC2FBC4ED"
+				structure: "betterend:end_village"
+				type: "structure"
+			}]
+			title: "&6End Village"
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "2074EFFE327D5689"
+			subtitle: "Make a wish"
+			tasks: [{
+				icon: "betterend:tenanea_flowers"
+				id: "6340BBA19792FCDB"
+				structure: "mes:mythic_garden"
+				type: "structure"
+			}]
+			title: "&6Mythic Garden"
+			x: -7.215000000000001d
+			y: 0.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "45BF4F846E222813"
+			rewards: [{
+				id: "73D9D2535539A73A"
+				item: "simplyskills:malevolent_manuscript"
+				type: "item"
+			}]
+			subtitle: "Just a lectern?"
+			tasks: [{
+				icon: "minecraft:lectern"
+				id: "1216D14EA3C31098"
+				structure: "mes:manuscript_shrine"
+				type: "structure"
+			}]
+			title: "&6Manuscript Shrine"
+			x: -6.045000000000001d
+			y: -2.535d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "115C4C5D8272731B"
+			rewards: [{
+				id: "1BED01B516A35073"
+				item: {
+					Count: 1
+					id: "mcda:phantom_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Have fun with these!"
+			tasks: [{
+				icon: "minecraft:phantom_membrane"
+				id: "2747D228D196D56A"
+				structure: "mes:phantom_citadel"
+				type: "structure"
+			}]
+			title: "&6Phantom Citadel"
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "1FD45FEC986B5927"
+			rewards: [{
+				id: "4824B28805EE1C12"
+				item: {
+					Count: 1
+					id: "mutantmonsters:endersoul_hand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Towering over the abyss"
+			tasks: [{
+				icon: "fwaystones:abyss_watcher"
+				id: "63B12AC65FC64438"
+				structure: "mes:enderwatch_tower"
+				type: "structure"
+			}]
+			title: "&6Enderwatch Tower"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "5EFF8A7DCF0E9AD2"
+			rewards: [{
+				id: "1AAA4BC6FF8ADCE6"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			subtitle: "An alterative"
+			tasks: [{
+				icon: "betterend:eternal_crystal"
+				id: "1101E6A251572F1C"
+				structure: "betterend:eternal_portal"
+				type: "structure"
+			}]
+			title: "&6Eternal Portal"
+			x: 4.25d
+			y: 3.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "5E7748B0A582BD9D"
+			rewards: [{
+				id: "7D5226BD8861087D"
+				item: {
+					Count: 1
+					id: "mcda:sturdy_shulker_armor_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Abandoned"
+			tasks: [{
+				icon: "minecraft:shulker_box"
+				id: "362A64C6BCB10820"
+				structure: "mes:enderkeep_courtyard"
+				type: "structure"
+			}]
+			title: "&6Enderkeep Courtyard"
+			x: 6.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "2EF68852ADBFCC40"
+			rewards: [{
+				id: "002A14DA98024CAC"
+				item: "deeperdarker:reinforced_echo_shard"
+				type: "item"
+			}]
+			subtitle: "Ancient civlization?"
+			tasks: [{
+				icon: "deeperdarker:heart_of_the_deep"
+				id: "4441B26DA37493BD"
+				structure: "repurposed_structures:ancient_city_end"
+				type: "structure"
+			}]
+			title: "&6Ancient City"
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "2D9499150F077768"
+			rewards: [{
+				id: "054DBC0F12DB1D76"
+				item: "magistuarmory:bear_decoration"
+				type: "item"
+			}]
+			subtitle: "\"Beauty\""
+			tasks: [{
+				icon: "magistuarmory:bear_decoration"
+				id: "6CB33FEC1023484F"
+				structure: "mes:enderskog"
+				type: "structure"
+			}]
+			title: "&6Enderskog"
+			x: 4.5d
+			y: -3.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "2ED8C4FBCC1D5510"
+			rewards: [{
+				id: "1F330378A269505B"
+				item: {
+					Count: 1
+					id: "jewelry:unique_healing_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			subtitle: "The End's the End?"
+			tasks: [{
+				icon: "minecraft:ender_eye"
+				id: "44CEFD498DD613EA"
+				structure: "repurposed_structures:stronghold_end"
+				type: "structure"
+			}]
+			title: "&6Stronghold"
+			x: 8.0d
+			y: -0.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "0165F320DF8ABD4E"
+			rewards: [{
+				id: "5996F5882E4085C2"
+				item: "paraglider:paraglider"
+				type: "item"
+			}]
+			subtitle: "HYAHHH!!!"
+			tasks: [{
+				icon: "paraglider:paraglider"
+				id: "7C9D3F563508C92B"
+				structure: "totw_additions:end_tower"
+				type: "structure"
+			}]
+			title: "&6End Tower"
+			x: -5.25d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0165F320DF8ABD4E"
+				"115C4C5D8272731B"
+				"45BF4F846E222813"
+				"585321A8F8FD2EEA"
+				"2914B86F57E1B236"
+				"2ED8C4FBCC1D5510"
+				"2D9499150F077768"
+				"4A7403DEAF20357B"
+				"1FD45FEC986B5927"
+				"5E7748B0A582BD9D"
+				"2EF68852ADBFCC40"
+				"01009FA95AB21265"
+				"5EFF8A7DCF0E9AD2"
+				"2074EFFE327D5689"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+				}
+			}
+			id: "27957D15BA78CDC4"
+			min_required_dependencies: 12
+			rewards: [
+				{
+					id: "4713A160BCAB769A"
+					item: {
+						Count: 1
+						id: "spellbladenext:omni"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "3987F43CEE5C61AC"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "53F7B9001F074C93"
+					item: "origins:orb_of_origin"
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "3DC0CAF52FB862BA"
+				title: "Complete all Boss Chapters"
+				type: "checkmark"
+			}]
+			title: "<rainb>Chapter Reward"
+			x: 0.0d
+			y: -5.07d
+		}
+	]
+	subtitle: ["&5The Beginning of the End&r"]
+	title: "Chapter 4"
+}

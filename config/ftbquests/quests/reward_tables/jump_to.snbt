@@ -1,0 +1,26 @@
+{
+	icon: "artifacts:running_shoes"
+	id: "114B7A6222D698B6"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			auto: "invisible"
+			command: "/execute as @p at @p run ftbquests change_progress @p complete 42952C19CC28C200"
+			elevate_perms: true
+			icon: "artifacts:running_shoes"
+			silent: true
+			title: "The nearest platform"
+			type: "command"
+		}
+		{
+			command: "/execute as @p at @p run ftbquests change_progress @p complete 05BAAE0FC736AA29"
+			elevate_perms: true
+			icon: "artifacts:running_shoes"
+			silent: true
+			title: "The furthest platform"
+			type: "command"
+		}
+	]
+	title: "Jump to..."
+}

@@ -1,0 +1,59 @@
+{
+  "states": {
+    "start": {
+      "text": "<typewriter><shake>*laughs*</shake> I can't believe you drank that!",
+      "choices": [
+        {
+          "text": "Who are you?!?",
+          "next": "who"
+        },
+        {
+          "next": "workday",
+          "text": "Is this bring your kid to work day?"
+        }
+      ]
+    },
+    "end": {
+      "type": "end_dialogue",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run function kevs:reainecromancer"
+      }
+    },
+    "who": {
+      "text": "<typewriter>I am THE <wiggle>Necromancer</wiggle>! I was having such a nice time experimenting on villagers until you came along.  ",
+      "choices": [
+        {
+          "next": "end",
+          "text": "How could you?!"
+        },
+        {
+          "next": "end",
+          "text": "Well I've got a job to do so the game is on!"
+        }
+      ]
+    },
+    "workday": {
+      "text": "<typewriter>Yes unfortunately... <shake>Ehem</shake>. Anyways! I am THE <wiggle>Necromancer</wiggle>! I was having such a nice time experimenting on villagers until you came along.  ",
+      "choices": [
+        {
+          "next": "end",
+          "text": "How could you?!"
+        },
+        {
+          "next": "end",
+          "text": "Well I've got a job to do so the game is on!"
+        }
+      ],
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run advancement grant @p only kevs:bringyourkidtowork"
+      }
+    }
+  },
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": true,
+  "start_at": "start"
+}

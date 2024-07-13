@@ -1,0 +1,644 @@
+{
+	autofocus_id: "4F30F18ED8555FD7"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "mariums_soulslike_weaponry"
+	group: "5FF1082427F20D4E"
+	icon: "soulsweapons:lord_soul_day_stalker"
+	id: "3A35616F6023BD38"
+	images: [
+		{
+			height: 5.0d
+			image: "fantasy_mc:textures/newquestimg/oldchampion.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.655d
+			y: -0.39d
+		}
+		{
+			height: 5.0d
+			image: "fantasy_mc:textures/newquestimg/returningknight.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.642857142857167d
+			y: -0.4795918367346843d
+		}
+		{
+			height: 3.0d
+			image: "fantasy_mc:textures/newquestimg/monarchofchaos.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			height: 5.0d
+			image: "fantasy_mc:textures/newquestimg/decaying_king.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -2.695238095238075d
+			y: -5.61666666666666d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.045918367346964d
+			y: -5.474489795918366d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:block/soul_torch_2"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0357142857142776d
+			y: -5.482142857142861d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			rotation: 45.0d
+			width: 1.0d
+			x: 3.1071428571428825d
+			y: -4.9030612244897895d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			rotation: 45.0d
+			width: 1.0d
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			rotation: 45.0d
+			width: 1.0d
+			x: 3.0663265306122724d
+			y: -6.107142857142854d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			rotation: 45.0d
+			width: 1.0d
+			x: 3.678571428571452d
+			y: -5.515306122448983d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			rotation: 45.0d
+			width: 1.0d
+			x: -5.600340136054392d
+			y: -5.596938775510203d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			rotation: 45.0d
+			width: 1.0d
+			x: -4.416666666666636d
+			y: -5.596938775510203d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			rotation: 45.0d
+			width: 1.0d
+			x: -5.008503401360514d
+			y: -6.188775510204081d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			rotation: 45.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/cracked_infused_blackstone"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.018707482993165d
+			y: -5.627551020408163d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:block/soul_torch_2"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.035714285714292d
+			y: -5.660714285714299d
+		}
+		{
+			height: 3.0d
+			image: "fantasy_mc:textures/fallen.png"
+			rotation: 0.0d
+			width: 2.0988544760288503d
+			x: 0.13333333333335418d
+			y: -5.730952380952381d
+		}
+		{
+			height: 5.0d
+			image: "fantasy_mc:textures/newquestimg/daystalk.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 3.247619047619068d
+			y: -9.702380952380963d
+		}
+		{
+			height: 7.0d
+			image: "fantasy_mc:textures/newquestimg/nightprow.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: -6.323809523809501d
+			y: -9.902380952380959d
+		}
+		{
+			click: "#02A8BB87444C3A1F"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.0d
+			y: -8.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"234255ED906CDB5C"
+				"347C252B95C7060E"
+			]
+			id: "1CE275C92A3553F8"
+			rewards: [
+				{
+					id: "13D27FA3175DB1C9"
+					item: "soulsweapons:moonstone"
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "1034A3AC2A450CAE"
+					item: "soulsweapons:verglas"
+					random_bonus: 1
+					type: "item"
+				}
+			]
+			subtitle: "Found anywhere underground in the Overworld. Quest unlocks after finishing chapter 1."
+			tasks: [
+				{
+					id: "28D73415F8AA983E"
+					item: "soulsweapons:verglas"
+					type: "item"
+				}
+				{
+					id: "7A7BE6CE58790B5B"
+					item: "soulsweapons:moonstone"
+					type: "item"
+				}
+			]
+			title: "Obtain Verglas and Moonstone"
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1CE275C92A3553F8"]
+			id: "3759CAD849448529"
+			rewards: [{
+				id: "295414F1044849AF"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Obtained by smelting down Soul Sand, used to summon the Returning Knight"
+			tasks: [{
+				id: "2CFA1ECB869AAFEB"
+				item: "soulsweapons:lost_soul"
+				type: "item"
+			}]
+			title: "Obtain a Lost Soul"
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1CE275C92A3553F8"]
+			hide_dependency_lines: false
+			id: "33F86990C1F12DE9"
+			rewards: [{
+				id: "6E528CDFD26FC5B8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "This compass... Looks... Different... I wonder where it leads"
+			tasks: [{
+				id: "05ABF784DA43F4A8"
+				item: "soulsweapons:boss_compass"
+				type: "item"
+			}]
+			title: "Craft the Moonstone Compass"
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"33F86990C1F12DE9"
+				"5DA3FF624B82114C"
+				"347C252B95C7060E"
+			]
+			icon: {
+				Count: 1
+				id: "soulsweapons:draugr"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0871A7055CCA9676"
+			rewards: [
+				{
+					id: "78BA27B00C0679AC"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "6FB7FB7E094912A7"
+					item: {
+						Count: 1
+						id: "jewelry:netherite_ruby_ring"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Can be resummoned by using the boss' sword on an old moon altar"
+			tasks: [{
+				id: "56AF2490A4B47594"
+				item: {
+					Count: 1
+					id: "soulsweapons:draugr"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "This sword can be obtained by killing the Old Champion"
+				type: "item"
+			}]
+			title: "Slay the Old Champions Remains"
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"0871A7055CCA9676"
+				"5DA3FF624B82114C"
+				"33F86990C1F12DE9"
+				"347C252B95C7060E"
+			]
+			icon: "soulsweapons:essence_of_eventide"
+			id: "05E732FCF4D5215C"
+			min_required_dependencies: 4
+			rewards: [
+				{
+					id: "070DFE11B1C184B5"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 5
+					id: "2F75E5AF1668F2B3"
+					item: "minecraft:diamond"
+					random_bonus: 3
+					type: "item"
+				}
+			]
+			subtitle: "Spawns right after you've killed the Old Champions Remains"
+			tasks: [{
+				entity: "soulsweapons:night_shade"
+				id: "74E6114453841686"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the Frenzied Shade"
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"3759CAD849448529"
+				"4DE35128338002CA"
+				"6F8B42D9EA3E0AB5"
+				"42969829D95B7087"
+				"347C252B95C7060E"
+			]
+			icon: {
+				Count: 1
+				id: "soulsweapons:nightfall"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "76B32947408A26C5"
+			min_required_dependencies: 2
+			rewards: [
+				{
+					id: "1E8E631A934E18BA"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					id: "144F4CC670D6D904"
+					item: "minecraft:netherite_scrap"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 5
+					id: "0E1B728ABECBAC45"
+					item: "minecraft:obsidian"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run tellraw @p [{\"text\":\"You can now craft the orb of origin! Click on this text to go to it.\",\"color\":\"green\",\"bold\":true,\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/execute as @p at @p run ftbquests open_book 1FBE71EC9687B591\"}}]"
+					elevate_perms: true
+					id: "63FBD0C79E0C098E"
+					silent: true
+					type: "command"
+				}
+			]
+			subtitle: "Summoned by right clicking with a Lost Soul on an Old Moon Altar"
+			tasks: [{
+				entity: "soulsweapons:returning_knight"
+				id: "6CF3E2FDDA12F2F3"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Kill the Returning Knight"
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"76B32947408A26C5"
+				"0871A7055CCA9676"
+			]
+			icon: "soulsweapons:essence_of_luminescence"
+			id: "62E7C402EE791087"
+			rewards: [
+				{
+					id: "57308FC6CCE6115C"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					id: "5DAAFAC3609EB025"
+					item: {
+						Count: 1
+						id: "jewelry:netherite_sapphire_ring"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "2E641FFBEDF284B5"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "2DAF3A6C2EBAEE83"
+					item: "artifacts:power_glove"
+					type: "item"
+				}
+			]
+			subtitle: "Summon him by right clicking with Essence of Eventide"
+			tasks: [{
+				entity: "soulsweapons:moonknight"
+				id: "4E75FD0D62EAB6D9"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the Fallen Icon"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"76B32947408A26C5"
+				"3759CAD849448529"
+			]
+			id: "7A77ACA42B0DA5B7"
+			min_required_dependencies: 4
+			rewards: [
+				{
+					id: "142970C58AC607EB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "40FCF365BAEB76E6"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "63B723D34A4080E9"
+				item: {
+					Count: 1
+					id: "soulsweapons:arkenplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Arkenplate"
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1EE146691D7CA0F2"]
+			icon: {
+				Count: 1
+				id: "soulsweapons:withered_wabbajack"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4F30F18ED8555FD7"
+			rewards: [
+				{
+					id: "1E40111D38878F15"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "2FA17C6ABA36716D"
+					item: {
+						Count: 1
+						id: "soulsweapons:skofnung_stone"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Summoned by right clicking with the Shard of Uncertainty on the Blackstone Pedestal"
+			tasks: [{
+				entity: "soulsweapons:chaos_monarch"
+				id: "5B4081E2A1AF2B00"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the Monarch of Chaos"
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1CE275C92A3553F8"]
+			id: "1EE146691D7CA0F2"
+			rewards: [{
+				id: "2083C47A0316DF38"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "5F08D48C65FB5D31"
+					item: "soulsweapons:blackstone_pedestal"
+					type: "item"
+				}
+				{
+					id: "4928C8DFFFE95AC1"
+					item: "soulsweapons:shard_of_uncertainty"
+					type: "item"
+				}
+			]
+			title: "Obtain the Shard of Uncertainty and Blackstone pedestal"
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"0871A7055CCA9676"
+				"76B32947408A26C5"
+			]
+			icon: {
+				Count: 1
+				id: "soulsweapons:darkin_blade"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "145350DAB39188F2"
+			rewards: [
+				{
+					id: "701CE9852605CA9A"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 2
+					id: "487C51DD4BD4E567"
+					item: "soulsweapons:crimson_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "Found in the nether. Use the Moonstone Compass to find him. Can be resummoned by using his heart on a blackstone pedestal."
+			tasks: [{
+				entity: "soulsweapons:accursed_lord_boss"
+				id: "750178C1B77FF687"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the Decaying King"
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			id: "1CBE5060CF85F229"
+			rewards: [{
+				id: "68D1D7370E3EFD74"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			subtitle: "The Deity of Day and Night"
+			tasks: [{
+				id: "52B10253FF0417FD"
+				item: "soulsweapons:chaos_orb"
+				type: "item"
+			}]
+			title: "Craft the Chaos Orb"
+			x: -1.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["1CBE5060CF85F229"]
+			id: "01966678C19D6421"
+			rewards: [{
+				id: "4254CC3F41FDDB98"
+				item: {
+					Count: 1
+					id: "jewelry:netherite_ruby_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "soulsweapons:night_prowler"
+				icon: {
+					Count: 1
+					id: "soulsweapons:forlorn_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "4C05E864DFD1B25A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0190476190476474d
+			y: -7.188095238095244d
+		}
+		{
+			dependencies: ["1CBE5060CF85F229"]
+			id: "2F9FE7E32E124B07"
+			rewards: [{
+				id: "4929AFF85F487F33"
+				item: {
+					Count: 1
+					id: "jewelry:netherite_sapphire_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "soulsweapons:day_stalker"
+				icon: {
+					Count: 1
+					id: "soulsweapons:empowered_dawnbreaker"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "5C1530B15584D52B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.199999999999974d
+			y: -7.349999999999994d
+		}
+	]
+	title: "Marium's Soulslike Weaponry"
+}

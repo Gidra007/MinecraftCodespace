@@ -1,0 +1,189 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/paxi/miscellaneous/fancymenu/bg.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -77
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 155
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -77
+  action = movebutton
+  y = 37
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 155
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 83
+  action = movebutton
+  y = 85
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -77
+  action = movebutton
+  y = -11
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 155
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -77
+  action = movebutton
+  y = 85
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 75
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 3
+  action = movebutton
+  y = 85
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 75
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = 85
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 153
+  action = deep_customization_element:title_screen_branding
+  actionid = 092a1851-dc92-4984-a7c5-ee53b9e702c11696091644283
+  y = 241
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 4efd2368-b3af-42df-aae7-2808397124391696091644293
+  y = 163
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 3880e510-d350-48f5-ae4d-57e3d49282b81696091644293
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 8
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 012e2fca-c8fe-4e12-948d-1056d9f5fb8a1696091644293
+  y = 8
+  splash_file_path = config/paxi/miscellaneous/fancymenu/splashmenu.txt
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  hoverlabel = Play With Friends!
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.bisecthosting.com/PixelDream%btnaction_splitter_fm%
+  x = -77
+  width = 155
+  action = addbutton
+  actionid = d6365f4f-efd9-4b07-b51a-d6cfd0a980e21696628848469
+  y = 61
+  label = BisectHosting
+  height = 20
+}
+
+customization {
+  path = config/paxi/miscellaneous/fancymenu/logo.png
+  orientation = mid-centered
+  x = -152
+  width = 305
+  action = addtexture
+  actionid = 7a677307-24e8-4ae3-88eb-24d98e691a951697112715931
+  y = -131
+  height = 116
+}
+

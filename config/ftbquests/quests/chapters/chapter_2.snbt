@@ -1,0 +1,1720 @@
+{
+	autofocus_id: "05CD294DC47FBE52"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "chapter_2"
+	group: "1AAFABCE3EF340C4"
+	icon: "minecraft:filled_map"
+	id: "4DC1FFE7F51C774D"
+	images: [
+		{
+			click: "#76B32947408A26C5"
+			height: 0.5d
+			hover: ["This is a linked quest! Click here to go to the quest in question!"]
+			image: "ftbquests:textures/gui/info.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.785778061224505d
+			y: -4.618364846938775d
+		}
+		{
+			click: "#0871A7055CCA9676"
+			height: 0.5d
+			hover: ["This is a linked quest! Click here to go to the quest in question!"]
+			image: "ftbquests:textures/gui/info.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 4.03333333333336d
+			y: -3.852380952380969d
+		}
+		{
+			click: "#1CE275C92A3553F8"
+			height: 0.5d
+			hover: ["This is a linked quest! Click here to go to the quest in question!"]
+			image: "ftbquests:textures/gui/info.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: -3.9892857142856997d
+			y: -4.602040816326532d
+		}
+		{
+			click: "#4609B00274DAD2C5"
+			height: 0.5d
+			hover: ["This quest needs other quests completed for it to be completed!"]
+			image: "ftbquests:textures/gui/alert.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: -2.991326530612241d
+			y: -3.1301020408163254d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/moonstone_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.659693877551007d
+			y: -3.9897959183673493d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/moonstone_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.508503401360542d
+			y: -3.9897959183673564d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/moonstone_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.067857142857129d
+			y: -4.852040816326532d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/moonstone_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.35357142857142d
+			y: -3.9948979591836746d
+		}
+		{
+			height: 1.0d
+			image: "soulsweapons:block/moonstone_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.92499999999999d
+			y: -4.852040816326532d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_pickaxe"
+			rotation: -90.0d
+			width: 1.0d
+			x: -6.2515306122448635d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/minecart"
+			rotation: 45.0d
+			width: 1.0d
+			x: -6.251530612244878d
+			y: -3.8469387755102247d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.802551020408131d
+			y: -3.1326530612245094d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.659693877550993d
+			y: -3.1326530612245094d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.496428571428538d
+			y: -3.1326530612245094d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.353571428571392d
+			y: -3.1326530612245094d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.190306122448952d
+			y: -3.1326530612245094d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/big_chain"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.843367346938756d
+			y: -3.9897959183673635d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/big_chain"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.822959183673447d
+			y: -4.785714285714306d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/big_chain"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.8025510204081385d
+			y: -5.561224489795936d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/big_chain"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.8025510204081385d
+			y: -6.33673469387757d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/big_chain"
+			order: -5
+			rotation: 180.0d
+			width: 1.0d
+			x: -9.183503401360518d
+			y: -3.965986394557852d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/big_chain"
+			order: -5
+			rotation: 180.0d
+			width: 1.0d
+			x: -9.183503401360518d
+			y: -4.799319727891188d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/big_chain"
+			order: -5
+			rotation: 180.0d
+			width: 1.0d
+			x: -9.183503401360518d
+			y: -5.585034013605476d
+		}
+		{
+			height: 1.0d
+			image: "minecells:block/big_chain"
+			order: -5
+			rotation: 180.0d
+			width: 1.0d
+			x: -9.183503401360518d
+			y: -6.370748299319761d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.70051020408161d
+			y: -2.5408163265306385d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.8501700680271895d
+			y: -2.5374149659864145d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.016836734693854d
+			y: -2.5374149659864145d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.149489795918349d
+			y: -2.56122448979594d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.16989795918365d
+			y: -6.989795918367371d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.333163265306105d
+			y: -6.989795918367374d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.476020408163258d
+			y: -6.989795918367374d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.618877551020397d
+			y: -6.989795918367374d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.761734693877536d
+			y: -6.989795918367374d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.873979591836722d
+			y: -7.425170068027239d
+		}
+		{
+			height: 0.5d
+			image: "meadow:block/pine_slab_double"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.064455782312912d
+			y: -7.425170068027242d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:block/torch_1"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.499744897959168d
+			y: -5.694727891156486d
+		}
+		{
+			click: "#4609B00274DAD2C5"
+			height: 0.5d
+			hover: ["This quest needs other quests completed for it to be completed!"]
+			image: "ftbquests:textures/gui/alert.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 7.785778061224505d
+			y: -3.1040791326530623d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.340051020408147d
+			y: -2.565476190476165d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.336734693877546d
+			y: -3.3979591836734606d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -3.3979591836734677d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.336734693877567d
+			y: -3.4999999999999964d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.500000000000007d
+			y: -4.255102040816322d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.500000000000014d
+			y: -5.112244897959176d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/light_blue_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.357142857142868d
+			y: -5.112244897959169d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/light_blue_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.357142857142875d
+			y: -5.948979591836725d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/light_blue_concrete"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.357142857142868d
+			y: -6.4999999999999964d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/light_blue_concrete"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.806122448979607d
+			y: -5.642857142857135d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.193877551020421d
+			y: -3.3979591836734606d
+		}
+		{
+			click: "#4D43FF6108D9CE9F"
+			dependency: "4752E5852F34F3A6"
+			height: 1.0d
+			hover: ["What could be in here?"]
+			image: "minecraft:block/obsidian"
+			order: 5
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.069642857142846d
+			y: -3.4175170068027008d
+		}
+		{
+			height: 1.3d
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.026913265306142d
+			y: -2.878571428571437d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.88775510204082d
+			y: -3.3979591836734677d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.030612244897966d
+			y: -4.255102040816329d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.744897959183689d
+			y: -2.5408163265306136d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.744897959183696d
+			y: -3.3775510204081662d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.60204081632655d
+			y: -3.3775510204081662d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.60204081632655d
+			y: -4.214285714285719d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.60204081632655d
+			y: -5.071428571428573d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cyan_concrete"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.744897959183696d
+			y: -3.5000000000000036d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/light_blue_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.744897959183696d
+			y: -5.071428571428573d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/light_blue_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.744897959183696d
+			y: -5.928571428571431d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/light_blue_concrete"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.744897959183696d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/light_blue_concrete"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.336734693877581d
+			y: -5.642857142857142d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.340051020408147d
+			y: -4.065476190476165d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.707823129251715d
+			y: -4.03639455782314d
+		}
+		{
+			click: "#379B190178527392"
+			height: 1.0d
+			image: "fantasy_mc:textures/newquestimg/openchest.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.042857142857144d
+			y: -3.4142857142857252d
+		}
+		{
+			dependency: "6D1F875F6795B6EE"
+			height: 1.0d
+			image: "minecraft:block/obsidian"
+			rotation: 45.0d
+			width: 1.0d
+			x: 14.957525510204093d
+			y: -5.633673469387755d
+		}
+		{
+			dependency: "6D1F875F6795B6EE"
+			height: 0.15d
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.15d
+			x: 13.08686224489798d
+			y: -5.119217687074851d
+		}
+		{
+			dependency: "6D1F875F6795B6EE"
+			height: 0.15d
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.15d
+			x: 13.046045918367362d
+			y: -4.792687074829956d
+		}
+		{
+			dependency: "6D1F875F6795B6EE"
+			height: 0.15d
+			image: "minecraft:block/obsidian"
+			rotation: 0.0d
+			width: 0.15d
+			x: 12.637882653061233d
+			y: -4.853911564625875d
+		}
+		{
+			height: 4.0d
+			image: "fantasy_mc:textures/border1.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 2.3190476190476375d
+			y: -7.423809523809545d
+		}
+		{
+			height: 1.2d
+			image: "minecells:block/colored_torch/promenade"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.219451530612261d
+			y: -6.765303622448975d
+		}
+		{
+			click: "#7F81F10136C60F28"
+			height: 1.5d
+			hover: ["Next"]
+			image: "fantasy_mc:textures/newquestimg/next.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 4.3666666666666885d
+			y: -2.0904761904762097d
+		}
+		{
+			click: "#7E81B8B6138F1BFE"
+			height: 1.5d
+			hover: ["Menu"]
+			image: "fantasy_mc:textures/newquestimg/menu.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.3666666666666885d
+			y: -2.0904761904762097d
+		}
+		{
+			click: "#0E7D5F6CF416A64F"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.36666666666668846d
+			y: -2.0904761904762097d
+		}
+	]
+	order_index: 1
+	quest_links: [
+		{
+			id: "36C86F85504B1DCD"
+			linked_quest: "1CE275C92A3553F8"
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			id: "61B91F8BFECD8715"
+			linked_quest: "76B32947408A26C5"
+			x: 8.75d
+			y: -4.0d
+		}
+		{
+			id: "05CD294DC47FBE52"
+			linked_quest: "0871A7055CCA9676"
+			x: 3.75d
+			y: -3.0d
+		}
+		{
+			id: "52EB6561162C9016"
+			linked_quest: "05E732FCF4D5215C"
+			x: 3.75d
+			y: -4.75d
+		}
+	]
+	quests: [
+		{
+			dependencies: [
+				"1CE275C92A3553F8"
+				"54A3BBE81F82B650"
+				"7DFE0BDE2F9F3433"
+				"347C252B95C7060E"
+			]
+			description: [
+				"- &9Moonstone Compass&r leads you to the Old Champion's Grave in the Overworld and The Decaying Kingdom in the Nether"
+				"- &8Explorer's Compass&r can lead you to any structure in a ~10000 blocks range"
+				"- &aNature's Compass&r does the same but for biomes"
+			]
+			id: "4AD429830B2F1491"
+			min_required_dependencies: 2
+			rewards: [{
+				id: "508EFA1E31AAE945"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "To the Unknown"
+			tasks: [
+				{
+					id: "1B132DB35DAF2B01"
+					item: "soulsweapons:boss_compass"
+					type: "item"
+				}
+				{
+					id: "6EE9D310452E017F"
+					item: {
+						Count: 1
+						id: "explorerscompass:explorerscompass"
+						tag: { }
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "55EE63B83FB9B66B"
+					item: {
+						Count: 1
+						id: "naturescompass:naturescompass"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Compasses"
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"05E732FCF4D5215C"
+				"0871A7055CCA9676"
+				"347C252B95C7060E"
+			]
+			id: "4DE35128338002CA"
+			rewards: [{
+				id: "30BF9305FFA41C65"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "mythicmetals:midas_gold_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "330AAFD48218E45C"
+				structure: "soulsweapons:cathedral_of_resurrection"
+				title: "Find the Cathedral of Ressurection"
+				type: "structure"
+			}]
+			title: "&aCathedral of Resurrection"
+			x: 6.75d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"4AD429830B2F1491"
+				"347C252B95C7060E"
+			]
+			id: "5DA3FF624B82114C"
+			rewards: [{
+				id: "1954269AE9BD79A9"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "His soul still lingers 'till today..."
+			tasks: [{
+				icon: "minecells:rotting_corpse"
+				id: "2A59DD59CDFD1BB4"
+				structure: "soulsweapons:champions_graves"
+				title: "Find the Old Champion's Grave"
+				type: "structure"
+			}]
+			title: "&aOld Champion's Grave"
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"1CE275C92A3553F8"
+				"347C252B95C7060E"
+			]
+			id: "54A3BBE81F82B650"
+			optional: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run puffish_skills points add @p simplyskills:tree 1"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "fantasy_mc:textures/newquestimg/scroll.png"
+					}
+				}
+				id: "3B795F30203695F6"
+				silent: true
+				title: "+1 Skill Point"
+				type: "command"
+			}]
+			tasks: [
+				{
+					id: "273C77E9F23F7E2F"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "53005B3AD595E75B"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "43DC8E37EA88642C"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "63584E97A585C24A"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"4DE35128338002CA"
+				"347C252B95C7060E"
+			]
+			id: "6F8B42D9EA3E0AB5"
+			optional: true
+			rewards: [{
+				id: "477D1865B2DC1267"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				advancement: "minecraft:story/enchant_item"
+				criterion: ""
+				id: "1F77A7C68518FA48"
+				type: "advancement"
+			}]
+			x: 7.75d
+			y: -5.5d
+		}
+		{
+			can_repeat: false
+			dependencies: ["76B32947408A26C5"]
+			disable_toast: true
+			hide_dependency_lines: true
+			id: "4D43FF6108D9CE9F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 4752E5852F34F3A6"
+					elevate_perms: true
+					id: "71BEFDDE273B800F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 6D1F875F6795B6EE"
+					elevate_perms: true
+					id: "5C4423F9CC13F4F4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 0E7D5F6CF416A64F"
+					elevate_perms: true
+					id: "1CFBCD8ED620F5BB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 7BDEA8C6B47D0770"
+					elevate_perms: true
+					id: "32DB95CB44250B6D"
+					silent: true
+					type: "command"
+				}
+			]
+			size: 1.0E-5d
+			subtitle: "Require: Kill the Returning Knight"
+			tasks: [{
+				disable_toast: true
+				id: "7BDEA8C6B47D0770"
+				title: "<shake>Open?"
+				type: "checkmark"
+			}]
+			title: "<shake>Open?"
+			x: 12.571428571428584d
+			y: -2.45918367346939d
+		}
+		{
+			dependencies: ["30A373EA216B9340"]
+			description: ["dependcy"]
+			disable_toast: true
+			hide_dependency_lines: true
+			icon: "minecraft:bedrock"
+			id: "4752E5852F34F3A6"
+			size: 1.0E-5d
+			tasks: [{
+				consume_items: true
+				count: 64L
+				disable_toast: true
+				id: "3A05DE878E7BC80B"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: 12.571428571428584d
+			y: -1.6224489795918373d
+		}
+		{
+			disable_toast: true
+			id: "30A373EA216B9340"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 4752E5852F34F3A6"
+				elevate_perms: true
+				id: "6CCBDEF3DF453DFB"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-5d
+			tasks: [{
+				dimension: "minecraft:overworld"
+				disable_toast: true
+				id: "10D1B155702BBAFD"
+				type: "dimension"
+			}]
+			x: 10.836734693877553d
+			y: -1.6224489795918373d
+		}
+		{
+			can_repeat: false
+			disable_toast: true
+			hide_dependency_lines: true
+			id: "379B190178527392"
+			rewards: [{
+				auto: "enabled"
+				id: "45EEEF05F3797280"
+				item: "minecraft:totem_of_undying"
+				team_reward: true
+				type: "item"
+			}]
+			size: 1.0E-5d
+			tasks: [{
+				disable_toast: true
+				id: "3F79F692D99E5667"
+				type: "checkmark"
+			}]
+			title: "Easter egg!"
+			x: 10.836734693877553d
+			y: -2.45918367346939d
+		}
+		{
+			disable_toast: true
+			id: "6D1F875F6795B6EE"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run playsound minecraft:block.lantern.break player @p"
+				elevate_perms: true
+				id: "7DAB3F0CBCC504C7"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-5d
+			tasks: [{
+				consume_items: true
+				count: 64L
+				disable_toast: true
+				id: "73EB387BCAB453E7"
+				item: { Count: 64, id: "minecraft:budding_amethyst" }
+				type: "item"
+			}]
+			x: 11.678698979591864d
+			y: -5.062074829931994d
+		}
+		{
+			id: "40807FDBB1268993"
+			invisible: true
+			size: 1.0E-6d
+			tasks: [{
+				count: 64L
+				id: "3E04C2CF40400FEF"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Just to keep the quest centered"
+			x: -10.190433673469379d
+			y: -7.9897934183673485d
+		}
+		{
+			dependencies: ["76B32947408A26C5"]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+				}
+			}
+			id: "744EFDFC28B07423"
+			rewards: [
+				{
+					id: "2454E295E0650B3C"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "1CE909558EEA93D8"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "3CD05C1ADE373C4B"
+					item: "simplyskills:malevolent_manuscript"
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "08E07333388C699D"
+				title: "&4C&dh&1a&3p&6t&ee&fr &0R&8e&2w&ca&7r&9d"
+				type: "checkmark"
+			}]
+			title: "<rainb>Chapter Reward"
+			x: 2.334417517006841d
+			y: -7.403398860544236d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"76B32947408A26C5"
+				"347C252B95C7060E"
+			]
+			description: ["Available after completing the Returning Knight Quest!"]
+			hide_dependency_lines: true
+			icon: "origins:orb_of_origin"
+			id: "1FBE71EC9687B591"
+			rewards: [{
+				id: "27D2DF473D90905F"
+				item: "origins:orb_of_origin"
+				type: "item"
+			}]
+			subtitle: "Rebirth"
+			tasks: [
+				{
+					consume_items: true
+					count: 2L
+					id: "109957849E94137F"
+					item: { Count: 2, id: "paraglider:spirit_orb" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2516EE743C1058BF"
+					item: "soulsweapons:lost_soul"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 2L
+					id: "65EC6686C054C636"
+					item: { Count: 2, id: "paraglider:spirit_orb" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "468CDF8956C2CEBA"
+					item: "soulsweapons:lost_soul"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "323FD15C3DADE6F2"
+					item: "bosses_of_mass_destruction:soul_star"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "5BCBE4F9CDC86E84"
+					item: "soulsweapons:lost_soul"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 2L
+					id: "309B3990F157582D"
+					item: { Count: 2, id: "paraglider:spirit_orb" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "77677E29670169B3"
+					item: "soulsweapons:lost_soul"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 2L
+					id: "1E87FC141F769565"
+					item: { Count: 2, id: "paraglider:spirit_orb" }
+					type: "item"
+				}
+			]
+			title: "Orb of Origin"
+			x: -4.0d
+			y: -6.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "6369C5B8F84F51E4"
+			rewards: [{
+				id: "4AB6BF920C9F0456"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Find any Structures using this!"
+			tasks: [{
+				id: "3C82DC1482B66E2E"
+				item: {
+					Count: 1
+					id: "explorerscompass:explorerscompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.75d
+			y: -6.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "3CD7B512D06238EC"
+			rewards: [{
+				id: "10732E9B454275BD"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Disenchant your spare enchanted items!"
+			tasks: [{
+				id: "25F6DCCF84681BC5"
+				item: "disenchanter:disenchanter"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "22BB483F55C7153C"
+			rewards: [{
+				id: "20A0FF3563DB0CF1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Store your xp!"
+			tasks: [{
+				id: "139A153B63C8E49D"
+				item: "globalxp:xp_block"
+				type: "item"
+			}]
+			x: 8.75d
+			y: -7.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "728BAF6F5FDB258F"
+			rewards: [{
+				count: 32
+				id: "0EDF176FF62834DA"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "xtraarrows:iron_slime_arrow"
+				id: "4C8CFCB1D4554531"
+				structure: "ati_structures:ancient_temple"
+				type: "structure"
+			}]
+			title: "Ancient Temple"
+			x: 2.2891366547619185d
+			y: -5.402380952380959d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "2A34F54EC1851657"
+			rewards: [
+				{
+					count: 3
+					id: "3786EDF8FFDEFCC3"
+					item: "fwaystones:deepslate_brick_waystone"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "4460BE045E731EB1"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: "minecraft:cobbled_deepslate"
+				id: "3C36DA2EEC40A8FD"
+				structure: "ati_structures:deepslate_keep"
+				type: "structure"
+			}]
+			title: "Deepslate Keep"
+			x: -0.5d
+			y: -7.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "1568BA91E7B30CFB"
+			rewards: [{
+				count: 16
+				id: "2E428767079CB20D"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:sand"
+				id: "55C25C9246DE8D9B"
+				structure: "ati_structures:desert_outpost"
+				type: "structure"
+			}]
+			title: "Desert Outpost"
+			x: 5.25d
+			y: -7.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "2E0B6B8AF39B4B12"
+			rewards: [{
+				id: "3BDAB5ADBECCFA45"
+				item: {
+					Count: 1
+					id: "minecells:hattoris_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecells:hattoris_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "289B7C95E4105DAC"
+				structure: "ati_structures:dojo"
+				type: "structure"
+			}]
+			title: "Dojo"
+			x: -2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "00A2F372C440D951"
+			rewards: [
+				{
+					id: "3B0C08431A149F9C"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							CustomPotionColor: 16745820
+							CustomPotionEffects: [
+								{
+									Duration: 2000
+									Id: 22
+								}
+								{
+									Duration: 2000
+									Id: 24
+								}
+								{
+									Duration: 2000
+									Id: 3
+								}
+								{
+									Duration: 2000
+									Id: 21
+								}
+								{
+									Duration: 2000
+									Id: 6
+								}
+							]
+							display: {
+								Lore: [
+									"[{\"text\":\"this potion grants the\",\"italic\":false,\"color\":\"#ffffcc\"}]"
+									"[{\"text\":\"drinker physical prowess\",\"italic\":false,\"color\":\"#ffffcc\"}]"
+									"[{\"text\":\"and causing them to emit\",\"italic\":false,\"color\":\"#ffffcc\"}]"
+									"[{\"text\":\"a radiant glow\",\"italic\":false,\"color\":\"#ffffcc\"}]"
+								]
+								Name: "[{\"text\":\"Potion of\",\"italic\":false},{\"text\":\" \",\"color\":\"#ffff66\"},{\"text\":\"Celestial\",\"color\":\"#ffff66\",\"bold\":true},{\"text\":\" \",\"color\":\"#ffff66\",\"bold\":true},{\"text\":\"Strength\",\"color\":\"red\",\"bold\":true}]"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "4BC739BA4D9C6DFE"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: "minecraft:granite"
+				id: "5C9D8096271A4DC6"
+				structure: "ati_structures:granite_fort"
+				type: "structure"
+			}]
+			title: "Granite Fort"
+			x: 6.75d
+			y: -0.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "099B027CE5D2E4A3"
+			rewards: [{
+				id: "60FF5AD0D25494E1"
+				item: "minecraft:golden_apple"
+				type: "item"
+			}]
+			subtitle: "&o&mHerobrine?"
+			tasks: [{
+				icon: "minecraft:player_head"
+				id: "1B08F6CC74DED99C"
+				structure: "ati_structures:herobrine_stronghold"
+				type: "structure"
+			}]
+			title: "Herobrine Stronghold"
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "652C43C43FC392BA"
+			rewards: [{
+				id: "6542CF8DE20A9233"
+				item: {
+					Count: 1
+					id: "jewelry:emerald_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:dark_oak_wood"
+				id: "14D51AA0443C81FF"
+				structure: "ati_structures:manor"
+				type: "structure"
+			}]
+			title: "Manor"
+			x: 8.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "553F8F4C13380454"
+			rewards: [{
+				id: "35E980BE05551A14"
+				item: {
+					Count: 1
+					id: "artifality:haunting_soul"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:wither_skeleton_skull"
+				id: "7D43CD48F85FBD85"
+				structure: "ati_structures:monastery_tower"
+				title: "Monastery Tower"
+				type: "structure"
+			}]
+			x: -3.75d
+			y: -0.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "55A8A3D4F3B6B3AD"
+			rewards: [{
+				id: "6AFB16A312B8B07D"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:mossy_cobblestone"
+				id: "4E98E93CDE2E5E30"
+				structure: "ati_structures:old_fort"
+				type: "structure"
+			}]
+			title: "Old Fort"
+			x: 8.5d
+			y: -0.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "47F58C1307A0D729"
+			rewards: [
+				{
+					count: 5
+					id: "5FB201589E45A3A0"
+					item: "minecraft:diamond_ore"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "05B89B2D87D1591D"
+					item: "minecraft:emerald_ore"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "78E4E9590CCE2579"
+					item: "minecraft:gold_ore"
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "mythicmetals:mythril_drill"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "71ECE6E0B1620BFF"
+				structure: "ati_structures:quarry"
+				type: "structure"
+			}]
+			title: "Quarry"
+			x: 0.25d
+			y: -0.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "1BE6969290A9CC87"
+			rewards: [
+				{
+					id: "1362C1B4394E3462"
+					item: {
+						Count: 1
+						id: "minecraft:trident"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "503A46F5CC0C616A"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "goblintraders:extended_water_breathing"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecraft:trident"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "0726A04065F517B6"
+				structure: "ati_structures:sinking_temple"
+				title: "Sinking Temple"
+				type: "structure"
+			}]
+			x: 4.5d
+			y: -0.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "710163183F0885A9"
+			rewards: [{
+				id: "366122CB91A5C0C5"
+				item: "minecraft:totem_of_undying"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:sand"
+				id: "7F4F3FCC21FFEA4D"
+				structure: "betterdeserttemples:desert_temple"
+				type: "structure"
+			}]
+			title: "&m(Better)&r Desert Temple"
+			x: 2.3690476190476275d
+			y: -0.1190476190476204d
+		}
+		{
+			dependencies: [
+				"1CE275C92A3553F8"
+				"52D6C04A1112860F"
+				"69764B398627CAEB"
+				"73E56BAC1D1B3D56"
+				"17112D0009FC6CE1"
+				"391E39048DEB2360"
+				"70FF3378F5DF82C9"
+				"7883A19571A8FEAF"
+				"28664CB7E7273762"
+				"644B305E14F63EF4"
+				"35CF12EAC527A2A5"
+				"6C2B68B1A533C986"
+				"693BA7B653390D07"
+				"30B60FEA039AA373"
+				"1C3ECDA556DA4279"
+				"3359558A272EAAC4"
+				"2088D012D3865D26"
+				"021A4081EB1B81BA"
+				"0485842149986A00"
+				"0A19873B96B879A7"
+				"33341D467EEA71A6"
+				"195DEC774B7157E5"
+				"6D3E789A0945E05F"
+				"7795DD5470978C69"
+				"0A0782E9E901A550"
+				"647794FA22C32F0F"
+				"68073475D22D5B97"
+				"3626322E8850D211"
+				"379A63D41D729B77"
+				"1C1DE68A3D929448"
+				"7C302F5BEAFF16C5"
+				"6E36949B586BEE14"
+				"618C521F620411C2"
+				"61D5B2B8BED1E4EB"
+				"3B1AD8C00515DF16"
+				"0A979CC078C693CA"
+				"2E25908314907E68"
+				"13997357C5249502"
+				"6413F606958D56F4"
+				"4E5BF03B142064B1"
+				"623BD2D7B22040B9"
+				"7ABF63DA3D5646C6"
+				"0D7E66076BB2C733"
+				"6569B72758E14955"
+				"5B1C1E035D8BA968"
+				"3D8ED4F6E8C8974C"
+				"3753AAC73F2B0343"
+				"15FDEB8D6AD9E955"
+				"0C85623EDB7BDBBD"
+				"5F16C50A3B4E9AAF"
+				"0ABDCB4BCC04B40D"
+				"634BCF4BD7A8516B"
+				"1695C4204563B905"
+				"23203CAF1727467F"
+				"6CAEA299AF38A805"
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/scroll.png"
+				}
+			}
+			id: "7DFE0BDE2F9F3433"
+			min_required_dependencies: 6
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run puffish_skills points add @p simplyskills:tree 1"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "fantasy_mc:textures/newquestimg/scroll.png"
+					}
+				}
+				id: "7CFAF170FEF791B6"
+				silent: true
+				title: "+1 Skill Point"
+				type: "command"
+			}]
+			tasks: [{
+				id: "07314E73B7F26A6C"
+				title: "Complete 6 quests in Spellswords/Wizards"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"52D6C04A1112860F"
+				"69764B398627CAEB"
+				"73E56BAC1D1B3D56"
+				"17112D0009FC6CE1"
+				"391E39048DEB2360"
+				"70FF3378F5DF82C9"
+				"7883A19571A8FEAF"
+				"28664CB7E7273762"
+				"644B305E14F63EF4"
+				"35CF12EAC527A2A5"
+				"6C2B68B1A533C986"
+				"693BA7B653390D07"
+				"30B60FEA039AA373"
+				"1C3ECDA556DA4279"
+				"3359558A272EAAC4"
+				"2088D012D3865D26"
+				"021A4081EB1B81BA"
+				"0485842149986A00"
+				"0A19873B96B879A7"
+				"33341D467EEA71A6"
+				"195DEC774B7157E5"
+				"6D3E789A0945E05F"
+				"7795DD5470978C69"
+				"0A0782E9E901A550"
+				"647794FA22C32F0F"
+				"68073475D22D5B97"
+				"3626322E8850D211"
+				"379A63D41D729B77"
+				"1C1DE68A3D929448"
+				"7C302F5BEAFF16C5"
+				"6E36949B586BEE14"
+				"618C521F620411C2"
+				"61D5B2B8BED1E4EB"
+				"3B1AD8C00515DF16"
+				"0A979CC078C693CA"
+				"2E25908314907E68"
+				"13997357C5249502"
+				"6413F606958D56F4"
+				"4E5BF03B142064B1"
+				"623BD2D7B22040B9"
+				"7ABF63DA3D5646C6"
+				"0D7E66076BB2C733"
+				"6569B72758E14955"
+				"5B1C1E035D8BA968"
+				"3D8ED4F6E8C8974C"
+				"3753AAC73F2B0343"
+				"15FDEB8D6AD9E955"
+				"0C85623EDB7BDBBD"
+				"5F16C50A3B4E9AAF"
+				"0ABDCB4BCC04B40D"
+				"4DE35128338002CA"
+				"634BCF4BD7A8516B"
+				"1695C4204563B905"
+				"23203CAF1727467F"
+				"6CAEA299AF38A805"
+				"347C252B95C7060E"
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/scroll.png"
+				}
+			}
+			id: "42969829D95B7087"
+			min_required_dependencies: 16
+			optional: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run puffish_skills points add @p simplyskills:tree 1"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "fantasy_mc:textures/newquestimg/scroll.png"
+					}
+				}
+				id: "37E5D95D8D5421BB"
+				silent: true
+				title: "+1 Skill Point"
+				type: "command"
+			}]
+			tasks: [{
+				id: "4BC6C836EA13B292"
+				title: "Complete 16 quests in Spellswords/Wizards"
+				type: "checkmark"
+			}]
+			x: 7.75d
+			y: -2.5d
+		}
+	]
+	subtitle: ["&bAn Adventure Awaits!"]
+	title: "Chapter 2"
+}

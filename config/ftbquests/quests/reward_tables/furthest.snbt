@@ -1,0 +1,24 @@
+{
+	id: "0A2073691EDEC1DE"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			auto: "invisible"
+			command: "/execute as @p at @p run ftbquests change_progress @p complete 1D03617F631EA056"
+			elevate_perms: true
+			silent: true
+			type: "command"
+			weight: 80.0f
+		}
+		{
+			auto: "invisible"
+			command: "/execute as @p at @p run ftbquests change_progress @p complete 76AF3D591BC7F150"
+			elevate_perms: true
+			silent: true
+			type: "command"
+			weight: 20.0f
+		}
+	]
+	title: "Furthest"
+}

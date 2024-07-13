@@ -1,0 +1,34 @@
+[biomes]
+enabled = false
+textFadeInTime = 10
+textDisplayTime = 50
+textFadeOutTime = 10
+textCooldownTime = 0
+textColor = "ffffff"
+textSize = 1.0
+renderShadow = true
+textYOffset = 60
+textXOffset = 0
+biomeBlacklist = "[minecraft:the_end, minecraft:river, minecraft:frozen_river]"
+recentBiomeCacheSize = 0
+centerText = true
+resetBiomeCacheOnDimensionChange = true
+onlyUpdateAtSurface = true
+[dimensions]
+enabled = true
+textFadeInTime = 10
+textDisplayTime = 70
+textFadeOutTime = 20
+textColor = "ffffff"
+textSize = 3.0
+renderShadow = true
+textYOffset = -32
+textXOffset = 0
+dimensionBlacklist = "[]"
+centerText = true
+onlyUpdateAtSurface = false
+[sound]
+biomeVolume = 1.0
+biomePitch = 1.0
+dimensionVolume = 1.0
+dimensionPitch = 1.0

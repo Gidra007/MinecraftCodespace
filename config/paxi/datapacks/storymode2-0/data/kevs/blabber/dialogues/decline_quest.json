@@ -1,0 +1,59 @@
+{
+  "states": {
+    "start": {
+      "text": "<typewriter>Well this is weird... I don't recall you accepting the quest.",
+      "choices": [
+        {
+          "text": "Who are you?!?",
+          "next": "who"
+        },
+        {
+          "next": "workday",
+          "text": "Is this bring your kid to work day?"
+        }
+      ]
+    },
+    "end": {
+      "type": "end_dialogue",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run function kevs:reainecromancer"
+      }
+    },
+    "who": {
+      "text": "<typewriter>I am THE <wiggle>Necromancer</wiggle>! Were you trying to be a hero in the shadows or something? ",
+      "choices": [
+        {
+          "next": "end",
+          "text": "..."
+        },
+        {
+          "next": "end",
+          "text": "I didn't care about the rewards."
+        }
+      ]
+    },
+    "workday": {
+      "text": "<typewriter>Yes unfortunately... <shake>Ehem</shake>. Anyways! I am THE <wiggle>Necromancer</wiggle>! Were you trying to be a hero in the shadows or something? ",
+      "choices": [
+        {
+          "next": "end",
+          "text": "..."
+        },
+        {
+          "next": "end",
+          "text": "I didn't care about the rewards."
+        }
+      ],
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run advancement grant @p only kevs:bringyourkidtowork"
+      }
+    }
+  },
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": true,
+  "start_at": "start"
+}

@@ -1,0 +1,1262 @@
+{
+	autofocus_id: "5B15209EA4E47B9D"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "chapter_5"
+	group: "1AAFABCE3EF340C4"
+	icon: "deeperdarker:heart_of_the_deep"
+	id: "2609E07EBFE18097"
+	images: [
+		{
+			click: "#553FF179C097358A"
+			height: 1.0d
+			image: "minecraft:block/sculk_sensor_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.52040816326533d
+			y: -2.170748299319726d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sculk_sensor_tendril_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.25d
+			y: -2.5947278911564666d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sculk_sensor_tendril_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.698979591836746d
+			y: -2.5947278911564666d
+		}
+		{
+			click: "#5BD73CC20F21096F"
+			height: 1.0d
+			image: "minecraft:block/sculk_sensor_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.440476190476211d
+			y: -2.089625850340134d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sculk_sensor_tendril_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.25d
+			y: -2.4795918367346914d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sculk_sensor_tendril_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.63775510204082d
+			y: -2.5d
+		}
+		{
+			click: "#093B87D896913563"
+			height: 1.0d
+			image: "minecraft:block/sculk_sensor_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.680272108843546d
+			y: -9.594727891156467d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sculk_sensor_tendril_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sculk_sensor_tendril_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.867346938775512d
+			y: -9.98690476190475d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -2.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -3.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/sculk_gleam"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.75d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.75d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.75d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.25d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.25d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.25d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -4.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			order: -1
+			rotation: 90.0d
+			width: 1.0d
+			x: 9.25d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			order: -1
+			rotation: 90.0d
+			width: 1.0d
+			x: 8.75d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			order: -1
+			rotation: 90.0d
+			width: 1.0d
+			x: 8.25d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.25d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.75d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.75d
+			y: -4.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.75d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.25d
+			y: -4.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -4.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.25d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			order: -1
+			rotation: 90.0d
+			width: 1.0d
+			x: 11.25d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_log"
+			order: -1
+			rotation: 90.0d
+			width: 1.0d
+			x: 12.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/sculk_gleam"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -3.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -6.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.25d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.25d
+			y: -4.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: -4.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.25d
+			y: -6.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.75d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: -6.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -6.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.75d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.25d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: -7.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.75d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.25d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.25d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -4.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.75d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -7.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -7.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.25d
+			y: -8.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -8.25d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -7.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -7.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -6.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/echo_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.25d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/sculk_gleam"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.25d
+			y: -5.5d
+		}
+	]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "0437A1F52D078D5A"
+			rewards: [{
+				id: "261E3C389B340ED2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Screams echoed through the caves..."
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				icon: "deeperdarker:heart_of_the_deep"
+				id: "4569E695AB68F160"
+				type: "dimension"
+			}]
+			title: "The Otherside"
+			x: 12.75d
+			y: -0.75d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "4E6AE6C4375F875C"
+			rewards: [{
+				id: "77460E860DBC4DF3"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "deeperdarker:shattered"
+				id: "32C82CDE31936C95"
+				type: "kill"
+				value: 10L
+			}]
+			x: 5.75d
+			y: -5.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "007AD8D680D3B7E4"
+			rewards: [{
+				id: "4732E513FC227129"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "deeperdarker:sculk_centipede"
+				id: "12D94BDE8A9CFBCD"
+				type: "kill"
+				value: 10L
+			}]
+			x: 15.0d
+			y: -5.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "71B7C13EDF54E896"
+			rewards: [{
+				id: "66D44CDA5349A4B9"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "deeperdarker:sculk_leech"
+				id: "261FEBBD6D4240B7"
+				type: "kill"
+				value: 10L
+			}]
+			x: 15.25d
+			y: -3.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "34F72B466990AA7A"
+			rewards: [{
+				id: "41EABF4CDAD61C3E"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "deeperdarker:sculk_snapper"
+				id: "64D19F1B40AA213C"
+				type: "kill"
+				value: 10L
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "4BB6308147C895B8"
+			rewards: [{
+				count: 3
+				id: "349BBB04F5FCFCB9"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "deeperdarker:stalker"
+				id: "7C6B79A2D7F28E1E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 14.25d
+			y: -7.5d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "649D7FDE1F3ABFE8"
+			rewards: [{
+				count: 3
+				id: "59E5521B00E727D0"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "deeperdarker:shriek_worm"
+				id: "0E3E2C69CCD3B4B2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.5d
+			y: -7.5d
+		}
+		{
+			disable_toast: true
+			id: "448A4059F1850868"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p reset 7AF637B165AD096B"
+				elevate_perms: true
+				id: "450EC7A522627F47"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-7d
+			tasks: [{
+				dimension: "minecraft:overworld"
+				disable_toast: true
+				id: "1B46346FBE035F59"
+				type: "dimension"
+			}]
+			x: 9.25d
+			y: 2.0d
+		}
+		{
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "7AF637B165AD096B"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p reset 448A4059F1850868"
+				elevate_perms: true
+				id: "790DEBA2E4C102EA"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-7d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				disable_toast: true
+				id: "19DB707B67CC8565"
+				type: "dimension"
+			}]
+			x: 11.75d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7AF637B165AD096B"
+				"347C252B95C7060E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5B15209EA4E47B9D"
+			rewards: [
+				{
+					count: 4
+					id: "0653177F95BD7DFE"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "5EF1C42A68509324"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			subtitle: "Challenge: Kill 10 Wardens only in the Otherside Dimension"
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "3BDCE356F700098C"
+				type: "kill"
+				value: 10L
+			}]
+			x: 11.0d
+			y: -3.25d
+		}
+		{
+			dependencies: [
+				"0437A1F52D078D5A"
+				"347C252B95C7060E"
+			]
+			id: "42E5B5EE3C850F20"
+			rewards: [{
+				count: 2
+				id: "751C6C7CCD948FBD"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "deeperdarker:ancient_vase"
+				id: "163DC07ADA064F4A"
+				structure: "deeperdarker:ancient_temple"
+				type: "structure"
+			}]
+			title: "Ancient Temple"
+			x: 8.25d
+			y: -0.75d
+		}
+		{
+			dependencies: ["7AF637B165AD096B"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "553FF179C097358A"
+			size: 1.0E-7d
+			subtitle: "Only available in the Otherside"
+			tasks: [{
+				disable_toast: true
+				id: "2374EA98413C1AE2"
+				title: "Make noise?"
+				type: "checkmark"
+			}]
+			title: "You're near a sculk sensor"
+			x: 8.75d
+			y: 0.75d
+		}
+		{
+			dependencies: ["7AF637B165AD096B"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5BD73CC20F21096F"
+			size: 1.0E-7d
+			subtitle: "Only available in the Otherside"
+			tasks: [{
+				disable_toast: true
+				id: "661D3931F8393746"
+				title: "Make noise?"
+				type: "checkmark"
+			}]
+			title: "You're near a sculk sensor"
+			x: 12.25d
+			y: 0.75d
+		}
+		{
+			dependencies: ["7AF637B165AD096B"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "093B87D896913563"
+			size: 1.0E-7d
+			subtitle: "Only available in the Otherside"
+			tasks: [{
+				disable_toast: true
+				id: "732B817DF8AB880B"
+				title: "Make noise?"
+				type: "checkmark"
+			}]
+			title: "You're near a sculk sensor"
+			x: 10.5d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"093B87D896913563"
+				"553FF179C097358A"
+				"5BD73CC20F21096F"
+				"78462600AB557159"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5C3811B6778329C6"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run summon deeperdarker:stalker"
+					elevate_perms: true
+					id: "0D48AF9D88664E8B"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run summon deeperdarker:shriek_worm"
+					elevate_perms: true
+					id: "43CEF4CD6D1B1396"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run summon warden"
+					elevate_perms: true
+					id: "0635C17EEE690814"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			size: 1.0E-7d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				disable_toast: true
+				id: "6392B041DDB1662F"
+				type: "dimension"
+			}]
+			x: 14.25d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"093B87D896913563"
+				"553FF179C097358A"
+				"5BD73CC20F21096F"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "76D8249D10D52CCD"
+			min_required_dependencies: 1
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You made some noise! (1/3)\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "2FF84EF14DF0B440"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-7d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				disable_toast: true
+				id: "7194976F12AA8195"
+				type: "dimension"
+			}]
+			x: 12.25d
+			y: 3.25d
+		}
+		{
+			dependencies: [
+				"093B87D896913563"
+				"553FF179C097358A"
+				"5BD73CC20F21096F"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "7CEEAC89D2EB7C16"
+			min_required_dependencies: 2
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You feel uneasy... It might not be wise to make more noise. (2/3)\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "39F02136AFB31AD4"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-7d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				disable_toast: true
+				id: "736BB01855C85313"
+				type: "dimension"
+			}]
+			x: 10.5d
+			y: 3.25d
+		}
+		{
+			dependencies: [
+				"093B87D896913563"
+				"553FF179C097358A"
+				"5BD73CC20F21096F"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "78462600AB557159"
+			min_required_dependencies: 3
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"Impending doom aproaches...\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "43A7249E257C8B65"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0E-7d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				disable_toast: true
+				id: "35C02C798FAB6BFD"
+				type: "dimension"
+			}]
+			x: 8.75d
+			y: 3.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "659BEAC00EB3C2C1"
+			rewards: [{
+				id: "22B240D4A6489BA5"
+				item: {
+					Count: 1
+					id: "deeperdarker:soul_elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5626EEF9AE5AE70F"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "429BD256C4F11235"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D2523E103441B54"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C4F9650834F431F"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&4The Skin of my Enemy"
+			x: 13.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "14D99317415ADDF8"
+			rewards: [{
+				id: "262B3BB08332C7AB"
+				type: "xp_levels"
+				xp_levels: 50
+			}]
+			tasks: [
+				{
+					id: "54470FD813C4ACC9"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C8371EA76666516"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0643FFF0B56E417D"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1F11EA427F7BEF46"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24C9BC0AA0556E64"
+					item: {
+						Count: 1
+						id: "deeperdarker:warden_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&4Fight fire with fire"
+			x: 7.5d
+			y: -2.25d
+		}
+	]
+	subtitle: ["&8The Otherside..."]
+	title: "Chapter 5"
+}

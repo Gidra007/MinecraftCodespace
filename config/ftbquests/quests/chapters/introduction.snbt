@@ -1,0 +1,1007 @@
+{
+	autofocus_id: "38F8A964770E56E3"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "introduction"
+	group: "7DDF61ACA25A05AB"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "fantasy_mc:textures/fantasy.png"
+		}
+	}
+	id: "7E81B8B6138F1BFE"
+	images: [
+		{
+			height: 6.077714285714285d
+			image: "fantasy_mc:textures/fantasy.png"
+			order: 50
+			rotation: 0.0d
+			width: 16.0d
+			x: 1.517346938775468d
+			y: -2.2359132653061025d
+		}
+		{
+			click: "#08FB8566BA1005C9"
+			height: 2.0d
+			hover: ["<rainb>Your story begins..."]
+			image: "galosphere:block/warped_anchor_top_powered"
+			order: 50
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.512244897959178d
+			y: 0.9101632653061174d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_post_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_post_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:block/soul_torch_1"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.512244897959178d
+			y: 0.35914285714284944d
+		}
+		{
+			height: 0.25d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 0.5d
+			x: 4.512244897959178d
+			y: 0.5836326530612226d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:block/soul_torch_1"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			height: 0.25d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 0.5d
+			x: -1.487755102040822d
+			y: 0.6856734693877513d
+		}
+		{
+			height: 0.35d
+			image: "betternether:block/basalt_bricks_1"
+			order: -100
+			rotation: 0.0d
+			width: 0.35d
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			height: 1.25d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: -1
+			rotation: -45.0d
+			width: 1.0d
+			x: -1.1816326530612358d
+			y: 1.6448571428571341d
+		}
+		{
+			height: 0.35d
+			image: "betternether:block/basalt_bricks_1"
+			order: -111
+			rotation: 0.0d
+			width: 0.35d
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.25d
+			image: "betternether:block/basalt_bricks_post_side"
+			rotation: 45.0d
+			width: 1.0d
+			x: 4.226530612244886d
+			y: 1.604040816326524d
+		}
+		{
+			height: 1.25d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: -1
+			rotation: 90.0d
+			width: 1.0d
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.25d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: -1
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "betternether:block/basalt_bricks_1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.25d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: 1
+			rotation: -90.0d
+			width: 1.0d
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.25d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: 1
+			rotation: -90.0d
+			width: 1.0d
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			height: 0.625d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: 1
+			rotation: -90.0d
+			width: 1.0d
+			x: 1.736734693877544d
+			y: 2.0326122448979547d
+		}
+		{
+			height: 0.625d
+			image: "betternether:block/basalt_bricks_post_side"
+			order: -1
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.2469387755101877d
+			y: 2.0326122448979547d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.146938775510165d
+			y: -2.66505102040815d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -45.0d
+			width: 1.0d
+			x: 6.831632653061199d
+			y: -2.893056122448982d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -10.0d
+			width: 1.0d
+			x: 6.545918367346907d
+			y: -2.2359132653061238d
+		}
+		{
+			height: 0.75d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: 75.0d
+			width: 1.0d
+			x: 6.089795918367308d
+			y: -2.0936224489795805d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -25.0d
+			width: 1.0d
+			x: 6.888775510204049d
+			y: -3.607341836734694d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -25.0d
+			width: 1.0d
+			x: 7.1744897959183405d
+			y: -4.264484693877559d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -25.0d
+			width: 1.0d
+			x: 7.403061224489768d
+			y: -4.921627551020411d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -25.0d
+			width: 1.0d
+			x: 7.688775510204046d
+			y: -5.6359132653061295d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -25.0d
+			width: 1.0d
+			x: 7.974489795918338d
+			y: -6.407341836734705d
+		}
+		{
+			click: "#"
+			height: 1.5d
+			hover: ["Our eternal bindings to the voids of time"]
+			image: "fwaystones:item/local_void_active"
+			rotation: 0.0d
+			width: 1.5d
+			x: 8.088775510204037d
+			y: -6.758928571428573d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7180272108843866d
+			y: -2.7742346938775384d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 20
+			rotation: -90.0d
+			width: 1.0d
+			x: -2.167006802721126d
+			y: -3.5497448979591795d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -35.0d
+			width: 1.0d
+			x: -2.656802721088468d
+			y: -3.386479591836725d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -75.0d
+			width: 1.0d
+			x: -2.715986394557838d
+			y: -4.094642857142837d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: 75.0d
+			width: 1.0d
+			x: -2.3166666666667055d
+			y: -2.7810374149659793d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -75.0d
+			width: 1.0d
+			x: -3.2057823129251872d
+			y: -4.788520408163244d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -75.0d
+			width: 1.0d
+			x: -3.675170068027228d
+			y: -5.502806122448966d
+		}
+		{
+			click: "#"
+			height: 1.5d
+			hover: ["Our eternal bindings to the voids of time"]
+			image: "fwaystones:item/local_void_active"
+			rotation: 0.0d
+			width: 1.5d
+			x: -4.389455782312943d
+			y: -6.604846938775491d
+		}
+		{
+			height: 1.0d
+			image: "decorative_blocks:item/chain"
+			order: 50
+			rotation: -75.0d
+			width: 1.0d
+			x: -4.12414965986396d
+			y: -6.196683673469369d
+		}
+		{
+			click: "#1CE275C92A3553F8"
+			height: 0.5d
+			hover: ["This is a linked quest! Click here to go to the quest in question!"]
+			image: "ftbquests:textures/gui/info.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			click: "#4609B00274DAD2C5"
+			height: 0.5d
+			hover: ["This quest needs other quests completed for it to be completed!"]
+			image: "ftbquests:textures/gui/alert.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			click: "#0E7D5F6CF416A64F"
+			height: 0.5d
+			hover: ["Click me!"]
+			image: "betternether:block/basalt_furnace_front_on"
+			rotation: 0.0d
+			width: 0.5d
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			click: "https://discord.gg/pixel-dream-studios-872788557553610802"
+			height: 1.0d
+			hover: ["Join our discord!"]
+			image: "minecells:textures/gui/button/discord.png"
+			order: 50
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 2.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			id: "0A68BA10D8CD689A"
+			rewards: [{
+				auto: "no_toast"
+				id: "28A4FF6BE1237E5C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "circle"
+			subtitle: "Here lies many secrets inside your story.."
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: {
+					Count: 1
+					id: "minecraft:wooden_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "72B9D59D191D7CAE"
+				title: "The Beginning"
+				type: "dimension"
+			}]
+			title: "<rainb>Welcome to Fantasy MC"
+			x: -0.25d
+			y: 1.0d
+		}
+		{
+			id: "792B04BB826D9151"
+			rewards: [{
+				command: "/execute as @p at @p run puffish_skills points add @p simplyskills:tree 1"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "fantasy_mc:textures/newquestimg/scroll.png"
+					}
+				}
+				id: "276E22D60302FC75"
+				silent: true
+				title: "+1 Skill Point"
+				type: "command"
+			}]
+			subtitle: "Choose your path.."
+			tasks: [{
+				id: "02B16A119609F27E"
+				points: false
+				type: "xp"
+				value: 5L
+			}]
+			title: "<rainb>Simply Skills"
+			x: 3.25d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Special Thanks to @Kayn and @LastMarauder who made Bosses n' Weapons and Become a Wizard!"
+				"Click on the next page for the other notes!"
+				"{@pagebreak}"
+				"You may see similar icons/images like these to the side."
+				"They will almost always explain what they do."
+				"Quests with [Optional Quest] are optional."
+				"There may be some easter eggs hidden in them!"
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "bewitchment:textures/gui/hanging_signs/dragons_blood.png"
+				}
+			}
+			id: "46B65ECF2ED8632F"
+			min_width: 235
+			optional: true
+			rewards: [{
+				id: "505A4099418BD95C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "square"
+			tasks: [{
+				id: "72CF0C733A5044CD"
+				type: "checkmark"
+			}]
+			title: "<rainb>Notes:"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "517C273DAC85E142"
+			size: 1.0E-7d
+			tasks: [{
+				count: 64L
+				disable_toast: true
+				id: "2D6EADCF765E396A"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			description: ["To reforge, get an anvil -> a 2nd tab will be available -> click on that -> put the item you want to reforge in the middle, the button below the slot will show you what the slot to the left needs and the right needs the reforging material! (The ones showed as rewards)"]
+			id: "483CC86DE3519DEF"
+			rewards: [
+				{
+					id: "7097AD0AC6AA32E3"
+					item: "tiered:limestone_chunk"
+					type: "item"
+				}
+				{
+					id: "26151E6A788B653F"
+					item: "tiered:pyrite_chunk"
+					type: "item"
+				}
+				{
+					id: "6C1950EEEF5E0329"
+					item: "tiered:galena_chunk"
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "Reforge your way to victory!"
+			tasks: [{
+				id: "46BF2D799259F5E0"
+				item: "minecraft:anvil"
+				type: "item"
+			}]
+			title: "<rainb>Reforging"
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "38F8A964770E56E3"
+			invisible: true
+			size: 1.0E-6d
+			tasks: [{
+				consume_items: true
+				count: 64L
+				disable_toast: true
+				id: "4CD3B7EE9922A6A2"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "6CC685950B6935E3"
+			rewards: [{
+				id: "5658E3C71AE81237"
+				item: {
+					Count: 1
+					id: "xercapaint:item_palette"
+					tag: {
+						basic: [B;
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+							1b
+						]
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "Be sure to take breaks between sessions!"
+			tasks: [
+				{
+					id: "45B67D6FC3D9E8EB"
+					item: "xercapaint:item_easel"
+					type: "item"
+				}
+				{
+					id: "02B6AC2FFA6BEB69"
+					item: "xercapaint:item_canvas_tall"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "60A01E4565832C37"
+					item: "xercapaint:item_canvas_long"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "6DEF116B77A2A9C7"
+					item: "xercapaint:item_canvas_large"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "6D0BC9F47EC3D53B"
+					item: "xercapaint:item_canvas"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "<rainb>A Moment of Rest"
+			x: 0.5d
+			y: 4.25d
+		}
+		{
+			id: "3455B5500A5461A2"
+			rewards: [{
+				id: "3CFFA1D915BB389A"
+				item: "paraglider:heart_container"
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "A useful pet to keep your base safe"
+			tasks: [
+				{
+					id: "6F7FB3BBF26398C3"
+					item: "guardiansgalore:guardian_block"
+					type: "item"
+				}
+				{
+					id: "06D387BA26E66565"
+					item: "guardiansgalore:bowl_of_apples"
+					type: "item"
+				}
+			]
+			title: "<rainb><rainb>Guardians Galore"
+			x: 2.5d
+			y: 4.25d
+		}
+	]
+	title: "Introduction &b💎"
+}

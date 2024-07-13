@@ -1,0 +1,8841 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 2.0d
+	filename: "quest_board"
+	group: "419255233BEA8747"
+	icon: "bountiful:bountyboard"
+	id: "05F3771F72378FFD"
+	images: [
+		{
+			height: 7.0d
+			image: "dramaticdoors:block/chipped/tall_dual_paneled_dark_oak_door_bottom"
+			rotation: 0.0d
+			width: 7.0d
+			x: -25.35d
+			y: -14.235d
+		}
+		{
+			height: 7.0d
+			image: "dramaticdoors:block/chipped/tall_dual_paneled_dark_oak_door_bottom"
+			rotation: -180.0d
+			width: 7.0d
+			x: 25.545d
+			y: -14.43d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -25.35d
+			y: -17.94d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.645000000000003d
+			y: -16.380000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -19.5d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 25.739999999999995d
+			y: -17.94d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.959999999999994d
+			y: -19.5d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.790000000000003d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.23d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -20.67d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.180000000000007d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 22.620000000000005d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.060000000000002d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.77d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.21d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.649999999999999d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.090000000000003d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.530000000000001d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.969999999999999d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.725000000000001d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.165d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.850000000000001d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.045000000000002d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.484999999999999d
+			y: -26.910000000000004d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.875d
+			y: -27.105000000000004d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.484999999999999d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.875d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.7049999999999983d
+			y: -27.69d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.924999999999997d
+			y: -28.470000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.145000000000003d
+			y: -30.03d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.215000000000003d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.655000000000001d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.094999999999999d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.5349999999999966d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.365000000000002d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.605000000000004d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.605000000000004d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.605000000000004d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.484999999999999d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.924999999999997d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7550000000000026d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.094999999999999d
+			y: -27.69d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.3149999999999977d
+			y: -28.470000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5350000000000037d
+			y: -30.03d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.365000000000002d
+			y: -30.03d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7550000000000026d
+			y: -30.03d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -30.225d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -28.665000000000003d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -27.105000000000004d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -25.545d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -23.985000000000003d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.655000000000001d
+			y: -19.5d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.875d
+			y: -17.94d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.045000000000002d
+			y: -19.5d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.265000000000001d
+			y: -17.94d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.484999999999999d
+			y: -17.16d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.094999999999999d
+			y: -17.16d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.3149999999999977d
+			y: -16.380000000000003d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.7049999999999983d
+			y: -16.380000000000003d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.5349999999999966d
+			y: -14.82d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.924999999999997d
+			y: -14.82d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.7550000000000026d
+			y: -14.04d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.9750000000000014d
+			y: -13.260000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.145000000000003d
+			y: -14.04d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.365000000000002d
+			y: -13.260000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -11.894999999999996d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -13.259999999999998d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -14.82d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -16.38d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -17.939999999999998d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -19.5d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.1700000000000017d
+			y: -23.985000000000003d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.1700000000000017d
+			y: -21.255000000000003d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.5600000000000023d
+			y: -23.985000000000003d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.5600000000000023d
+			y: -21.255000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.289999999999999d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.924999999999997d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.924999999999997d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.365000000000002d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.365000000000002d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.924999999999997d
+			y: -27.3d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.365000000000002d
+			y: -27.3d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.365000000000002d
+			y: -28.665000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7550000000000026d
+			y: -28.665000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7550000000000026d
+			y: -27.105000000000004d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.3149999999999977d
+			y: -26.910000000000004d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7550000000000026d
+			y: -25.545d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.3149999999999977d
+			y: -25.545d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5600000000000023d
+			y: -23.985000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.1199999999999974d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.68d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.924999999999997d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.484999999999999d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.484999999999999d
+			y: -19.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.924999999999997d
+			y: -19.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.924999999999997d
+			y: -17.94d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.094999999999999d
+			y: -17.94d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5600000000000023d
+			y: -20.085d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5600000000000023d
+			y: -18.720000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5600000000000023d
+			y: -17.355d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.730000000000004d
+			y: -16.575000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5600000000000023d
+			y: -15.990000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.365000000000002d
+			y: -14.82d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.730000000000004d
+			y: -15.795000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.5349999999999966d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.094999999999999d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.1700000000000017d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.1700000000000017d
+			y: -19.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.729999999999997d
+			y: -19.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.094999999999999d
+			y: -19.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.3149999999999977d
+			y: -18.135d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.7550000000000026d
+			y: -18.135d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.7800000000000011d
+			y: -18.135d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.7550000000000026d
+			y: -16.575000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.729999999999997d
+			y: -16.965d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.7800000000000011d
+			y: -16.575000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.1700000000000017d
+			y: -15.405000000000001d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.7800000000000011d
+			y: -14.43d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.215000000000003d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.215000000000003d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "clutter:block/dark_iron_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.045000000000002d
+			y: -22.62d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.045000000000002d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.045000000000002d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.655000000000001d
+			y: -21.060000000000002d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/red_wool"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.655000000000001d
+			y: -24.180000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.605000000000004d
+			y: -25.740000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.409999999999997d
+			y: -25.740000000000002d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/iron_block"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.793367346938716d
+			y: -28.817823129251686d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.790000000000003d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: -19.5d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.23d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.645000000000003d
+			y: -19.5d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -20.085d
+			y: -19.5d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -20.67d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.110000000000003d
+			y: -21.060000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -17.745d
+			y: -20.865000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -20.085d
+			y: -16.380000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.525000000000002d
+			y: -17.16d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.965d
+			y: -17.16d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.185000000000002d
+			y: -17.94d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -14.625d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.305d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.525000000000002d
+			y: -19.5d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -17.745d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.965d
+			y: -19.305000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -17.55d
+			y: -22.425d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.77d
+			y: -22.62d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.575000000000003d
+			y: -21.060000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.185000000000002d
+			y: -19.5d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.844999999999999d
+			y: -18.720000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.065000000000001d
+			y: -19.5d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.700000000000003d
+			y: -19.5d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.335d
+			y: -19.5d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.555d
+			y: -20.28d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.774999999999999d
+			y: -20.28d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.215000000000003d
+			y: -19.5d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.435000000000002d
+			y: -17.94d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.655000000000001d
+			y: -16.380000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.875d
+			y: -15.600000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.094999999999999d
+			y: -14.82d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -14.625d
+			y: -19.5d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.21d
+			y: -21.060000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.21d
+			y: -22.62d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.649999999999999d
+			y: -20.865000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.649999999999999d
+			y: -22.23d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.649999999999999d
+			y: -23.400000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.649999999999999d
+			y: -24.375000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.090000000000003d
+			y: -20.67d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.090000000000003d
+			y: -21.840000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.090000000000003d
+			y: -23.400000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.090000000000003d
+			y: -24.570000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.530000000000001d
+			y: -21.060000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.530000000000001d
+			y: -22.425d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.530000000000001d
+			y: -23.985000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.530000000000001d
+			y: -24.765d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.969999999999999d
+			y: -21.645000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.969999999999999d
+			y: -23.01d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.969999999999999d
+			y: -24.375000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.9950000000000045d
+			y: -24.180000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.9950000000000045d
+			y: -22.815d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.189999999999998d
+			y: -21.840000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 22.035000000000004d
+			y: -16.380000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.475d
+			y: -16.380000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.915000000000006d
+			y: -17.16d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 17.355000000000004d
+			y: -17.16d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.575000000000003d
+			y: -17.94d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.015d
+			y: -17.94d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 14.235d
+			y: -18.720000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.454999999999998d
+			y: -19.5d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 11.895000000000003d
+			y: -19.5d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.335d
+			y: -19.5d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.555d
+			y: -20.28d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.165d
+			y: -20.28d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.605000000000004d
+			y: -19.5d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.825000000000003d
+			y: -17.94d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.045000000000002d
+			y: -16.380000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.265000000000001d
+			y: -15.600000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.484999999999999d
+			y: -14.82d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.7049999999999983d
+			y: -13.260000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.924999999999997d
+			y: -12.48d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.7550000000000026d
+			y: -11.700000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.19500000000000028d
+			y: -10.335d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -10.335d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.365000000000002d
+			y: -11.700000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.5349999999999966d
+			y: -12.48d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.3149999999999977d
+			y: -13.260000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.180000000000007d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 22.620000000000005d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.595d
+			y: -19.5d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 22.035000000000004d
+			y: -19.5d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.060000000000002d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 19.89d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.475d
+			y: -19.5d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.915000000000006d
+			y: -19.5d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -18.330000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 17.549999999999997d
+			y: -18.525000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 17.745000000000005d
+			y: -19.695d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 19.89d
+			y: -21.060000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.33d
+			y: -21.060000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.185000000000002d
+			y: -19.110000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.770000000000003d
+			y: -20.475d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.770000000000003d
+			y: -21.840000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: -22.62d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: -22.62d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.21d
+			y: -21.060000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.21d
+			y: -19.89d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.21d
+			y: -19.110000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.650000000000006d
+			y: -20.28d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: -21.840000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 14.04d
+			y: -23.400000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: -24.180000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: -20.67d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: -21.840000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.480000000000004d
+			y: -23.01d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.480000000000004d
+			y: -24.180000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.920000000000002d
+			y: -20.865000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.920000000000002d
+			y: -22.23d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 11.115000000000002d
+			y: -23.595000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 11.115000000000002d
+			y: -24.765d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.555d
+			y: -21.645000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 8.774999999999999d
+			y: -21.645000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.165d
+			y: -23.01d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.14d
+			y: -23.400000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.945d
+			y: -24.570000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 8.774999999999999d
+			y: -24.570000000000004d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: -22.035d
+			y: -18.720000000000002d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: -18.135d
+			y: -20.085d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: -14.235d
+			y: -22.035000000000004d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: -10.725000000000001d
+			y: -22.62d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: 22.424999999999997d
+			y: -18.720000000000002d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: 18.525d
+			y: -20.085d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: 14.625d
+			y: -22.035000000000004d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			rotation: 0.0d
+			width: 1.5d
+			x: 11.115000000000002d
+			y: -22.62d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -24.180000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: -25.740000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -25.740000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -24.180000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: -25.740000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -25.740000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: -27.3d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -27.3d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -27.3d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -28.860000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -28.860000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -28.860000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -27.3d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -28.860000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: -27.3d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -31.980000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -31.980000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: -28.860000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.325000000000003d
+			y: -27.3d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.325000000000003d
+			y: -28.860000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.325000000000003d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: -31.980000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: -28.860000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -30.42d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -31.980000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -31.980000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -33.540000000000006d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -33.540000000000006d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -33.540000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: -30.42d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: -31.980000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -33.540000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: -33.540000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.325000000000003d
+			y: -31.980000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 27.885000000000005d
+			y: -30.42d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 27.885000000000005d
+			y: -28.860000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 27.885000000000005d
+			y: -27.3d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 29.445000000000007d
+			y: -28.860000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 29.445000000000007d
+			y: -30.42d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 27.885000000000005d
+			y: -31.980000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.325000000000003d
+			y: -33.540000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -36.660000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -36.660000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: -27.3d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: -28.665000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: -24.180000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -24.180000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.21d
+			y: -25.740000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.77d
+			y: -25.740000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: -25.740000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -25.740000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.77d
+			y: -27.3d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: -27.3d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -27.3d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -27.3d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: -28.860000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -28.860000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -28.860000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: -28.860000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -27.3d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -28.860000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -26.130000000000003d
+			y: -27.3d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -26.130000000000003d
+			y: -28.860000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -26.130000000000003d
+			y: -30.42d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -31.980000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: -31.980000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -31.980000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.21d
+			y: -27.3d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.77d
+			y: -28.860000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.21d
+			y: -28.860000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -31.980000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -33.540000000000006d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -33.540000000000006d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: -30.42d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: -31.980000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: -33.540000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.77d
+			y: -30.42d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.77d
+			y: -31.980000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: -33.540000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -33.540000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -35.1d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.815d
+			y: -36.660000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.255000000000003d
+			y: -36.660000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -26.130000000000003d
+			y: -33.540000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -26.130000000000003d
+			y: -31.980000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -27.69d
+			y: -31.980000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -27.69d
+			y: -30.42d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -27.69d
+			y: -28.860000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -27.69d
+			y: -27.3d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -29.250000000000004d
+			y: -30.42d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -29.250000000000004d
+			y: -28.860000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -10.530000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -25.545d
+			y: -10.530000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.985000000000003d
+			y: -10.530000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: -10.530000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -25.545d
+			y: -8.969999999999999d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.180000000000003d
+			y: -8.969999999999999d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.400000000000002d
+			y: -8.969999999999999d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -7.605d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -6.240000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -8.969999999999999d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -7.41d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -5.850000000000001d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -4.289999999999999d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -2.729999999999997d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: -1.1700000000000017d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: 0.39000000000000057d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: 1.9500000000000028d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: 3.509999999999998d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: 5.07d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: 6.630000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: 8.190000000000005d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: 9.555d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: 11.115000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.330000000000002d
+			y: 14.235d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.815d
+			y: -8.969999999999999d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: -7.41d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -25.545d
+			y: -7.41d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -25.545d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.180000000000003d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.815d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -25.545d
+			y: -4.484999999999999d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.985000000000003d
+			y: -4.484999999999999d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.62d
+			y: -4.484999999999999d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -25.545d
+			y: -3.1199999999999974d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -25.545d
+			y: -2.729999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -2.729999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.400000000000002d
+			y: -2.729999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.62d
+			y: -2.729999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.815d
+			y: -3.7049999999999983d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.180000000000003d
+			y: -3.7049999999999983d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: -1.1700000000000017d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: -1.1700000000000017d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: -1.1700000000000017d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: 0.39000000000000057d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: 1.9500000000000028d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -24.57d
+			y: 3.509999999999998d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 3.509999999999998d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 1.9500000000000028d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 0.39000000000000057d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: 0.39000000000000057d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: 1.9500000000000028d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: 3.509999999999998d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: 5.07d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: 5.07d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 5.07d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: 6.630000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: 6.630000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 6.630000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 8.190000000000005d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: 8.190000000000005d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: 8.190000000000005d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.89d
+			y: 9.75d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: 9.75d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 9.75d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 11.310000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 12.479999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 13.844999999999999d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -23.01d
+			y: 14.235d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.645000000000003d
+			y: 14.235d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -20.085d
+			y: 14.235d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.695d
+			y: 14.235d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.695d
+			y: 12.675000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.695d
+			y: 11.310000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.255000000000003d
+			y: 11.115000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.450000000000003d
+			y: 12.285000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.255000000000003d
+			y: 13.065000000000005d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -20.475d
+			y: 12.675000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.035d
+			y: 13.259999999999998d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.035d
+			y: 10.920000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -10.725000000000001d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -9.165d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -7.605d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -6.045000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -4.484999999999999d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -2.924999999999997d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: -1.365000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 0.19500000000000028d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 1.7550000000000026d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 4.875d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 6.435000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 7.994999999999997d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 9.555d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 11.115000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 14.235d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -10.725000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.595d
+			y: -9.165d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 25.155d
+			y: -10.725000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.715000000000003d
+			y: -10.725000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 25.155d
+			y: -9.165d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 25.155d
+			y: -7.605d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.180000000000007d
+			y: -10.725000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.715000000000003d
+			y: -9.165d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 25.155d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -9.165d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -7.605d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: -7.605d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.715000000000003d
+			y: -7.605d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.519999999999996d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.715000000000003d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.715000000000003d
+			y: -4.484999999999999d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 25.155d
+			y: -4.484999999999999d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.595d
+			y: -4.484999999999999d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 22.620000000000005d
+			y: -4.484999999999999d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 22.814999999999998d
+			y: -2.924999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.375d
+			y: -2.924999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 25.935000000000002d
+			y: -2.924999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 26.715000000000003d
+			y: -2.924999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: -1.365000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: -1.365000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: -1.365000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 0.19500000000000028d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 0.19500000000000028d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: 0.19500000000000028d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 1.7550000000000026d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 1.7550000000000026d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: 1.7550000000000026d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 4.875d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 4.875d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 4.875d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 6.435000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 6.435000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 6.435000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 7.994999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 9.36d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 10.920000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 12.479999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 14.04d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 14.235d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 14.235d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 14.235d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 12.675000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 11.309999999999995d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 9.75d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 8.384999999999998d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 7.410000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 12.675000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 11.115000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 9.555d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 8.190000000000005d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 7.410000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 3.3149999999999977d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 21.645000000000003d
+			y: 3.3149999999999977d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 23.205d
+			y: 3.3149999999999977d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.765d
+			y: 3.3149999999999977d
+		}
+		{
+			height: 30.0d
+			image: "fantasy_mc:textures/newquestimg/new.png"
+			order: -20
+			rotation: 106.0d
+			width: 30.0d
+			x: -4.094999999999999d
+			y: -24.96d
+		}
+		{
+			height: 30.0d
+			image: "fantasy_mc:textures/newquestimg/new.png"
+			order: -20
+			rotation: -180.0d
+			width: 30.0d
+			x: 4.445d
+			y: -25.16d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -16.77d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -15.21d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -13.649999999999999d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -12.090000000000003d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -10.530000000000001d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -8.969999999999999d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -8.969999999999999d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -7.409999999999997d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -5.850000000000001d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -4.289999999999999d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -4.289999999999999d
+			y: 11.115000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -2.729999999999997d
+			y: 11.115000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 10.725000000000001d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 9.165d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 9.165d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 7.605000000000004d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 6.045000000000002d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 4.484999999999999d
+			y: 12.675000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 4.484999999999999d
+			y: 11.115000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 2.924999999999997d
+			y: 11.115000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: -1.1700000000000017d
+			y: 11.115000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 1.5600000000000023d
+			y: 11.115000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: 1
+			rotation: 90.0d
+			width: 2.0d
+			x: 0.0d
+			y: 11.115000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -17.16d
+			y: -17.55d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.649999999999999d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.14d
+			y: -17.94d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.605000000000004d
+			y: -16.770000000000003d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.945d
+			y: -15.21d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -14.04d
+			y: -14.625d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -17.55d
+			y: -14.235d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -20.67d
+			y: -14.04d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -20.475d
+			y: -11.310000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -17.355d
+			y: -10.920000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -15.015d
+			y: -10.530000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -11.895000000000003d
+			y: -10.920000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.335d
+			y: -12.285000000000004d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.215000000000003d
+			y: -12.48d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.850000000000001d
+			y: -13.649999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.7049999999999983d
+			y: -11.310000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.850000000000001d
+			y: -9.165d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -8.969999999999999d
+			y: -8.774999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -12.285d
+			y: -7.605d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -15.405000000000001d
+			y: -6.240000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.525000000000002d
+			y: -7.215d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.525000000000002d
+			y: -4.484999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.525000000000002d
+			y: -3.8999999999999986d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -17.94d
+			y: 1.5600000000000023d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -15.990000000000002d
+			y: 5.265000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -16.965d
+			y: 3.1199999999999974d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -14.625d
+			y: 9.36d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -16.575000000000003d
+			y: 8.384999999999998d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -16.575000000000003d
+			y: 12.675000000000004d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.260000000000002d
+			y: 12.285000000000004d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.335d
+			y: 12.285000000000004d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -8.969999999999999d
+			y: 9.555d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -11.310000000000002d
+			y: 9.165d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -12.090000000000003d
+			y: 6.435000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.649999999999999d
+			y: 3.1199999999999974d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -16.185000000000002d
+			y: -0.19500000000000028d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -15.21d
+			y: -3.509999999999998d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.844999999999999d
+			y: -1.365000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -11.895000000000003d
+			y: 2.3400000000000034d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -11.700000000000003d
+			y: -3.7049999999999983d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.945d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.725000000000001d
+			y: -1.365000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.36d
+			y: 2.924999999999997d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.165d
+			y: 6.825000000000003d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -6.825000000000003d
+			y: 9.945d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -4.484999999999999d
+			y: 8.774999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -2.145000000000003d
+			y: 8.190000000000005d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -6.630000000000003d
+			y: 5.655000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -2.924999999999997d
+			y: 4.875d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.655000000000001d
+			y: 2.729999999999997d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.605000000000004d
+			y: -0.19500000000000028d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.9950000000000045d
+			y: -3.3149999999999977d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -6.435000000000002d
+			y: -5.460000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.7049999999999983d
+			y: -7.215d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -1.5600000000000023d
+			y: -9.165d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.39000000000000057d
+			y: -8.190000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -4.484999999999999d
+			y: -3.1199999999999974d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -2.3400000000000034d
+			y: -0.19500000000000028d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.8999999999999986d
+			y: -0.19500000000000028d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -1.5600000000000023d
+			y: 2.5350000000000037d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.0d
+			y: 4.484999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.7800000000000011d
+			y: 7.215000000000003d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.145000000000003d
+			y: 9.165d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 4.68d
+			y: 9.36d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.435000000000002d
+			y: 10.14d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.945d
+			y: 10.335d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.920000000000002d
+			y: 12.285000000000004d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 15.795000000000002d
+			y: 12.285000000000004d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 12.674999999999997d
+			y: 12.090000000000003d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.380000000000003d
+			y: 9.75d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 13.260000000000005d
+			y: 8.969999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 17.159999999999997d
+			y: 7.020000000000003d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.36d
+			y: 7.215000000000003d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.43d
+			y: 6.240000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 12.090000000000003d
+			y: 6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 8.579999999999998d
+			y: 5.655000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.825000000000003d
+			y: 6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 4.094999999999999d
+			y: 5.850000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.730000000000004d
+			y: 4.68d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.5350000000000037d
+			y: 2.729999999999997d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 5.265000000000001d
+			y: 1.5600000000000023d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.045000000000002d
+			y: 3.1199999999999974d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.530000000000001d
+			y: 3.1199999999999974d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.630000000000003d
+			y: 11.115000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.43d
+			y: 2.924999999999997d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 17.939999999999998d
+			y: 3.1199999999999974d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.135000000000005d
+			y: -0.7800000000000011d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.04d
+			y: -1.365000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 12.674999999999997d
+			y: -1.365000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.725000000000001d
+			y: 0.5850000000000009d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 8.579999999999998d
+			y: 2.145000000000003d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.14d
+			y: -1.9500000000000028d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 7.9950000000000045d
+			y: -0.7800000000000011d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 5.655000000000001d
+			y: -0.9750000000000014d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 3.1199999999999974d
+			y: -0.19500000000000028d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.39000000000000057d
+			y: -0.19500000000000028d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -0.19500000000000028d
+			y: -2.5350000000000037d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -1.9500000000000028d
+			y: -4.094999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.5850000000000009d
+			y: -4.875d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.730000000000004d
+			y: -3.7049999999999983d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.730000000000004d
+			y: -10.725000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 4.094999999999999d
+			y: -7.41d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 4.875d
+			y: -6.045000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.165d
+			y: -4.68d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.435000000000002d
+			y: -4.68d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 7.9950000000000045d
+			y: -8.190000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.920000000000002d
+			y: -5.850000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.82d
+			y: -4.094999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.915000000000006d
+			y: -3.7049999999999983d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 11.310000000000002d
+			y: -4.094999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 19.5d
+			y: -6.240000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 15.990000000000002d
+			y: -6.435000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.165d
+			y: -8.774999999999999d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 13.064999999999998d
+			y: -7.605d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 13.064999999999998d
+			y: -10.920000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.965000000000003d
+			y: -9.36d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 19.89d
+			y: -9.75d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 21.645000000000003d
+			y: -12.285000000000004d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 21.645000000000003d
+			y: -14.82d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.525000000000006d
+			y: -14.43d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 17.745000000000005d
+			y: -12.090000000000003d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 15.795000000000002d
+			y: -13.065000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 15.990000000000002d
+			y: -15.990000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 13.064999999999998d
+			y: -15.990000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 12.285000000000004d
+			y: -13.065000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.36d
+			y: -10.920000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 5.850000000000001d
+			y: -10.335d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 5.655000000000001d
+			y: -12.870000000000001d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.165d
+			y: -14.04d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 7.215000000000003d
+			y: -15.795000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.75d
+			y: -17.16d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.555d
+			y: -18.330000000000002d
+		}
+		{
+			color: 13217191
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 12.674999999999997d
+			y: -18.135d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -20.67d
+			y: -14.04d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.720000000000002d
+			y: -14.82d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.135d
+			y: -11.895000000000003d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -19.89d
+			y: -11.505000000000003d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.525000000000002d
+			y: -8.774999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.525000000000002d
+			y: -5.655000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -17.16d
+			y: -1.9500000000000028d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.330000000000002d
+			y: -4.289999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.720000000000002d
+			y: -4.289999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -18.330000000000002d
+			y: -3.8999999999999986d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -15.405000000000001d
+			y: -15.795000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -15.015d
+			y: -13.649999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -14.82d
+			y: -11.895000000000003d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -14.625d
+			y: -8.190000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -14.235d
+			y: -3.509999999999998d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.454999999999998d
+			y: 0.5850000000000009d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -14.625d
+			y: -5.265000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -15.990000000000002d
+			y: 0.9750000000000014d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -17.94d
+			y: 1.1700000000000017d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -16.965d
+			y: 3.8999999999999986d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -16.380000000000003d
+			y: 7.604999999999997d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -15.405000000000001d
+			y: 10.725000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -15.405000000000001d
+			y: 12.675000000000004d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -12.48d
+			y: 12.479999999999997d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.454999999999998d
+			y: 8.579999999999998d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.649999999999999d
+			y: 5.460000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -14.04d
+			y: 1.9500000000000028d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.335d
+			y: 8.579999999999998d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.75d
+			y: 11.310000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.725000000000001d
+			y: 6.435000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -11.115000000000002d
+			y: 4.484999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -11.505000000000003d
+			y: 1.7550000000000026d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -12.090000000000003d
+			y: -0.9750000000000014d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -12.285d
+			y: -3.1199999999999974d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -12.48d
+			y: -5.265000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -12.675d
+			y: -7.995000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.065000000000001d
+			y: -10.335d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.260000000000002d
+			y: -12.48d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.454999999999998d
+			y: -14.04d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.649999999999999d
+			y: -15.990000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.649999999999999d
+			y: -17.16d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 15.21d
+			y: 12.285000000000004d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.965000000000003d
+			y: 11.310000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.575000000000003d
+			y: 9.36d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.380000000000003d
+			y: 7.410000000000004d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.965000000000003d
+			y: 4.289999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 17.159999999999997d
+			y: 1.9500000000000028d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 17.549999999999997d
+			y: -0.5850000000000009d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.135000000000005d
+			y: -2.924999999999997d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.72d
+			y: -5.460000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 19.89d
+			y: -7.41d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 19.11d
+			y: -4.484999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 19.89d
+			y: -10.530000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 20.865000000000002d
+			y: -12.675d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 21.645000000000003d
+			y: -14.625d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.384999999999998d
+			y: -18.915000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.605000000000004d
+			y: -17.745d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.215000000000003d
+			y: -16.965d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.825000000000003d
+			y: -16.380000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.045000000000002d
+			y: -15.405000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.850000000000001d
+			y: -14.43d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.265000000000001d
+			y: -13.844999999999999d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.484999999999999d
+			y: -12.870000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.8999999999999986d
+			y: -12.090000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.1199999999999974d
+			y: -11.505000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.729999999999997d
+			y: -10.725000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.289999999999999d
+			y: -13.260000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.289999999999999d
+			y: -13.455000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.365000000000002d
+			y: -10.530000000000001d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.9750000000000014d
+			y: -9.75d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.39000000000000057d
+			y: -9.36d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.365000000000002d
+			y: -9.75d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.9500000000000028d
+			y: -10.335d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.730000000000004d
+			y: -11.115000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.1199999999999974d
+			y: -11.505000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.924999999999997d
+			y: -11.700000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.07d
+			y: -13.260000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.094999999999999d
+			y: -12.48d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.289999999999999d
+			y: -12.675d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.460000000000001d
+			y: -14.43d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.850000000000001d
+			y: -14.82d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.630000000000003d
+			y: -15.990000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.215000000000003d
+			y: -16.770000000000003d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.799999999999997d
+			y: -17.55d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 8.189999999999998d
+			y: -18.330000000000002d
+		}
+		{
+			color: 10128536
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 8.385000000000005d
+			y: -18.915000000000003d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.575000000000003d
+			y: 15.795000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.575000000000003d
+			y: 17.354999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.575000000000003d
+			y: 18.915d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.575000000000003d
+			y: 20.475d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.135d
+			y: 22.035000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.135d
+			y: 23.595000000000006d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.695d
+			y: 25.155d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -19.695d
+			y: 26.715000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.015d
+			y: 15.795000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.015d
+			y: 17.354999999999997d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.015d
+			y: 18.915d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.015d
+			y: 20.475d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.575d
+			y: 22.035000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.575d
+			y: 23.595000000000006d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.135d
+			y: 25.155d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: -18.135d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.454999999999998d
+			y: 15.795000000000002d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.454999999999998d
+			y: 17.354999999999997d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.454999999999998d
+			y: 18.915d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.454999999999998d
+			y: 20.475d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.454999999999998d
+			y: 22.035000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.015d
+			y: 22.035000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.015d
+			y: 23.595000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.575d
+			y: 25.155d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.575d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.015d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.454999999999998d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.895d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.015d
+			y: 25.155d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.454999999999998d
+			y: 25.155d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.895d
+			y: 25.155d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.454999999999998d
+			y: 23.595000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.895000000000003d
+			y: 23.595000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.335d
+			y: 23.595000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.454999999999998d
+			y: 22.035000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.895000000000003d
+			y: 22.035000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.335d
+			y: 22.035000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.895000000000003d
+			y: 20.475d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.335d
+			y: 20.475d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.895000000000003d
+			y: 18.915d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.335d
+			y: 18.915d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.895000000000003d
+			y: 17.354999999999997d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.335d
+			y: 17.354999999999997d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.335d
+			y: 15.795000000000002d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.895000000000003d
+			y: 15.795000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.145000000000003d
+			y: 12.675000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.145000000000003d
+			y: 14.235d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.145000000000003d
+			y: 15.795000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.145000000000003d
+			y: 17.550000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.509999999999998d
+			y: 19.110000000000007d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5850000000000009d
+			y: 12.675000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.9750000000000014d
+			y: 12.675000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.3400000000000034d
+			y: 12.675000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5850000000000009d
+			y: 14.235d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.9750000000000014d
+			y: 14.235d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5850000000000009d
+			y: 15.795000000000002d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.9750000000000014d
+			y: 15.795000000000002d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5850000000000009d
+			y: 17.550000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.9750000000000014d
+			y: 17.550000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.9500000000000028d
+			y: 19.110000000000007d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.39000000000000057d
+			y: 19.110000000000007d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.9750000000000014d
+			y: 19.110000000000007d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.3400000000000034d
+			y: 14.235d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.3400000000000034d
+			y: 15.795000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.3400000000000034d
+			y: 17.550000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.3400000000000034d
+			y: 19.110000000000007d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.8999999999999986d
+			y: 19.110000000000007d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.8999999999999986d
+			y: 17.550000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: 15.795000000000002d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: 17.354999999999997d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: 18.915d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: 20.475d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 22.035000000000004d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 23.595000000000006d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 25.155d
+		}
+		{
+			color: 13217191
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 2.0d
+			x: 20.085d
+			y: 26.715000000000003d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: 15.795000000000002d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: 17.354999999999997d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: 18.915d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: 20.475d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: 22.035000000000004d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: 23.595000000000006d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 25.155d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -6
+			rotation: 0.0d
+			width: 2.0d
+			x: 18.525000000000006d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 15.795000000000002d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 15.795000000000002d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.725000000000001d
+			y: 15.795000000000002d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.725000000000001d
+			y: 17.354999999999997d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.725000000000001d
+			y: 18.915d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.725000000000001d
+			y: 20.475d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: 22.035000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 22.035000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 22.035000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.725000000000001d
+			y: 22.035000000000004d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: 23.595000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 23.595000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 23.595000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.725000000000001d
+			y: 23.595000000000006d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: 25.155d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: 25.155d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 25.155d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 25.155d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.965000000000003d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 15.405000000000001d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 26.715000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 20.67d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 19.5d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 18.134999999999998d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.285000000000004d
+			y: 16.770000000000003d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 16.964999999999996d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 18.330000000000005d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 19.695d
+		}
+		{
+			color: 15059369
+			height: 2.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -7
+			rotation: 0.0d
+			width: 2.0d
+			x: 13.844999999999999d
+			y: 21.060000000000002d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sandstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -39.78d
+			y: -5.07d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/gray_concrete"
+			order: 21
+			rotation: 0.0d
+			width: 1.5d
+			x: -40.95d
+			y: -9.36d
+		}
+		{
+			color: 4340521
+			height: 1.5d
+			image: "minecraft:block/gray_concrete"
+			order: 21
+			rotation: 0.0d
+			width: 1.5d
+			x: -38.61000000000001d
+			y: -11.700000000000003d
+		}
+		{
+			color: 4340521
+			height: 0.85d
+			image: "minecraft:block/white_concrete"
+			order: 21
+			rotation: 0.0d
+			width: 0.85d
+			x: -32.760000000000005d
+			y: -8.969999999999999d
+		}
+		{
+			color: 7301206
+			height: 1.25d
+			image: "minecraft:block/white_concrete"
+			order: 20
+			rotation: 0.0d
+			width: 1.25d
+			x: -34.905d
+			y: -8.969999999999999d
+		}
+		{
+			color: 10787710
+			height: 1.25d
+			image: "minecraft:block/white_concrete"
+			order: 20
+			rotation: 0.0d
+			width: 1.25d
+			x: -35.1d
+			y: -6.630000000000003d
+		}
+		{
+			color: 6642245
+			height: 0.85d
+			image: "minecraft:block/white_concrete"
+			order: 21
+			rotation: 0.0d
+			width: 0.85d
+			x: -32.955000000000005d
+			y: -6.630000000000003d
+		}
+		{
+			color: 7301206
+			height: 2.0d
+			image: "minecraft:block/white_concrete"
+			order: 20
+			rotation: 0.0d
+			width: 2.0d
+			x: -36.075d
+			y: -12.090000000000003d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.409999999999997d
+			y: 10.14d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.605000000000004d
+			y: 6.435000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.9950000000000045d
+			y: 4.289999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -8.774999999999999d
+			y: 1.1700000000000017d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.165d
+			y: -0.39000000000000057d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.75d
+			y: -3.1199999999999974d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.945d
+			y: -6.240000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.14d
+			y: -7.800000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.945d
+			y: -11.310000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.335d
+			y: -14.82d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.335d
+			y: -15.795000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.530000000000001d
+			y: -17.745d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.165d
+			y: -16.770000000000003d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -8.384999999999998d
+			y: -13.649999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.605000000000004d
+			y: -11.505000000000003d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.020000000000003d
+			y: -8.774999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -6.240000000000002d
+			y: -6.435000000000002d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.655000000000001d
+			y: -4.289999999999999d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.265000000000001d
+			y: -2.5350000000000037d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.655000000000001d
+			y: 0.19500000000000028d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -4.484999999999999d
+			y: 2.145000000000003d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -4.094999999999999d
+			y: 3.8999999999999986d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -4.68d
+			y: 0.5850000000000009d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.07d
+			y: -0.5850000000000009d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.460000000000001d
+			y: -3.1199999999999974d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -4.484999999999999d
+			y: 5.655000000000001d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -4.094999999999999d
+			y: 7.215000000000003d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.8999999999999986d
+			y: 8.384999999999998d
+		}
+		{
+			color: 10128536
+			height: 5.0d
+			image: "twigs:block/dark_oak_table_top"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: -3.8999999999999986d
+			y: 9.165d
+		}
+		{
+			color: 4340521
+			height: 0.85d
+			image: "minecraft:block/white_concrete"
+			order: 21
+			rotation: 0.0d
+			width: 0.85d
+			x: -11.310000000000002d
+			y: -9.555d
+		}
+		{
+			color: 7301206
+			height: 1.25d
+			image: "minecraft:block/white_concrete"
+			order: 20
+			rotation: 0.0d
+			width: 1.25d
+			x: -10.639999999999999d
+			y: -7.6d
+		}
+		{
+			height: 1.5d
+			image: "wetlands:block/bog_iron_block"
+			order: 100
+			rotation: 0.0d
+			width: 1.5d
+			x: -10.45d
+			y: -10.83d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "1ED3F76BF0F696D7"
+		subtitle: "Nothing here yet!"
+		tasks: [{
+			id: "71D1C47374057A87"
+			type: "checkmark"
+		}]
+		x: 0.37999999999999995d
+		y: -10.26d
+	}]
+	title: "Quest Board"
+}

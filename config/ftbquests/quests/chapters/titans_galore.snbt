@@ -1,0 +1,111 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "titans_galore"
+	group: "7DDF61ACA25A05AB"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "fantasy_mc:textures/newquestimg/new.png"
+		}
+	}
+	id: "02A8BB87444C3A1F"
+	images: [
+		{
+			click: "#3A35616F6023BD38"
+			height: 3.0d
+			hover: ["Click here to go to Marium's Bosses"]
+			image: "soulsweapons:item/chaos_orb"
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			click: "#09DA07F7611D7FE9"
+			height: 3.0d
+			hover: ["Click here to go to BoMD's Bosses"]
+			image: "bosses_of_mass_destruction:item/obsidian_heart"
+			rotation: 0.0d
+			width: 3.0d
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "fantasy_mc:textures/border1.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.6349206349206327d
+			y: -0.3571428571428683d
+		}
+		{
+			click: "#1F831982482B7673"
+			height: 3.0d
+			hover: ["Aquamirae"]
+			image: "aquamirae:item/echo"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.6309523809523867d
+			y: -4.642857142857146d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		dependencies: [
+			"1CE275C92A3553F8"
+			"1EE146691D7CA0F2"
+			"0871A7055CCA9676"
+			"7A77ACA42B0DA5B7"
+			"2F9FE7E32E124B07"
+			"145350DAB39188F2"
+			"73B6C051468C7DE1"
+			"0351CDCFFEB0E505"
+			"23D8F632B4909CF1"
+			"3759CAD849448529"
+			"33F86990C1F12DE9"
+			"05E732FCF4D5215C"
+			"1CBE5060CF85F229"
+			"01966678C19D6421"
+			"76B32947408A26C5"
+			"62E7C402EE791087"
+			"4F30F18ED8555FD7"
+		]
+		icon: {
+			Count: 1
+			id: "ftbquests:custom_icon"
+			tag: {
+				Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+			}
+		}
+		id: "30BB42B68273A7C1"
+		rewards: [
+			{
+				id: "4F33C6BC4F09E9A3"
+				type: "xp_levels"
+				xp_levels: 100
+			}
+			{
+				id: "15C20D5B1EDB3497"
+				item: "simplyskills:malevolent_manuscript"
+				type: "item"
+			}
+			{
+				id: "0ADBA3B01690BCB0"
+				item: "minecraft:totem_of_undying"
+				type: "item"
+			}
+		]
+		size: 2.0d
+		tasks: [{
+			id: "54E951AD52179412"
+			title: "<rainb>Complete all Boss Chapters"
+			type: "checkmark"
+		}]
+		x: 0.7063492063492092d
+		y: -0.3928571428571459d
+	}]
+	title: "Titans Galore &b🗡"
+}

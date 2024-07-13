@@ -1,0 +1,127 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "villagequest2"
+	group: "419255233BEA8747"
+	id: "716B86932E938365"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"3CAE312CF808985D"
+				"69229D8D4EADB5D8"
+			]
+			id: "3471886E1EA9A1BA"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "72F64C015DB9B592"
+				type: "dimension"
+			}]
+			title: "CLOCK"
+			x: 0.3899999999999999d
+			y: -2.145d
+		}
+		{
+			dependencies: [
+				"3471886E1EA9A1BA"
+				"69229D8D4EADB5D8"
+			]
+			id: "085DAA9FBB79F78E"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run function kevs:questmobs"
+				elevate_perms: true
+				id: "45AF71DB97359714"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "0CB769A59D1BEF9D"
+				type: "dimension"
+			}]
+			title: "CLOCK + MOB TAG"
+			x: 0.3899999999999999d
+			y: -0.390000000000001d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"085DAA9FBB79F78E"
+				"69229D8D4EADB5D8"
+			]
+			id: "6201146F695CCB1E"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 3471886E1EA9A1BA"
+					elevate_perms: true
+					id: "74C6431B4AAB998B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 085DAA9FBB79F78E"
+					elevate_perms: true
+					id: "36DCD6F1C9F50495"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run function kevs:questmobs"
+					elevate_perms: true
+					id: "078AA3C7AB943206"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 22D9797D2E25BFDB"
+					elevate_perms: true
+					id: "1736FAA3EE39DF95"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "7C51EC1FFD6D2A4E"
+				type: "dimension"
+			}]
+			title: "RESET \\& FUNCTIONS \\& MOBTAG"
+			x: 0.3899999999999999d
+			y: 1.7549999999999986d
+		}
+		{
+			dependencies: [
+				"085DAA9FBB79F78E"
+				"6201146F695CCB1E"
+				"69229D8D4EADB5D8"
+			]
+			id: "22D9797D2E25BFDB"
+			min_required_dependencies: 1
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run function kevs:questmobs_deadline"
+				elevate_perms: true
+				id: "1259F7102E0DF7A5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "mythicmobs:mythicmobs"
+				criterion: ""
+				id: "0CED1441E0CCD8F8"
+				type: "advancement"
+			}]
+			title: "day countdown"
+			x: -1.3650000000000002d
+			y: 1.7549999999999986d
+		}
+	]
+	title: "VillageQuest2"
+}

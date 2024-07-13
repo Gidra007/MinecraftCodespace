@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "useskp": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "nbt": "{ CustomPotionEffects: [{ Duration: 100, Id: 22, Amplifier: 2, ShowIcon: 0b, ShowParticles: 0b }], HideFlags: 1, Enchantments: [{ }], display: { Lore: [ \"[\\\"\\\",{\\\"text\\\":\\\"<typewriter>Adds 1 Skill Point to General Skill Tree.\\\",\\\"italic\\\":false}]\", \"[\\\"\\\"]\", \"[\\\"\\\",{\\\"text\\\":\\\"<typewriter>Totally not addictive!\\\",\\\"italic\\\":false}]\", \"[\\\"\\\"]\", \"[\\\"\\\",{\\\"text\\\":\\\"<typewriter><shake>[THIS ITEM ALWAYS HAVE A TAG CALLED SkillPointPotion]\\\",\\\"italic\\\":false}]\" ], Name: \"[\\\"\\\",{\\\"text\\\":\\\"<rainb>Skill Point Potion\\\",\\\"italic\\\":false}]\" }, EntityTag: { Invisible: 1b }, Tags: \"SkillPointPotion\" }"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "kevs:skillpointpotion"
+  }
+}

@@ -1,0 +1,2 @@
+execute as @p at @p run ftbquests change_progress @p complete 1AE2E1A3DE700097
+execute as @p at @p if entity @p[tag=decline_quest,limit=1,sort=nearest] run give @p minecraft:potion{ CustomPotionColor: 3847130, EntityTag: { Invisible: 1b }, HideFlags: 1, Enchantments: [{ }], display: { Lore: [ "[\"\",{\"text\":\"Add 1 Skill Point\",\"italic\":false}]", "[\"\"]", "[\"\",{\"text\":\"(Quest Item)\",\"italic\":false}]" ], Name: "[\"\",{\"text\":\"<rainb>Skill Point Potion\",\"italic\":false}]" } }

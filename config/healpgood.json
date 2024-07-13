@@ -1,0 +1,18 @@
+{
+  "regularchance": 20,
+  "bosschance": 40,
+  "regmin": 0,
+  "regmax": 1,
+  "bossmin": 5,
+  "bossmax": 15,
+  "bosshealththreshold": 3000,
+  "otherBossList": [
+    "entity.minecraft.elder_guardian",
+    "entity.minecraft.ravager"
+  ],
+  "entityhealth": true,
+  "tempamount": 2,
+  "tempmax": 20,
+  "permamount": 2,
+  "permmax": 20
+}

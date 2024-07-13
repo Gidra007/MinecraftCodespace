@@ -1,0 +1,26 @@
+{
+	id: "0D2EE41EF6E39FB4"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			auto: "invisible"
+			command: "/execute as @p at @p run ftbquests change_progress @p complete 299B010BD755C682"
+			elevate_perms: true
+			silent: true
+			team_reward: true
+			type: "command"
+			weight: 7.0f
+		}
+		{
+			auto: "invisible"
+			command: "/execute as @p at @p run ftbquests change_progress @p complete 3D563762F37C7A45"
+			elevate_perms: true
+			silent: true
+			team_reward: true
+			type: "command"
+			weight: 3.0f
+		}
+	]
+	title: "Random"
+}

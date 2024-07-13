@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:skeleton_skull"
+    },
+    "title": "Bring your kid to work day!",
+    "description": "Ask the Necromancer if it's bring your kid to work day."
+  },
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "kevs:adv_byktwd"
+  }
+}

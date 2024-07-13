@@ -1,0 +1,11 @@
+{
+	id: "0A4E41062BC6BFC2"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ item: "graveyard:upper_bone_staff" }
+		{ item: "graveyard:middle_bone_staff" }
+		{ item: "graveyard:lower_bone_staff" }
+	]
+	title: "Bone Staff Fragment"
+}

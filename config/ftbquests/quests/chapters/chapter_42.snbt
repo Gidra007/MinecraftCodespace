@@ -1,0 +1,418 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "chapter_42"
+	group: "1AAFABCE3EF340C4"
+	icon: "smallships:oak_cog"
+	id: "5DC504FBC63EC079"
+	images: [
+		{
+			height: 5.0d
+			image: "smallships:item/ship/dark_oak_war_galley"
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.25d
+			y: -1.5d
+		}
+		{
+			height: 5.0d
+			image: "smallships:item/ship/dark_oak_brigg"
+			rotation: 0.0d
+			width: 5.0d
+			x: 7.25d
+			y: -1.75d
+		}
+	]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"3FE0FCCF9CD5EADC"
+				"347C252B95C7060E"
+			]
+			id: "05FA01CEE3FE00FF"
+			rewards: [
+				{
+					id: "3F621BB73B1C2929"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "15408F1EE6879018"
+					item: {
+						Count: 1
+						id: "minecraft:written_book"
+						tag: {
+							author: "KevzCz"
+							pages: ["{\"text\":\"596\\n\"}"]
+							resolved: 1b
+							title: "???"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5024647673DEC4D9"
+				structure: "dungeons_arise_seven_seas:corsair_corvette"
+				title: "dungeons_arise_seven_seas:corsair_corvetteX"
+				type: "structure"
+			}]
+			title: "Corsair Covette"
+			x: 1.75d
+			y: 0.25d
+		}
+		{
+			dependencies: [
+				"3FE0FCCF9CD5EADC"
+				"347C252B95C7060E"
+			]
+			id: "5157A2B9F962D3BE"
+			rewards: [
+				{
+					id: "67941FE46912780A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "02F2AA81FA726140"
+					item: {
+						Count: 1
+						id: "minecraft:written_book"
+						tag: {
+							author: "KevzCz"
+							pages: ["{\"text\":\"150\"}"]
+							title: "??"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "37BFC7BC67A8DEF3"
+				structure: "dungeons_arise_seven_seas:pirate_junk"
+				title: "dungeons_arise_seven_seas:pirate_junkZ"
+				type: "structure"
+			}]
+			title: "Pirate Junk"
+			x: 3.5d
+			y: -0.25d
+		}
+		{
+			dependencies: [
+				"3FE0FCCF9CD5EADC"
+				"347C252B95C7060E"
+			]
+			id: "345E995ACAE5431F"
+			rewards: [
+				{
+					id: "31653ED1DBC088A3"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "6A8771C42374AD0A"
+					item: {
+						Count: 1
+						id: "minecraft:written_book"
+						tag: {
+							author: "KevzCz"
+							pages: ["{\"text\":\"270\"}"]
+							title: "???"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "23A36CB82EB8FD03"
+				structure: "dungeons_arise_seven_seas:small_yacht"
+				title: "dungeons_arise_seven_seas:small_yachtZ"
+				type: "structure"
+			}]
+			title: "Small Yacht"
+			x: -1.75d
+			y: 0.25d
+		}
+		{
+			dependencies: [
+				"3FE0FCCF9CD5EADC"
+				"347C252B95C7060E"
+			]
+			id: "6948400A8340C47F"
+			rewards: [
+				{
+					id: "7430F20BC449E189"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "58D87705E479C4E9"
+					item: {
+						Count: 1
+						id: "minecraft:written_book"
+						tag: {
+							author: "KevzCz"
+							pages: ["{\"text\":\"1542\"}"]
+							resolved: 1b
+							title: "???"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "609CDAB84A73FDB9"
+				structure: "dungeons_arise_seven_seas:victory_frigate"
+				title: "dungeons_arise_seven_seas:victory_frigateX"
+				type: "structure"
+			}]
+			title: "Victory Frigate"
+			x: -3.5d
+			y: -0.25d
+		}
+		{
+			dependencies: [
+				"3FE0FCCF9CD5EADC"
+				"347C252B95C7060E"
+			]
+			id: "612EE9E4152500B5"
+			rewards: [{
+				id: "03369CE7F88CF98C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "58CAC7A3AADC9F7A"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "smallships:cogs"
+					}
+				}
+				title: "Any #smallships:cogs"
+				type: "item"
+			}]
+			title: "Build a cog ship"
+			x: 0.0d
+			y: -0.25d
+		}
+		{
+			dependencies: [
+				"612EE9E4152500B5"
+				"347C252B95C7060E"
+			]
+			id: "4CA3304162F8CBAF"
+			rewards: [{
+				id: "19B1E39D94593A68"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "280C91193102E878"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "smallships:briggs"
+					}
+				}
+				title: "Any #smallships:briggs"
+				type: "item"
+			}]
+			title: "Build a brigg ship"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"612EE9E4152500B5"
+				"347C252B95C7060E"
+			]
+			id: "1CC9DD18A516F7CC"
+			rewards: [{
+				id: "245BC5195BE13BCE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "488C9F5C800530A9"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "smallships:galleys"
+					}
+				}
+				title: "Any #smallships:galleys"
+				type: "item"
+			}]
+			title: "Build a galley ship"
+			x: -1.75d
+			y: -3.25d
+		}
+		{
+			dependencies: [
+				"612EE9E4152500B5"
+				"347C252B95C7060E"
+			]
+			id: "3526ABB0DB167B4B"
+			rewards: [{
+				id: "6816EF6976F20314"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "585166188A37798D"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "smallships:drakkars"
+					}
+				}
+				title: "Any #smallships:drakkars"
+				type: "item"
+			}]
+			title: "Build a drakkar ship"
+			x: 1.75d
+			y: -3.25d
+		}
+		{
+			dependencies: [
+				"612EE9E4152500B5"
+				"347C252B95C7060E"
+			]
+			id: "0D8E24C31999F771"
+			rewards: [{
+				id: "51B46C3438DACAEA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4D4DFF742CB7A06E"
+				item: "smallships:cannon"
+				type: "item"
+			}]
+			x: -2.75d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"612EE9E4152500B5"
+				"347C252B95C7060E"
+			]
+			id: "1243DF8BC7AF9CF7"
+			rewards: [{
+				id: "4322B40EC131B6E4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "79A0D8961E434ED4"
+				item: "smallships:cannon_ball"
+				type: "item"
+			}]
+			x: 2.75d
+			y: -2.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			id: "3FE0FCCF9CD5EADC"
+			rewards: [
+				{
+					id: "73B953A9E326E94E"
+					item: "smallships:sail"
+					type: "item"
+				}
+				{
+					id: "10C55B7F2E0E92F1"
+					item: {
+						Count: 1
+						id: "minecraft:written_book"
+						tag: {
+							author: "KevzCz"
+							pages: ["{\"text\":\"In realms of pixels and bytes, where coordinates align,\\nSeek ye not just one, but two, to see the grand design.\\nAdd the X's and they shall show, a pathway to uncover,\\nThen double up with Z's embrace, the secret they'll discover\"}"]
+							title: "???"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "#minecraft:is_ocean"
+				icon: {
+					Count: 1
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:water"
+					}
+				}
+				id: "6DD272F9037F0ADE"
+				type: "biome"
+			}]
+			title: "Find the Ocean"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["347C252B95C7060E"]
+			description: [
+				"&4NOTE&r:"
+				"- THIS IS NOT A REAL COORDINATE, GOING TO THE COORDINATE WILL NOT GIVE YOU ANYTHING"
+				"- RENAME THE PAPER WITH THE COORDS X AND Z IN THE CORRECT PLACE"
+			]
+			hide_dependency_lines: true
+			icon: "aquamirae:treasure_pouch"
+			id: "5747039A814252E1"
+			rewards: [
+				{
+					count: 10
+					id: "7EA5526B0E134D26"
+					item: "aquamirae:treasure_pouch"
+					type: "item"
+				}
+				{
+					id: "0DA2D3DDD9B4B91C"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					id: "33812CF1D12ACA87"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "700821CB10CBBE53"
+					item: "simplyskills:malevolent_manuscript"
+					type: "item"
+				}
+			]
+			size: 2.0d
+			subtitle: "<rainb>What treasure will these coords lead to?"
+			tasks: [{
+				consume_items: false
+				id: "1FEDD3B47699A42F"
+				item: {
+					Count: 1
+					id: "minecraft:paper"
+					tag: {
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"2138 X 420\"}"
+						}
+					}
+				}
+				match_nbt: true
+				title: "??? X ???"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.75d
+		}
+	]
+	subtitle: ["&6Treasures to find!"]
+	title: "Chapter 4.2"
+}

@@ -1,0 +1,396 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "villagequest"
+	group: "419255233BEA8747"
+	id: "657EA17245C05DF4"
+	images: [
+		{
+			dependency: "667C989E90D11167"
+			height: 1.5d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: 3
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.029999999999999d
+			y: 1.1600000000000001d
+		}
+		{
+			dependency: "0DC8E3B120EAEF20"
+			height: 1.5d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: 2
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.029999999999999d
+			y: -0.5899999999999999d
+		}
+		{
+			height: 1.5d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.029999999999999d
+			y: -2.09d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"6DF45ABB1FA2A031"
+				"707D2505567D505D"
+				"69229D8D4EADB5D8"
+			]
+			id: "3CAE312CF808985D"
+			min_required_dependencies: 1
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run function kevs:scoreboard_creation"
+				elevate_perms: true
+				id: "01AE459ECEC1639B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [
+				{
+					id: "0AFC667E3DA22093"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "173DEB35EB05F077"
+					item: { Count: 64, id: "minecraft:bedrock" }
+					type: "item"
+				}
+			]
+			title: "SCOREBOARDS"
+			x: -1.3299999999999998d
+			y: -0.37999999999999995d
+		}
+		{
+			dependencies: [
+				"47F039EC1E8D3B51"
+				"69229D8D4EADB5D8"
+			]
+			id: "6E67E421D19E53FC"
+			invisible: true
+			tasks: [{
+				count: 64L
+				id: "4F15F35C500C94C7"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: 0.19499999999999984d
+			y: -1.7550000000000003d
+		}
+		{
+			dependencies: ["69229D8D4EADB5D8"]
+			id: "47F039EC1E8D3B51"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 6E67E421D19E53FC"
+				elevate_perms: true
+				id: "2ECA8C998D55218C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "0E12FFA6CA82ED2F"
+				type: "dimension"
+			}]
+			x: -1.3650000000000004d
+			y: -1.7550000000000003d
+		}
+		{
+			dependencies: ["69229D8D4EADB5D8"]
+			id: "6DBF3BF87E9E74EF"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "58CAA06CDA759BCF"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "accept"
+			x: 2.09d
+			y: -1.71d
+		}
+		{
+			dependencies: ["69229D8D4EADB5D8"]
+			id: "66914EE68E5F3ECA"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run function kevs:stopquests"
+					elevate_perms: true
+					id: "0FD469BE3C613026"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You have subjugated 30 mobs near the village!\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					id: "14E68E5C8C7F2FDC"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "532B624F93752541"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "generalCompletion"
+			x: 3.0399999999999996d
+			y: -0.37999999999999995d
+		}
+		{
+			dependencies: ["69229D8D4EADB5D8"]
+			id: "7E4C065412BEA64A"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "38F4171688CE62CE"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			title: "Deny"
+			x: 3.9899999999999998d
+			y: -1.71d
+		}
+		{
+			dependencies: ["69229D8D4EADB5D8"]
+			id: "05EA5BE1FCDAC7CF"
+			tasks: [
+				{
+					id: "22998CE7CA113155"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "62182DAFC9222B73"
+					item: { Count: 64, id: "minecraft:bedrock" }
+					type: "item"
+				}
+			]
+			x: -3.3150000000000004d
+			y: -0.3900000000000001d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"05EA5BE1FCDAC7CF"
+				"69229D8D4EADB5D8"
+			]
+			id: "3D70C4296868FD32"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run function kevs:questmobs_score"
+				elevate_perms: true
+				id: "7E2B4490DDA8B715"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "1F02394531D8C986"
+				type: "dimension"
+			}]
+			title: "scoreTell"
+			x: -3.3150000000000004d
+			y: -1.7550000000000003d
+		}
+		{
+			dependencies: [
+				"116E6D99C6F0162A"
+				"69229D8D4EADB5D8"
+			]
+			id: "09B6D1F07D37A2E1"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run blabber dialogue start kevs:todrinkornotdrink @s"
+				id: "06622DD717DF40BE"
+				team_reward: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "247CEFFDA65621A1"
+				item: {
+					Count: 1
+					id: "minecraft:potion"
+					tag: {
+						CustomPotionColor: 3847130
+						Enchantments: [{ }]
+						EntityTag: {
+							Invisible: 1b
+						}
+						HideFlags: 1
+						display: {
+							Lore: [
+								"[\"\",{\"text\":\"Add 1 Skill Point\",\"italic\":false}]"
+								"[\"\"]"
+								"[\"\",{\"text\":\"(Quest Item)\",\"italic\":false}]"
+							]
+							Name: "[\"\",{\"text\":\"<rainb>Skill Point Potion\",\"italic\":false}]"
+						}
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			x: -3.42d
+			y: 1.14d
+		}
+		{
+			dependencies: ["69229D8D4EADB5D8"]
+			id: "667C989E90D11167"
+			tasks: [{
+				id: "591E7E5765326D45"
+				title: "3"
+				type: "checkmark"
+			}]
+			x: 5.51d
+			y: -0.20999999999999996d
+		}
+		{
+			dependencies: ["69229D8D4EADB5D8"]
+			id: "0DC8E3B120EAEF20"
+			tasks: [{
+				id: "1FD5310CA28DA044"
+				title: "2"
+				type: "checkmark"
+			}]
+			x: 5.51d
+			y: -1.71d
+		}
+		{
+			dependencies: ["69229D8D4EADB5D8"]
+			id: "059DEEECE0953084"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run title @p actionbar [\"\",{\"text\":\"Chapter 1. \"},{\"text\":\"\\u2660The Beginning\\u2660\",\"color\":\"green\"}]"
+					elevate_perms: true
+					id: "684E4AAC0E031C21"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run tellraw KevzCz {\"text\":\"You have unlocked Chapter 1!\",\"color\":\"yellow\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Click on me to open your quest book.\"},\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbquests open_book 11440C137FB7C9C0\"}}"
+					elevate_perms: true
+					id: "4DFC0E799E188122"
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0706798FB7BE1847"
+				title: "c1title"
+				type: "checkmark"
+			}]
+			x: 5.524999999999999d
+			y: 1.1550000000000002d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"1A2A20EDBE300AA6"
+				"635607B4BC8EC746"
+				"69229D8D4EADB5D8"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "7A176DF518A486A6"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run function kevs:questmobs_mail"
+				elevate_perms: true
+				id: "326BCA685B27E5B2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "0D8EF967915CB352"
+				type: "dimension"
+			}]
+			x: 0.18999999999999997d
+			y: -0.37999999999999995d
+		}
+		{
+			dependencies: ["69229D8D4EADB5D8"]
+			id: "635607B4BC8EC746"
+			tasks: [{
+				count: 64L
+				id: "3680714FC08D340F"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: 3.0399999999999996d
+			y: 1.14d
+		}
+		{
+			id: "1A7F91677E9AC2C9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "execute as @e[type=illagerinvasion:necromancer,limit=1,sort=nearest,tag=questmobNecromancer] at @s run summon armor_stand ~ ~ ~ {Invisible:1b,Tags:[\"grounded1\"]}"
+					elevate_perms: true
+					id: "74CB9A3346AF8041"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "execute as @e[type=illagerinvasion:necromancer,limit=1,sort=nearest,tag=questmobNecromancerSon] at @s run summon armor_stand ~ ~ ~ {Invisible:1b,Tags:[\"grounded2\"]}"
+					elevate_perms: true
+					id: "7EB50285C81A09BD"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "0D565229832F7627"
+				item: { Count: 64, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: -1.3299999999999998d
+			y: 1.14d
+		}
+		{
+			dependencies: ["1A7F91677E9AC2C9"]
+			id: "1FC3449C826D00F0"
+			rewards: [{
+				auto: "invisible"
+				command: "execute as @p at @p run function kevs:noainecromancer"
+				elevate_perms: true
+				id: "10B9DDDA9C8B794B"
+				silent: true
+				team_reward: true
+				type: "command"
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "79EAFD1DBEC18A15"
+				type: "dimension"
+			}]
+			x: 0.18999999999999997d
+			y: 1.14d
+		}
+	]
+	title: "VillageQuest"
+}

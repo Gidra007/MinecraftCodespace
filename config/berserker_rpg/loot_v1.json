@@ -1,0 +1,180 @@
+{
+  "item_groups": {
+    "weapons_golden": {
+      "ids": [
+        "berserker_rpg:golden_berserker_axe"
+      ],
+      "chance": 0.4,
+      "bonus_roll": 0.2,
+      "weight": 1,
+      "enchant": {
+        "min_power": 1.0,
+        "max_power": 30.0,
+        "allow_treasure": true
+      }
+    },
+    "armor_advanced": {
+      "ids": [
+        "berserker_rpg:northling_head",
+        "berserker_rpg:northling_chest",
+        "berserker_rpg:northling_legs",
+        "berserker_rpg:northling_feet"
+      ],
+      "chance": 0.25,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "weapons_mid": {
+      "ids": [
+        "berserker_rpg:soul_berserker_axe"
+      ],
+      "chance": 0.15,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "armor_beginner_enchanted": {
+      "ids": [
+        "berserker_rpg:wildling_head",
+        "berserker_rpg:wildling_chest",
+        "berserker_rpg:wildling_legs",
+        "berserker_rpg:wildling_feet"
+      ],
+      "chance": 0.25,
+      "bonus_roll": 0.2,
+      "weight": 1,
+      "enchant": {
+        "min_power": 1.0,
+        "max_power": 30.0,
+        "allow_treasure": true
+      }
+    },
+    "weapons_beginner": {
+      "ids": [
+        "berserker_rpg:flint_berserker_axe",
+        "berserker_rpg:stone_berserker_axe"
+      ],
+      "chance": 0.5,
+      "bonus_roll": 0.0,
+      "weight": 1
+    },
+    "weapons_advanced": {
+      "ids": [
+        "berserker_rpg:iron_berserker_axe"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "weapons_mid_enchanted": {
+      "ids": [
+        "berserker_rpg:diamond_berserker_axe"
+      ],
+      "chance": 0.3,
+      "bonus_roll": 0.2,
+      "weight": 1,
+      "enchant": {
+        "min_power": 1.0,
+        "max_power": 30.0,
+        "allow_treasure": true
+      }
+    },
+    "armor_beginner": {
+      "ids": [
+        "berserker_rpg:wildling_head",
+        "berserker_rpg:wildling_chest",
+        "berserker_rpg:wildling_legs",
+        "berserker_rpg:wildling_feet"
+      ],
+      "chance": 0.5,
+      "bonus_roll": 0.2,
+      "weight": 1
+    }
+  },
+  "loot_tables": {
+    "minecraft:chests/bastion_treasure": [
+      "weapons_mid_enchanted",
+      "armor_advanced",
+      "weapons_high",
+      "weapons_legend"
+    ],
+    "minecraft:chests/underwater_ruin_small": [
+      "weapons_advanced"
+    ],
+    "minecraft:chests/woodland_mansion": [
+      "weapons_advanced",
+      "armor_beginner_enchanted",
+      "weapons_high"
+    ],
+    "minecraft:chests/end_city_treasure": [
+      "weapons_mid_enchanted",
+      "armor_advanced",
+      "weapons_high",
+      "weapons_legend"
+    ],
+    "minecraft:chests/shipwreck_supply": [
+      "armor_beginner"
+    ],
+    "minecraft:chests/nether_bridge": [
+      "weapons_mid"
+    ],
+    "minecraft:chests/underwater_ruin_big": [
+      "weapons_advanced",
+      "armor_beginner_enchanted",
+      "weapons_high"
+    ],
+    "minecraft:chests/pillager_outpost": [
+      "weapons_advanced"
+    ],
+    "minecraft:chests/simple_dungeon": [
+      "weapons_advanced",
+      "armor_beginner_enchanted",
+      "weapons_high"
+    ],
+    "minecraft:chests/ruined_portal": [
+      "weapons_golden"
+    ],
+    "minecraft:chests/desert_pyramid": [
+      "weapons_advanced"
+    ],
+    "minecraft:chests/underwater_ruin_big.json": [
+      "weapons_advanced",
+      "armor_beginner_enchanted",
+      "weapons_high"
+    ],
+    "minecraft:chests/bastion_bridge": [
+      "weapons_advanced"
+    ],
+    "minecraft:chests/jungle_temple": [
+      "weapons_advanced"
+    ],
+    "minecraft:chests/ancient_city": [
+      "weapons_mid_enchanted",
+      "armor_advanced",
+      "weapons_high",
+      "weapons_legend"
+    ],
+    "minecraft:chests/stronghold_corridor": [
+      "armor_beginner"
+    ],
+    "minecraft:chests/stronghold_crossing": [
+      "weapons_advanced"
+    ],
+    "minecraft:chests/spawn_bonus_chest": [
+      "weapons_beginner"
+    ],
+    "minecraft:chests/igloo_chest": [
+      "weapons_beginner"
+    ],
+    "minecraft:chests/stronghold_library": [
+      "weapons_mid_enchanted",
+      "armor_advanced",
+      "weapons_high",
+      "weapons_legend"
+    ],
+    "minecraft:chests/bastion_other": [
+      "weapons_advanced",
+      "armor_beginner_enchanted",
+      "weapons_high"
+    ]
+  }
+}

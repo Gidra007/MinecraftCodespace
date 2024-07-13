@@ -1,0 +1,38 @@
+{
+  "states": {
+    "start": {
+      "type": "default",
+      "text": "Welcome",
+      "action": {
+        "type": "blabber:command",
+        "value": "say hello"
+      },
+      "choices": [
+        {
+          "next": "end",
+          "text": "1",
+          "only_if": {
+            "predicate": "kevs:predicate",
+            "when_unavailable": {
+              "display": "grayed_out",
+              "message": ""
+            }
+          }
+        },
+        {
+          "next": "end",
+          "text": "2"
+        }
+      ]
+    },
+    "end": {
+      "text": "",
+      "type": "end_dialogue"
+    }
+  },
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": true,
+  "start_at": "start"
+}

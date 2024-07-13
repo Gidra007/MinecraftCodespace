@@ -1,0 +1,75 @@
+{
+  "states": {
+    "start": {
+	    "text": [
+		{"text":"<typewriter>Hello adventurer, I am "},
+		{"selector":"@interlocutor"},
+		{"text":"<typewriter>, the village chief. I am here to offer you a quest, I need you to subjugate 30 mobs surrounding this village. Will you accept?"}
+	  ],
+      "choices": [
+        {
+          "text": "What's in it for me?",
+          "next": "question"
+        },
+        {
+          "next": "accept",
+          "text": "Sure."
+        },
+        {
+          "next": "deny",
+          "text": "No."
+        },
+        {
+          "next": "end",
+          "text": "Not yet"
+        }
+      ]
+    },
+    "end": {
+      "type": "end_dialogue",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run ftbquests change_progress @p reset 6DF45ABB1FA2A031"
+      }
+    },
+    "question": {
+      "text": "<typewriter>Our village have not been able to secure any goods due to the hostile mobs but we will surely award you nicely!",
+      "choices": [
+        {
+          "next": "accept",
+          "text": "Alright."
+        },
+        {
+          "next": "deny",
+          "text": "Not worth it."
+        },
+        {
+          "next": "end",
+          "text": "Not yet."
+        }
+      ],
+      "type": "default"
+    },
+    "accept": {
+      "text": "",
+      "type": "end_dialogue",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run function kevs:acceptquest"
+      }
+    },
+    "deny": {
+      "text": "",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run function kevs:denyquest"
+      },
+      "type": "end_dialogue"
+    }
+  },
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": true,
+  "start_at": "start"
+}
