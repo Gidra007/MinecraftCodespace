@@ -1,0 +1,92 @@
+[2024/08/15 11:58:03]: §9          __             _       
+[2024/08/15 11:58:03]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/08/15 11:58:03]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/08/15 11:58:03]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/08/15 11:58:03]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/08/15 11:58:03]: §9                  |___/            
+[2024/08/15 11:58:03]: §9 By: www.nickuc.com - V 10.4.3 DEVELOPMENT
+[2024/08/15 11:58:03]: §9 
+[2024/08/15 11:58:03]: §3[nLogin] [DEBUG] All settings were loaded in 134 ms.
+[2024/08/15 11:58:03]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/08/15 11:58:03]: §3[nLogin] [DEBUG] All plugin messages were loaded in 178 ms (languageByClient=false).
+[2024/08/15 11:58:03]: §3[nLogin] [DEBUG] All proxy settings were loaded in 0 ms.
+[2024/08/15 11:58:03]: §3[nLogin] [DEBUG] Loading database...
+[2024/08/15 11:58:03]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/08/15 11:58:25]: 
+[2024/08/15 11:58:25]:  §bThank you so much for choosing nLogin! §4<3
+[2024/08/15 11:58:25]: 
+[2024/08/15 11:58:25]:  §4For your safety, please read the message below:
+[2024/08/15 11:58:25]:   §cNever download nLogin from unknown sources.
+[2024/08/15 11:58:25]:   §cA modified version may contain malicious software.
+[2024/08/15 11:58:25]: 
+[2024/08/15 11:58:25]:  §3Trusted sources:
+[2024/08/15 11:58:25]:   §bwww.nickuc.com
+[2024/08/15 11:58:25]:   §bwww.github.com/nickuc
+[2024/08/15 11:58:25]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2024/08/15 11:58:25]: 
+[2024/08/15 11:58:25]:  §3Official support channels:
+[2024/08/15 11:58:25]:   §bDiscord group: §fwww.nickuc.com/discord
+[2024/08/15 11:58:25]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2024/08/15 11:58:25]:   §bEmail: §fsupport@nickuc.com
+[2024/08/15 11:58:25]:   §bYouTube: §fyoutube.com/nickuc
+[2024/08/15 11:58:25]: 
+[2024/08/15 11:58:25]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2024/08/15 11:58:25]:  §eand click the "Setup plugin" button to configure your plugin.
+[2024/08/15 11:58:25]: 
+[2024/08/15 12:07:39]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('Panda_SS', f194d5c3f25b3a118f1004494bf0187f, null, null, '$2a$10$Li.BUD8h17A4LoaWI3PqiOUhO1Rze58VY0x9N1rSF8P0G7l3GzlIW', '127.0.0.1', '2024-08-15 12:07:39.561', '2024-08-15 12:07:39.561', null, null, null)" (applied to all columns)
+[2024/08/15 12:07:39]: [nLogin] The user Panda_SS has successfully registered.
+[2024/08/15 12:08:53]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Panda_SS', `unique_id` = f194d5c3f25b3a118f1004494bf0187f,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Li.BUD8h17A4LoaWI3PqiOUhO1Rze58VY0x9N1rSF8P0G7l3GzlIW', `last_ip` = '127.0.0.1', `creation_date` = 2024-08-15 12:07:39.561, `last_seen` = 2024-08-15 12:08:53.014, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2024/08/15 12:09:50]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Panda_SS', `unique_id` = f194d5c3f25b3a118f1004494bf0187f,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Li.BUD8h17A4LoaWI3PqiOUhO1Rze58VY0x9N1rSF8P0G7l3GzlIW', `last_ip` = '127.0.0.1', `creation_date` = 2024-08-15 12:07:39.561, `last_seen` = 2024-08-15 12:09:50.491, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/08/15 12:09:50]: [nLogin] The user Panda_SS has successfully logged in.
+[2024/08/15 12:12:02]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Panda_SS', `unique_id` = f194d5c3f25b3a118f1004494bf0187f,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Li.BUD8h17A4LoaWI3PqiOUhO1Rze58VY0x9N1rSF8P0G7l3GzlIW', `last_ip` = '127.0.0.1', `creation_date` = 2024-08-15 12:07:39.561, `last_seen` = 2024-08-15 12:12:02.063, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2024/08/15 12:13:25]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Panda_SS', `unique_id` = f194d5c3f25b3a118f1004494bf0187f,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Li.BUD8h17A4LoaWI3PqiOUhO1Rze58VY0x9N1rSF8P0G7l3GzlIW', `last_ip` = '127.0.0.1', `creation_date` = 2024-08-15 12:07:39.561, `last_seen` = 2024-08-15 12:13:25.038, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/08/15 12:13:25]: [nLogin] The user Panda_SS has successfully logged in.
+[2024/08/15 12:27:31]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[2024/08/15 12:27:31]: §4[nLogin] [ERROR] §c[ProtocolLib] Failed to unhook ProtocolLib protocols.
+java.util.ConcurrentModificationException
+	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1605)
+	at java.base/java.util.HashMap$ValueIterator.next(HashMap.java:1633)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:52)
+	at com.google.common.collect.Iterators$ConcatenatedIterator.hasNext(Iterators.java:1400)
+	at com.comphenix.protocol.async.AsyncFilterManager.unregisterAsyncHandlers(AsyncFilterManager.java:289)
+	at com.comphenix.protocol.async.AsyncFilterManager.unregisterAsyncHandlers(AsyncFilterManager.java:283)
+	at com.nickuc.login.οΨημζξξνς.L(:125)
+	at com.nickuc.login.ςμκΔΣιζρΛξΨιθφΠ.J(:92)
+	at com.nickuc.login.ΨεηηνμγυΩαγ.k(:218)
+	at com.nickuc.login.ΠγΔιΠΩζι.N(:265)
+	at com.nickuc.login.ετςζοζηυγς.N(:77)
+	at com.nickuc.login.ΓκυξρχλγθρςΦ.N(:74)
+	at com.nickuc.login.ωςδωλλνδδ.ap(:347)
+	at com.nickuc.login.ετςζοζηυγς.disable(:54)
+	at com.nickuc.login.loader.platform.BukkitLoader.onDisable(BukkitLoader.java:37)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:268)
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:367)
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:544)
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.reload(CraftServer.java:941)
+	at org.bukkit.Bukkit.reload(Bukkit.java:833)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.dispatchCommand(CraftServer.java:879)
+	at org.bukkit.craftbukkit.v1_20_R2.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50)
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265)
+	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:320)
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:304)
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1827)
+	at net.minecraft.server.network.PlayerConnection.lambda$15(PlayerConnection.java:1789)
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:67)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at net.minecraft.server.TickTask.run(SourceFile:18)
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156)
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133)
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1)
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130)
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112)
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105)
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139)
+	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000)
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298)
+	at java.base/java.lang.Thread.run(Thread.java:1583)

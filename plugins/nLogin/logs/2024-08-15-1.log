@@ -1,0 +1,28 @@
+[2024/08/15 11:54:48]: §9          __             _       
+[2024/08/15 11:54:48]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/08/15 11:54:48]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/08/15 11:54:48]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/08/15 11:54:48]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/08/15 11:54:48]: §9                  |___/            
+[2024/08/15 11:54:48]: §9 By: www.nickuc.com - V 10.4.3 DEVELOPMENT
+[2024/08/15 11:54:48]: §9 
+[2024/08/15 11:54:48]: §3[nLogin] [DEBUG] The config.yml file was created successfully.
+[2024/08/15 11:54:53]: §3[nLogin] [DEBUG] All settings were loaded in 4441 ms.
+[2024/08/15 11:54:53]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/08/15 11:54:53]: §3[nLogin] [DEBUG] All plugin messages were loaded in 107 ms (languageByClient=false).
+[2024/08/15 11:54:53]: §3[nLogin] [DEBUG] All proxy settings were loaded in 0 ms.
+[2024/08/15 11:54:53]: §3[nLogin] [DEBUG] Loading database...
+[2024/08/15 11:54:53]: [nLogin] Generating RSA keypair... (this may take a while)
+[2024/08/15 11:54:55]: [nLogin] The RSA key pair was successfully generated. Took 1.90s
+[2024/08/15 11:54:55]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/08/15 11:54:55]: [nLogin] Starting the OpeNLogin conversion...
+[2024/08/15 11:54:55]: §e[nLogin] [WARN] Initializing the OpeNLogin conversion
+[2024/08/15 11:54:55]: §e[nLogin] [WARN] Please do not shut down your server.
+[2024/08/15 11:54:55]: [nLogin] OpeNLogin data has been successfully converted.
+[2024/08/15 11:54:55]: [nLogin] No users have been converted ~ 0.03s
+[2024/08/15 11:54:55]: [nLogin] Downloading ProtocolLib...
+[2024/08/15 11:54:56]: [nLogin] *-----------------------------------------------*
+[2024/08/15 11:54:56]: [nLogin]   ProtocolLib has been successfully downloaded.
+[2024/08/15 11:54:56]: [nLogin]   Restarting server to apply changes...
+[2024/08/15 11:54:56]: [nLogin] *-----------------------------------------------*
+[2024/08/15 11:55:20]: [nLogin] Successful plugin core shutdown (took 0.00s)

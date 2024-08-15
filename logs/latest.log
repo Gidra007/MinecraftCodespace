@@ -1,180 +1,214 @@
-[15:09:34] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:09:37] [ServerMain/INFO]: Loaded 7 recipes
-[15:09:38] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[15:09:38] [Server thread/INFO]: Loading properties
-[15:09:38] [Server thread/INFO]: This server is running CraftBukkit version 3919-Spigot-dba3cdc-e42510b (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT)
-[15:09:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:09:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:09:39] [Server thread/INFO]: Debug logging is disabled
-[15:09:39] [Server thread/INFO]: Default game type: SURVIVAL
-[15:09:39] [Server thread/INFO]: Generating keypair
-[15:09:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:09:39] [Server thread/INFO]: Using epoll channel type
-[15:09:40] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.1
-[15:09:40] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.1 is now loaded. Registering protocol transformers and injecting...
-[15:09:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[15:09:41] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[15:09:41] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[15:09:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[15:09:41] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.1
-[15:09:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:09:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:09:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:09:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:09:41] [Server thread/INFO]: Preparing level "world"
-[15:09:41] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:09:41] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:41] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:09:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:41] [Server thread/INFO]: View Distance: 10
-[15:09:41] [Server thread/INFO]: Simulation Distance: 10
-[15:09:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:09:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:09:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:09:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:09:41] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:41] [Server thread/INFO]: Mob Spawn Range: 6
-[15:09:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:09:41] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[15:09:42] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:42] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:09:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:42] [Server thread/INFO]: View Distance: 10
-[15:09:42] [Server thread/INFO]: Simulation Distance: 10
-[15:09:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:09:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:09:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:09:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:09:42] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:42] [Server thread/INFO]: Mob Spawn Range: 6
-[15:09:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:09:42] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[15:09:47] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:09:47] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:09:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:09:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:09:47] [Server thread/INFO]: View Distance: 10
-[15:09:47] [Server thread/INFO]: Simulation Distance: 10
-[15:09:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:09:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:09:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:09:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:09:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:09:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:09:47] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:09:47] [Server thread/INFO]: Mob Spawn Range: 6
-[15:09:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:09:47] [Server thread/INFO]: Max TNT Explosions: 100
-[15:09:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:09:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:09:57] [Server thread/INFO]: Time elapsed: 9539 ms
-[15:09:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:01] [Server thread/INFO]: Time elapsed: 4302 ms
-[15:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:10:05] [Worker-Main-1/INFO]: Preparing spawn area: 39%
-[15:10:05] [Server thread/INFO]: Time elapsed: 4088 ms
-[15:10:05] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.1
-[15:10:05] [Server thread/WARN]: [ViaVersion] Couldn't find reflection methods/fields to access Channel from player.
+[11:57:55] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:57:57] [ServerMain/INFO]: Loaded 7 recipes
+[11:57:57] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[11:57:57] [Server thread/INFO]: Loading properties
+[11:57:58] [Server thread/INFO]: This server is running CraftBukkit version 3919-Spigot-dba3cdc-e42510b (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT)
+[11:57:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:57:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:57:58] [Server thread/INFO]: Debug logging is disabled
+[11:57:58] [Server thread/INFO]: Default game type: SURVIVAL
+[11:57:58] [Server thread/INFO]: Generating keypair
+[11:57:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:57:58] [Server thread/INFO]: Using epoll channel type
+[11:57:58] [Server thread/ERROR]: Could not load 'plugins/via.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.loadPlugins(CraftServer.java:437) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:219) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:954) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 7 more
+[11:57:59] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.0+6678-55745ad
+[11:57:59] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5da7d7c8]
+[11:57:59] [Server thread/INFO]: [PlayerKits] Loading PlayerKits v2.27.1
+[11:57:59] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.1
+[11:57:59] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.1 is now loaded. Registering protocol transformers and injecting...
+[11:58:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[11:58:00] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[11:58:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[11:58:00] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[11:58:00] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.18.3
+[11:58:00] [Server thread/INFO]: [playit-gg] Loading playit-gg v0.1.4
+[11:58:00] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.1
+[11:58:00] [Server thread/INFO]: [FakePlayer] Loading FakePlayer v2.1.0
+[11:58:00] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.3.0-SNAPSHOT-726
+[11:58:00] [Server thread/INFO]: [nLogin] Loading nLogin v10.4.3
+[11:58:01] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.9
+[11:58:01] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0+6678-55745ad
+[11:58:01] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[11:58:01] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:58:01] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R2.PaperweightAdapter as the Bukkit adapter
+[11:58:02] [Server thread/INFO]: [WorldEdit] ====================================================
+[11:58:02] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
+[11:58:02] [Server thread/INFO]: [WorldEdit]  as your server software. 
+[11:58:02] [Server thread/INFO]: [WorldEdit]   
+[11:58:02] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
+[11:58:02] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
+[11:58:02] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
+[11:58:02] [Server thread/INFO]: [WorldEdit]   
+[11:58:02] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[11:58:02] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
+[11:58:02] [Server thread/INFO]: [WorldEdit]   
+[11:58:02] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
+[11:58:02] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[11:58:02] [Server thread/INFO]: [WorldEdit]   
+[11:58:02] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[11:58:02] [Server thread/INFO]: [WorldEdit] ====================================================
+[11:58:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-726
+[11:58:02] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.3
+[11:58:03] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.26s)
+[11:58:03] [Server thread/INFO]: [0;34;1m          __             _       [m
+[11:58:03] [Server thread/INFO]: [0;34;1m  _ __   / /  ___   __ _(_)_ __  [m
+[11:58:03] [Server thread/INFO]: [0;34;1m | '_ \ / /  / _ \ / _` | | '_ \ [m
+[11:58:03] [Server thread/INFO]: [0;34;1m | | | / /__| (_) | (_| | | | | |[m
+[11:58:03] [Server thread/INFO]: [0;34;1m |_| |_\____/\___/ \__, |_|_| |_|[m
+[11:58:03] [Server thread/INFO]: [0;34;1m                  |___/            [m
+[11:58:03] [Server thread/INFO]: [0;34;1m By: www.nickuc.com - V 10.4.3 DEVELOPMENT[m
+[11:58:03] [Server thread/INFO]: [0;34;1m [m
+[11:58:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:58:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:58:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:58:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:58:04] [Server thread/INFO]: Preparing level "world"
+[11:58:04] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:58:04] [Server thread/INFO]: Mob Spawn Range: 6
+[11:58:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:58:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:58:04] [Server thread/INFO]: Max TNT Explosions: 100
+[11:58:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:58:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:58:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:58:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:58:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:58:04] [Server thread/INFO]: View Distance: 10
+[11:58:04] [Server thread/INFO]: Simulation Distance: 10
+[11:58:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:58:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:58:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:58:04] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:58:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:58:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:58:05] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:58:05] [Server thread/INFO]: Mob Spawn Range: 6
+[11:58:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:58:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:58:05] [Server thread/INFO]: Max TNT Explosions: 100
+[11:58:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:58:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:58:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:58:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:58:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:58:05] [Server thread/INFO]: View Distance: 10
+[11:58:05] [Server thread/INFO]: Simulation Distance: 10
+[11:58:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:58:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:58:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:58:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:58:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:58:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:58:06] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:58:06] [Server thread/INFO]: Mob Spawn Range: 6
+[11:58:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:58:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:58:06] [Server thread/INFO]: Max TNT Explosions: 100
+[11:58:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:58:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:58:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:58:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:58:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:58:06] [Server thread/INFO]: View Distance: 10
+[11:58:06] [Server thread/INFO]: Simulation Distance: 10
+[11:58:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:58:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:58:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:58:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:58:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:58:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:58:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:58:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:58:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:58:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:58:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:58:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:58:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:58:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:58:10] [Worker-Main-3/INFO]: Preparing spawn area: 86%
+[11:58:10] [Server thread/INFO]: Time elapsed: 3604 ms
+[11:58:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:58:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:58:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:58:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:58:12] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[11:58:12] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[11:58:12] [Server thread/INFO]: Time elapsed: 2026 ms
+[11:58:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:58:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:58:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:58:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:58:14] [Worker-Main-3/INFO]: Preparing spawn area: 35%
+[11:58:14] [Server thread/INFO]: Time elapsed: 1778 ms
+[11:58:14] [Server thread/INFO]: [PlayerKits] Enabling PlayerKits v2.27.1
+[11:58:14] [Server thread/INFO]: [0;30;1m[[0;31;22mPlayerKits[0;30;1m] [0;33;1mHas been enabled! [0;37;1mVersion: 2.27.1[m
+[11:58:14] [Server thread/INFO]: [0;30;1m[[0;31;22mPlayerKits[0;30;1m] [0;33;1mThanks for using my plugin!  [0;37;1m~Ajneb97[m
+[11:58:14] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.1
+[11:58:14] [Server thread/WARN]: [ViaVersion] Couldn't find reflection methods/fields to access Channel from player.
 Login race condition fixer will be disabled.
  Some plugins that use ViaAPI on join event may work incorrectly.
 java.lang.NoSuchFieldException: NetworkManager
@@ -191,18 +225,1310 @@ java.lang.NoSuchFieldException: NetworkManager
 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:250) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:954) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
-	at java.lang.Thread.run(Thread.java:833) ~[?:?]
-[15:10:05] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
-[15:10:05] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.1
-[15:10:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:10:05] [Server thread/INFO]: Done (24.123s)! For help, type "help"
-[15:10:05] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[15:12:42] [User Authenticator #1/INFO]: UUID of player subhamoyGhosh is e08bc1be-f2c5-38bd-949f-fb8b9dd1263a
-[15:12:43] [Server thread/INFO]: subhamoyGhosh joined the game
-[15:12:43] [Server thread/INFO]: subhamoyGhosh[/[0:0:0:0:0:0:0:1%0]:51252] logged in with entity id 141 at ([world]17.5, 83.0, 18.5)
-[15:13:10] [Server thread/INFO]: Made subhamoyGhosh a server operator
-[15:13:20] [Server thread/INFO]: subhamoyGhosh issued server command: /gamemode creative
-[15:13:20] [Server thread/INFO]: [subhamoyGhosh: Set own game mode to Creative Mode]
-[15:14:12] [Server thread/WARN]: subhamoyGhosh moved too quickly! -12.018311805504027,-5.056851103310194,-6.257776375549014
-[15:14:58] [Server thread/INFO]: subhamoyGhosh lost connection: Disconnected
-[15:14:58] [Server thread/INFO]: subhamoyGhosh left the game
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:58:14] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
+[11:58:14] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.3
+[11:58:14] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[11:58:14] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[11:58:14] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[11:58:14] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[11:58:14] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[11:58:14] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[11:58:15] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.1
+[11:58:15] [Server thread/INFO]: [FakePlayer] Enabling FakePlayer v2.1.0
+[11:58:15] [Thread-12/INFO]: secret key found, checking
+[11:58:15] [Thread-12/INFO]: check secret
+[11:58:15] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_20_R2.EntityPlayer
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:160)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:112)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:421)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:412)
+[11:58:15] [Server thread/WARN]: 	at com.cryptomorin.xseries.ReflectionUtils.getNMSClass(ReflectionUtils.java:100)
+[11:58:15] [Server thread/WARN]: 	at com.cryptomorin.xseries.ReflectionUtils.<clinit>(ReflectionUtils.java:66)
+[11:58:15] [Server thread/WARN]: 	at com.cryptomorin.xseries.SkullUtils.<clinit>(SkullUtils.java:69)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.lambda$to$5(ItemStackUtil.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.to(ItemStackUtil.java:89)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:49)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:37)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.lambda$setItemStack$1(BkktSection.java:50)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:50)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:60)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:122)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:115)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.set(PropertyProceed.java:88)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.lambda$load$8(PropertyProceed.java:111)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.load(PropertyProceed.java:101)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$0(FieldsProceed.java:54)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:53)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$3(FieldsProceed.java:64)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$4(FieldsProceed.java:61)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$5(FieldsProceed.java:60)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:56)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.ConfigProceed.load(ConfigProceed.java:86)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.FlManaged.load(FlManaged.java:45)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.FakePlayerAPI.reloadPlugin(FakePlayerAPI.java:51)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.FakePlayer.onEnable(FakePlayer.java:47)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:577)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:400)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:250)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:954)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[11:58:15] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_20_R2.PlayerConnection
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:160)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:112)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:421)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:412)
+[11:58:15] [Server thread/WARN]: 	at com.cryptomorin.xseries.ReflectionUtils.getNMSClass(ReflectionUtils.java:100)
+[11:58:15] [Server thread/WARN]: 	at com.cryptomorin.xseries.ReflectionUtils.<clinit>(ReflectionUtils.java:68)
+[11:58:15] [Server thread/WARN]: 	at com.cryptomorin.xseries.SkullUtils.<clinit>(SkullUtils.java:69)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.lambda$to$5(ItemStackUtil.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.to(ItemStackUtil.java:89)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:49)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:37)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.lambda$setItemStack$1(BkktSection.java:50)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:50)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:60)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:122)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:115)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.set(PropertyProceed.java:88)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.lambda$load$8(PropertyProceed.java:111)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.load(PropertyProceed.java:101)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$0(FieldsProceed.java:54)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:53)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$3(FieldsProceed.java:64)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$4(FieldsProceed.java:61)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$5(FieldsProceed.java:60)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:56)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.ConfigProceed.load(ConfigProceed.java:86)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.FlManaged.load(FlManaged.java:45)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.FakePlayerAPI.reloadPlugin(FakePlayerAPI.java:51)
+[11:58:15] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.FakePlayer.onEnable(FakePlayer.java:47)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548)
+[11:58:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:577)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:400)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:250)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:954)
+[11:58:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298)
+[11:58:15] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[11:58:15] [Server thread/ERROR]: Error occurred while enabling FakePlayer v2.1.0 (Is it up to date?)
+java.lang.ExceptionInInitializerError: null
+	at com.cryptomorin.xseries.SkullUtils.<clinit>(SkullUtils.java:69) ~[?:?]
+	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.lambda$to$5(ItemStackUtil.java:91) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.to(ItemStackUtil.java:89) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:49) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:37) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.lambda$setItemStack$1(BkktSection.java:50) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:50) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:60) ~[?:?]
+	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:122) ~[?:?]
+	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:115) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.set(PropertyProceed.java:88) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.lambda$load$8(PropertyProceed.java:111) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.load(PropertyProceed.java:101) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$0(FieldsProceed.java:54) ~[?:?]
+	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39) ~[?:?]
+	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:53) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$3(FieldsProceed.java:64) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$4(FieldsProceed.java:61) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$5(FieldsProceed.java:60) ~[?:?]
+	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39) ~[?:?]
+	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:56) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.ConfigProceed.load(ConfigProceed.java:86) ~[?:?]
+	at io.github.portlek.fakeplayer.file.FlManaged.load(FlManaged.java:45) ~[?:?]
+	at io.github.portlek.fakeplayer.FakePlayerAPI.reloadPlugin(FakePlayerAPI.java:51) ~[?:?]
+	at io.github.portlek.fakeplayer.FakePlayer.onEnable(FakePlayer.java:47) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:577) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:400) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:250) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:954) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.isClassAccessible(MethodHandles.java:3792) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.checkSymbolicClass(MethodHandles.java:3786) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3739) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.findGetter(MethodHandles.java:3120) ~[?:?]
+	at com.cryptomorin.xseries.ReflectionUtils.<clinit>(ReflectionUtils.java:75) ~[?:?]
+	... 52 more
+[11:58:15] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.9
+[11:58:15] [Server thread/INFO]: 
+[11:58:15] [Server thread/INFO]:  
+[11:58:15] [Server thread/INFO]: ****************************************************************************
+[11:58:15] [Server thread/INFO]:     Holographic Displays does not support this server version.
+[11:58:15] [Server thread/INFO]:     Supported Spigot versions: from 1.8.3 to 1.16.4.
+[11:58:15] [Server thread/INFO]:  
+[11:58:15] [Server thread/INFO]:     This plugin has been disabled.
+[11:58:15] [Server thread/INFO]: ****************************************************************************
+[11:58:15] [Server thread/INFO]:  
+[11:58:16] [Thread-12/INFO]: found minecraft java tunnel: wall-bi.joinmc.link
+[11:58:16] [Thread-12/INFO]: keys and tunnel setup
+[11:58:17] [Thread-12/WARN]: Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[11:58:17] [Thread-12/INFO]: request queued, waiting 1 second before resend
+[11:58:18] [Thread-12/INFO]: request queued, waiting 1 second before resend
+[11:58:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:58:20] [Server thread/INFO]: Done (16.583s)! For help, type "help"
+[11:58:20] [Craft Scheduler Thread - 4/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[11:58:20] [Craft Scheduler Thread - 2/WARN]: [HolographicDisplays] Unable to check for updates: unhandled exception.
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.validate(CraftScheduler.java:467) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:196) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:187) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.runTaskLater(CraftScheduler.java:151) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.runTask(CraftScheduler.java:120) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at com.gmail.filoghost.holographicdisplays.updater.UpdateChecker.lambda$run$1(UpdateChecker.java:63) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:58:20] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.3, you're on: 4.8.1
+[11:58:25] [Server thread/INFO]: [m
+[11:58:25] [Server thread/INFO]:  [0;36;1mThank you so much for choosing nLogin! [0;31;22m<3[m
+[11:58:25] [Server thread/INFO]: [m
+[11:58:25] [Server thread/INFO]:  [0;31;22mFor your safety, please read the message below:[m
+[11:58:25] [Server thread/INFO]:   [0;31;1mNever download nLogin from unknown sources.[m
+[11:58:25] [Server thread/INFO]:   [0;31;1mA modified version may contain malicious software.[m
+[11:58:25] [Server thread/INFO]: [m
+[11:58:25] [Server thread/INFO]:  [0;36;22mTrusted sources:[m
+[11:58:25] [Server thread/INFO]:   [0;36;1mwww.nickuc.com[m
+[11:58:25] [Server thread/INFO]:   [0;36;1mwww.github.com/nickuc[m
+[11:58:25] [Server thread/INFO]:   [0;36;1mOpeNLogin installer (from Spigot or GitHub)[m
+[11:58:25] [Server thread/INFO]: [m
+[11:58:25] [Server thread/INFO]:  [0;36;22mOfficial support channels:[m
+[11:58:25] [Server thread/INFO]:   [0;36;1mDiscord group: [0;37;1mwww.nickuc.com/discord[m
+[11:58:25] [Server thread/INFO]:   [0;36;1mDocumentation: [0;37;1mdocs.nickuc.com/nlogin/[m
+[11:58:25] [Server thread/INFO]:   [0;36;1mEmail: [0;37;1msupport@nickuc.com[m
+[11:58:25] [Server thread/INFO]:   [0;36;1mYouTube: [0;37;1myoutube.com/nickuc[m
+[11:58:25] [Server thread/INFO]: [m
+[11:58:25] [Server thread/INFO]:  [0;33;1mTo remove this warning, log in with "nlogin.admin" permission on the server[m
+[11:58:25] [Server thread/INFO]:  [0;33;1mand click the "Setup plugin" button to configure your plugin.[m
+[11:58:25] [Server thread/INFO]: [m
+[12:02:19] [Thread-12/INFO]: send keep alive
+[12:02:28] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:02:33] [Server thread/INFO]: [Not Secure] [Server] ارتین
+[12:02:36] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:02:53] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26347, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 102, -21, 120, 55, 16, -36, -89, 8, 102, -67, -18, 109, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -65, -36, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 6, -24, -80, 90, 26, -114, -22, 49, -41, 48, -36, -42, 10, 33, 121, 69, -89], tunnelServerId=1, dataCenterId=41}
+[12:02:53] [Thread-12/INFO]: starting tcp tunnel for client
+[12:02:53] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:02:53] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:02:53] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:02:53] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:02:53] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:02:53] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:02:53] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:02:53] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:02:54] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
+[12:02:55] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26367, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 102, -1, -61, 47, 125, 26, -89, 8, 102, -67, -18, 110, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 94, 26, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 9, -81, -111, -49, 92, -71, 67, 127, 64, 78, -112, -117, 100, 74, -98, 91, 115], tunnelServerId=1, dataCenterId=41}
+[12:02:55] [Thread-12/INFO]: starting tcp tunnel for client
+[12:02:55] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:02:55] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:02:55] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:02:55] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:02:55] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:02:55] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:02:55] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:02:55] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:02:58] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26374, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 103, 6, 23, 74, -116, 51, -89, 8, 102, -67, -18, 114, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 80, 51, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, -44, 103, 101, -123, 102, -17, 76, -76, -6, -9, -42, 114, 110, 39, 69, -75], tunnelServerId=1, dataCenterId=41}
+[12:02:58] [Thread-12/INFO]: starting tcp tunnel for client
+[12:02:58] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:02:58] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:02:58] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:02:58] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:02:58] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:02:58] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:02:58] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:02:58] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:02:58] [User Authenticator #1/INFO]: UUID of player Panda_SS is f194d5c3-f25b-3a11-8f10-04494bf0187f
+[12:02:59] [Server thread/INFO]: [ACF] Can't read players locale, you will be unable to automatically detect players language. Only Bukkit 1.7+ is supported for this.
+[12:02:59] [Server thread/INFO]: [ACF] java.lang.NoSuchFieldException: locale
+[12:02:59] [Server thread/INFO]: [ACF] 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[12:02:59] [Server thread/INFO]: [ACF] 	at io.github.portlek.fakeplayer.commands.BukkitCommandManager.readPlayerLocale(BukkitCommandManager.java:314)
+[12:02:59] [Server thread/INFO]: [ACF] 	at io.github.portlek.fakeplayer.commands.ACFBukkitListener.onPlayerJoin(ACFBukkitListener.java:54)
+[12:02:59] [Server thread/INFO]: [ACF] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[12:02:59] [Server thread/INFO]: [ACF] 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[12:02:59] [Server thread/INFO]: [ACF] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[12:02:59] [Server thread/INFO]: [ACF] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:02:59] [Server thread/INFO]: [ACF] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[12:02:59] [Server thread/INFO]: [ACF] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.players.PlayerList.a(PlayerList.java:295)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:129)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:20)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:7)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:32)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.TickTask.run(SourceFile:18)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000)
+[12:02:59] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298)
+[12:02:59] [Server thread/INFO]: [ACF] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:02:59] [Server thread/INFO]: Panda_SS[/127.0.0.1:53550] logged in with entity id 142 at ([world]-96.2968456506595, 70.0, 102.2823910755242)
+[12:03:12] [Server thread/INFO]: There are 1 of a max of 500 players online: Panda_SS
+[12:03:25] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
+[12:03:25] [Server thread/INFO]: Panda_SS lost connection: Disconnected
+[12:03:34] [Server thread/INFO]: Plugins (10): [0;32;1mWorldEdit[0;37;1m, [0;32;1mPlayerKits[0;37;1m, [0;32;1mViaVersion[0;37;1m, [0;32;1mGriefPrevention[0;37;1m, [0;32;1mplayit-gg[0;37;1m, [0;32;1mViaBackwards[0;37;1m, [0;32;1mFakePlayer[0;37;1m, [0;32;1mProtocolLib[0;37;1m, [0;32;1mnLogin[0;37;1m, [0;31;1mHolographicDisplays[m
+[12:06:22] [Thread-12/INFO]: send keep alive
+[12:06:45] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26483, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 103, 115, -17, -6, -97, -54, -89, 8, 102, -67, -17, 85, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 67, -54, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 11, 89, 92, -94, 34, 99, 57, -108, 26, 100, -85, -121, -125, -10, -66, 118, -120], tunnelServerId=1, dataCenterId=41}
+[12:06:45] [Thread-12/INFO]: starting tcp tunnel for client
+[12:06:45] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:06:45] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:06:45] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:06:45] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:06:45] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:06:45] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:06:45] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:06:45] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:07:01] [Server thread/INFO]: There are 0 of a max of 500 players online: 
+[12:07:08] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26506, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 103, -118, -108, 93, -103, -61, -89, 8, 102, -67, -17, 108, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 95, -61, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 9, 29, 25, -16, 53, -78, 49, -82, 92, 92, 101, 91, -121, -107, 72, 92, 103], tunnelServerId=1, dataCenterId=41}
+[12:07:08] [Thread-12/INFO]: starting tcp tunnel for client
+[12:07:08] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:07:08] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:07:08] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:07:08] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:07:08] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:07:08] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:07:08] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:07:08] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:07:12] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26520, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 103, -104, -99, -61, 20, 127, -89, 8, 102, -67, -17, 112, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -61, 127, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 10, 101, -112, 32, 115, -28, 29, 103, 58, -39, 5, 13, 110, 3, -11, 22, 24], tunnelServerId=1, dataCenterId=41}
+[12:07:12] [Thread-12/INFO]: starting tcp tunnel for client
+[12:07:12] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:07:12] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:07:12] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:07:12] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:07:12] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:07:12] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:07:12] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:07:12] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:07:12] [User Authenticator #2/INFO]: UUID of player Panda_SS is f194d5c3-f25b-3a11-8f10-04494bf0187f
+[12:07:12] [Server thread/INFO]: Panda_SS[/127.0.0.1:35128] logged in with entity id 208 at ([world]-96.2968456506595, 70.0, 102.2823910755242)
+[12:07:39] [Craft Scheduler Thread - 5/INFO]: [nLogin] The user Panda_SS has successfully registered.
+[12:08:53] [Server thread/INFO]: Panda_SS lost connection: Timed out
+[12:08:53] [nioEventLoopGroup-2-4/WARN]: failed to send data to minecraft server
+[12:08:53] [Server thread/WARN]: handleDisconnection() called twice
+[12:09:25] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26546, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 103, -78, -59, 58, -78, -113, -89, 8, 102, -67, -17, -11, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -9, -113, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 9, -3, -34, 79, 66, -112, -92, -51, -128, 72, -23, -110, -94, 63, 100, 3, -48], tunnelServerId=1, dataCenterId=41}
+[12:09:25] [Thread-12/INFO]: starting tcp tunnel for client
+[12:09:25] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:09:25] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:09:25] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:09:25] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:09:25] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:09:25] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:09:25] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:09:25] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:09:35] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26571, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 103, -53, 107, -97, -74, 35, -89, 8, 102, -67, -17, -1, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -64, 35, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, 3, -95, 97, -128, -2, 9, 17, -102, -21, 106, 84, -97, 61, -87, -12, -19], tunnelServerId=1, dataCenterId=41}
+[12:09:35] [Thread-12/INFO]: starting tcp tunnel for client
+[12:09:35] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:09:35] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:09:35] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:09:35] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:09:35] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:09:35] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:09:35] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:09:35] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:09:38] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26578, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 103, -46, 97, -28, 22, -77, -89, 8, 102, -67, -16, 2, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 94, -77, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 81, -118, 68, -23, 120, -60, -115, -119, -67, 13, 47, 58, 96, 38, 28, 3], tunnelServerId=1, dataCenterId=41}
+[12:09:38] [Thread-12/INFO]: starting tcp tunnel for client
+[12:09:38] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:09:38] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:09:38] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:09:38] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:09:38] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:09:38] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:09:38] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:09:38] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:09:38] [User Authenticator #3/INFO]: UUID of player Panda_SS is f194d5c3-f25b-3a11-8f10-04494bf0187f
+[12:09:38] [Server thread/INFO]: Panda_SS[/127.0.0.1:48318] logged in with entity id 498 at ([world]-43.8608499999936, 64.15312379606114, 29.958736451225665)
+[12:09:50] [Craft Scheduler Thread - 6/INFO]: [nLogin] The user Panda_SS has successfully logged in.
+[12:10:16] [Server thread/INFO]: Panda_SS issued server command: //brush
+[12:10:23] [Thread-12/INFO]: send keep alive
+[12:12:02] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
+[12:12:02] [Server thread/INFO]: Panda_SS lost connection: Disconnected
+[12:12:03] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26725, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 104, 101, 44, 98, -114, 73, -89, 8, 102, -67, -16, -109, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 122, 73, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 8, 63, -19, -98, -70, -17, -114, 13, 105, -20, -110, 64, -8, 24, -124, -98, -13], tunnelServerId=1, dataCenterId=41}
+[12:12:03] [Thread-12/INFO]: starting tcp tunnel for client
+[12:12:03] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:12:03] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:12:03] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:12:03] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:12:03] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:12:03] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:12:03] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:12:03] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:12:04] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26740, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 104, 116, 92, -58, 117, 50, -89, 8, 102, -67, -16, -108, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -76, 50, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, 84, 125, -81, -125, -112, 28, 57, -82, 26, 107, 72, 32, -83, -100, -80, 43], tunnelServerId=1, dataCenterId=41}
+[12:12:04] [Thread-12/INFO]: starting tcp tunnel for client
+[12:12:04] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:12:04] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:12:04] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:12:04] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:12:04] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:12:04] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:12:04] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:12:04] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:12:15] [Server thread/INFO]: [Not Secure] [Server] f
+[12:12:24] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26763, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 104, -117, -80, 93, 78, -13, -89, 8, 102, -67, -16, -88, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -19, -13, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 9, -95, 31, -89, -8, -34, 109, -21, -36, 2, 4, -69, 24, 116, -90, 98, 11], tunnelServerId=1, dataCenterId=41}
+[12:12:24] [Thread-12/INFO]: starting tcp tunnel for client
+[12:12:24] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:12:24] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:12:24] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:12:24] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:12:24] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:12:24] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:12:24] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:12:24] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:12:30] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26785, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 104, -95, -16, 104, 76, 78, -89, 8, 102, -67, -16, -83, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -6, 78, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 10, -123, -118, -98, -60, 47, 63, 127, 8, -95, -28, -99, -63, 101, 11, -126, 93], tunnelServerId=1, dataCenterId=41}
+[12:12:30] [Thread-12/INFO]: starting tcp tunnel for client
+[12:12:30] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:12:30] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:12:30] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:12:30] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:12:30] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:12:30] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:12:30] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:12:30] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:12:52] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26809, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 104, -71, -84, -29, 12, -72, -89, 8, 102, -67, -16, -60, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 26, -72, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 86, -116, 88, 124, 23, 77, 97, 71, -103, -31, -27, -70, 123, -26, -113, 54], tunnelServerId=1, dataCenterId=41}
+[12:12:52] [Thread-12/INFO]: starting tcp tunnel for client
+[12:12:52] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:12:52] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:12:52] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:12:52] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:12:52] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:12:52] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:12:52] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:12:52] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:12:55] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:26824, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 104, -56, 18, 82, -118, 101, -89, 8, 102, -67, -16, -57, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 108, 101, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 10, -41, 80, -30, -59, -15, 96, -77, -56, -36, 48, -27, -15, -75, -102, 82, -88], tunnelServerId=1, dataCenterId=41}
+[12:12:55] [Thread-12/INFO]: starting tcp tunnel for client
+[12:12:55] [Thread-12/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:12:55] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:12:55] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:12:55] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:12:55] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:12:55] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:12:55] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:12:55] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:12:55] [User Authenticator #4/INFO]: UUID of player Panda_SS is f194d5c3-f25b-3a11-8f10-04494bf0187f
+[12:12:55] [Server thread/INFO]: Panda_SS[/127.0.0.1:40888] logged in with entity id 861 at ([world]-43.54939233629903, 64.0, 31.47711111816193)
+[12:13:25] [Craft Scheduler Thread - 7/INFO]: [nLogin] The user Panda_SS has successfully logged in.
+[12:13:32] [Thread-12/INFO]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0000:0000:0000:0000:00c2]:21366, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:59270, claimAddress=209.25.143.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, -62, 83, 118, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -25, -122, 0, 0, 0, 0, -82, -99, -96, -47, -85, 10, 102, -67, -16, -20, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 33, -47, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 8, -67, -47, 67, 2, 96, 96, 92, -32, -119, 28, -32, -68, 11, -73, 95, -6], tunnelServerId=1, dataCenterId=44}
+[12:13:32] [Thread-12/INFO]: starting tcp tunnel for client
+[12:13:32] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:13:32] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=216.128.138.102:45546, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -40, -128, -118, 102, -79, -22, -119, -57, 42, 102, -85, 10, 102, -67, -16, -20, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 52, 102, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, 32, 1, -98, 58, 69, -50, -19, 121, -90, -121, -47, 74, -121, 124, -59, 35], tunnelServerId=1, dataCenterId=44}
+[12:13:32] [Thread-12/INFO]: starting tcp tunnel for client
+[12:13:32] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:13:32] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:13:32] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:13:32] [nioEventLoopGroup-2-4/INFO]: connected to tunnel server, sending claim token
+[12:13:32] [nioEventLoopGroup-2-4/INFO]: claim token sent
+[12:13:32] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:13:32] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:13:32] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:13:32] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:13:32] [nioEventLoopGroup-2-1/INFO]: connected to local minecraft server
+[12:13:32] [nioEventLoopGroup-2-4/INFO]: connection to tunnel server has been established
+[12:13:32] [nioEventLoopGroup-2-4/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:13:32] [nioEventLoopGroup-2-4/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:13:32] [nioEventLoopGroup-2-4/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:13:32] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:13:35] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=216.128.138.102:45562, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -40, -128, -118, 102, -79, -6, -30, -95, -5, 1, -85, 10, 102, -67, -16, -17, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 75, 1, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 127, -44, 111, -52, 42, -98, -116, -114, -82, 59, -67, -6, 87, 97, 6, 122], tunnelServerId=1, dataCenterId=44}
+[12:13:35] [Thread-12/INFO]: starting tcp tunnel for client
+[12:13:35] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:13:35] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:13:35] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:13:35] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:13:35] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:13:35] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:13:35] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:13:35] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:13:38] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=216.128.138.102:43636, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -40, -128, -118, 102, -86, 116, -33, 10, -128, -63, -85, 10, 102, -67, -16, -14, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 30, -63, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 67, 57, 12, 32, -93, 107, -30, 16, 81, -117, -51, -18, -96, -102, -26, -8], tunnelServerId=1, dataCenterId=44}
+[12:13:38] [Thread-12/INFO]: starting tcp tunnel for client
+[12:13:38] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:13:38] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:13:38] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:13:38] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:13:38] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:13:38] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:13:38] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:13:38] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:13:38] [Thread-12/INFO]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0000:0000:0000:0000:00c2]:21366, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:46714, claimAddress=209.25.143.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, -62, 83, 118, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -74, 122, 0, 0, 0, 0, -37, 78, -8, -121, -85, 10, 102, -67, -16, -14, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -114, -121, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 36, 16, 3, -67, 119, 65, 62, 92, 105, 125, 65, -59, 121, 98, 72, -57], tunnelServerId=1, dataCenterId=44}
+[12:13:38] [Thread-12/INFO]: starting tcp tunnel for client
+[12:13:38] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:13:38] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:13:38] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:13:38] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:13:38] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:13:38] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:13:38] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:13:38] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:14:26] [Thread-12/INFO]: send keep alive
+[12:16:34] [Server thread/INFO]: Panda_SS has made the advancement [Hot Stuff]
+[12:18:26] [Thread-12/INFO]: send keep alive
+[12:21:40] [Server thread/INFO]: Panda_SS issued server command: /gamemode spectator
+[12:21:40] [Server thread/INFO]: [Panda_SS: Set own game mode to Spectator Mode]
+[12:22:26] [Thread-12/INFO]: send keep alive
+[12:23:16] [Thread-12/INFO]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0000:0000:0000:0000:00c2]:21366, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:36658, claimAddress=209.25.143.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, -62, 83, 118, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -113, 50, 0, 0, 0, 0, -123, 92, -74, -77, -85, 10, 102, -67, -13, 52, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -66, -77, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 30, -4, -55, -28, -21, -11, -35, 19, -122, -64, 99, 23, -94, 73, -86, 78], tunnelServerId=1, dataCenterId=44}
+[12:23:16] [Thread-12/INFO]: starting tcp tunnel for client
+[12:23:16] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:23:16] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=216.128.138.102:51964, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -40, -128, -118, 102, -54, -4, 26, 37, -32, -72, -85, 10, 102, -67, -13, 52, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 57, -72, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 11, -51, 77, 99, -36, 82, 89, -90, 95, 122, -6, 35, 38, -60, 20, 125, -106], tunnelServerId=1, dataCenterId=44}
+[12:23:16] [Thread-12/INFO]: starting tcp tunnel for client
+[12:23:16] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:23:16] [nioEventLoopGroup-2-2/INFO]: connected to tunnel server, sending claim token
+[12:23:16] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:23:16] [nioEventLoopGroup-2-2/INFO]: claim token sent
+[12:23:16] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:23:16] [nioEventLoopGroup-2-2/INFO]: connection to tunnel server has been established
+[12:23:16] [nioEventLoopGroup-2-2/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:23:16] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:23:16] [nioEventLoopGroup-2-2/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:23:16] [nioEventLoopGroup-2-2/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:23:16] [nioEventLoopGroup-2-3/INFO]: connected to local minecraft server
+[12:23:16] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:23:16] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:23:16] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:23:16] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:23:19] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=216.128.138.102:51974, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -40, -128, -118, 102, -53, 6, -47, -47, -16, -55, -85, 10, 102, -67, -13, 55, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -60, -55, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -113, 105, 65, -68, 118, -35, -78, -47, -102, -34, 63, 14, -122, -126, 0, -116], tunnelServerId=1, dataCenterId=44}
+[12:23:19] [Thread-12/INFO]: starting tcp tunnel for client
+[12:23:19] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:23:19] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:23:19] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:23:19] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:23:19] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:23:19] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:23:19] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:23:19] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:23:22] [Thread-12/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=216.128.138.102:51990, claimAddress=209.25.143.2:43786, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -40, -128, -118, 102, -53, 22, 105, 57, 104, -105, -85, 10, 102, -67, -13, 58, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -66, -105, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 6, -58, -2, 114, -73, -56, -71, 100, 59, -93, 18, 62, 12, -21, 24, 70, 118], tunnelServerId=1, dataCenterId=44}
+[12:23:22] [Thread-12/INFO]: starting tcp tunnel for client
+[12:23:22] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:23:22] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[12:23:22] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[12:23:22] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[12:23:22] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:23:22] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:23:22] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:23:22] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[12:23:22] [Thread-12/INFO]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0000:0000:0000:0000:00c2]:21366, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:36668, claimAddress=209.25.143.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, -62, 83, 118, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -113, 60, 0, 0, 0, 0, 32, -16, -86, 2, -85, 10, 102, -67, -13, 58, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -71, 2, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 9, -33, -18, 44, -17, 80, 41, -80, -41, 86, -112, -18, 123, 43, -51, -101, 117], tunnelServerId=1, dataCenterId=44}
+[12:23:22] [Thread-12/INFO]: starting tcp tunnel for client
+[12:23:22] [Thread-12/INFO]: start connection to /209.25.143.2:43786 to claim client
+[12:23:22] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[12:23:22] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[12:23:22] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[12:23:22] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:23:22] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:23:22] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:23:22] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[12:24:11] [Server thread/INFO]: Panda_SS issued server command: /gamemode creative
+[12:24:11] [Server thread/INFO]: [Panda_SS: Set own game mode to Creative Mode]
+[12:25:52] [Server thread/INFO]: Panda_SS issued server command: /fakeplayer add k
+[12:26:28] [Thread-12/INFO]: send keep alive
+[12:26:32] [Server thread/INFO]: Panda_SS issued server command: /fakeplayer [helplversionreloadmenu]
+[12:26:37] [Server thread/INFO]: Panda_SS issued server command: /fakeplayer [helplversionreloadmenu]
+[12:26:42] [Server thread/INFO]: Panda_SS issued server command: /fakeplayer reload
+[12:27:31] [Server thread/INFO]: Panda_SS issued server command: /reload confirm
+[12:27:31] [Server thread/INFO]: Panda_SS: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:27:31] [Server thread/INFO]: Panda_SS: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:27:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:27:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:27:31] [Server thread/INFO]: Debug logging is disabled
+[12:27:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:27:31] [Server thread/INFO]: Mob Spawn Range: 6
+[12:27:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:27:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:27:31] [Server thread/INFO]: Max TNT Explosions: 100
+[12:27:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:27:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:27:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:27:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:27:31] [Server thread/INFO]: View Distance: 10
+[12:27:31] [Server thread/INFO]: Simulation Distance: 10
+[12:27:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:27:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:27:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:27:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:27:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:27:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:27:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:27:31] [Server thread/INFO]: Mob Spawn Range: 6
+[12:27:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:27:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:27:31] [Server thread/INFO]: Max TNT Explosions: 100
+[12:27:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:27:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:27:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:27:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:27:31] [Server thread/INFO]: View Distance: 10
+[12:27:31] [Server thread/INFO]: Simulation Distance: 10
+[12:27:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:27:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:27:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:27:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:27:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:27:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:27:31] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:27:31] [Server thread/INFO]: Mob Spawn Range: 6
+[12:27:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:27:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:27:31] [Server thread/INFO]: Max TNT Explosions: 100
+[12:27:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:27:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:27:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:27:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:27:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:27:31] [Server thread/INFO]: View Distance: 10
+[12:27:31] [Server thread/INFO]: Simulation Distance: 10
+[12:27:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:27:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:27:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:27:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:27:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:27:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:27:31] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.3
+[12:27:31] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[12:27:31] [Server thread/ERROR]: [nLogin] [ProtocolLib] Failed to unhook ProtocolLib protocols.
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1605) ~[?:?]
+	at java.util.HashMap$ValueIterator.next(HashMap.java:1633) ~[?:?]
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:52) ~[guava-32.1.2-jre.jar:?]
+	at com.google.common.collect.Iterators$ConcatenatedIterator.hasNext(Iterators.java:1400) ~[guava-32.1.2-jre.jar:?]
+	at com.comphenix.protocol.async.AsyncFilterManager.unregisterAsyncHandlers(AsyncFilterManager.java:289) ~[?:?]
+	at com.comphenix.protocol.async.AsyncFilterManager.unregisterAsyncHandlers(AsyncFilterManager.java:283) ~[?:?]
+	at com.nickuc.login.οΨημζξξνς.L(:125) ~[?:?]
+	at com.nickuc.login.ςμκΔΣιζρΛξΨιθφΠ.J(:92) ~[?:?]
+	at com.nickuc.login.ΨεηηνμγυΩαγ.k(:218) ~[?:?]
+	at com.nickuc.login.ΠγΔιΠΩζι.N(:265) ~[?:?]
+	at com.nickuc.login.ετςζοζηυγς.N(:77) ~[?:?]
+	at com.nickuc.login.ΓκυξρχλγθρςΦ.N(:74) ~[?:?]
+	at com.nickuc.login.ωςδωλλνδδ.ap(:347) ~[?:?]
+	at com.nickuc.login.ετςζοζηυγς.disable(:54) ~[?:?]
+	at com.nickuc.login.loader.platform.BukkitLoader.onDisable(BukkitLoader.java:37) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:268) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:367) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:544) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.reload(CraftServer.java:941) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:833) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.dispatchCommand(CraftServer.java:879) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:320) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:304) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1827) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.lambda$15(PlayerConnection.java:1789) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:67) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[12:27:31] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0-SNAPSHOT-726
+[12:27:31] [Server thread/ERROR]: *****************************************************************
+[12:27:31] [Server thread/ERROR]: *** WARNING                                                   ***
+[12:27:31] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[12:27:31] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[12:27:31] [Server thread/ERROR]: ***                                                           ***
+[12:27:31] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[12:27:31] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[12:27:31] [Server thread/ERROR]: *** on GitHub!                                                ***
+[12:27:31] [Server thread/ERROR]: *****************************************************************
+[12:27:31] [Server thread/INFO]: [FakePlayer] Disabling FakePlayer v2.1.0
+[12:27:31] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.8.1
+[12:27:31] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[12:27:31] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.3
+[12:27:31] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[12:27:31] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.8.1
+[12:27:31] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[12:27:31] [Server thread/INFO]: [PlayerKits] Disabling PlayerKits v2.27.1
+[12:27:31] [Server thread/INFO]: [0;30;1m[[0;31;22mPlayerKits[0;30;1m] [0;33;1mHas been disabled! [0;37;1mVersion: 2.27.1[m
+[12:27:31] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.0+6678-55745ad
+[12:27:31] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[12:27:31] [Server thread/INFO]: Loaded 7 recipes
+[12:27:31] [Thread-12/INFO]: control channel shutdown
+[12:27:32] [Server thread/ERROR]: Could not load 'plugins/via.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:144) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.loadPlugins(CraftServer.java:437) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.reload(CraftServer.java:968) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:833) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.dispatchCommand(CraftServer.java:879) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:320) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:304) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1827) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.lambda$15(PlayerConnection.java:1789) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:67) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 29 more
+[12:27:32] [Server thread/ERROR]: Could not load 'plugins/Morph-3.4.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown dependency LibsDisguises. Please download and install LibsDisguises to run this plugin.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:269) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.loadPlugins(CraftServer.java:437) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.reload(CraftServer.java:968) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:833) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.dispatchCommand(CraftServer.java:879) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:320) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:304) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1827) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.lambda$15(PlayerConnection.java:1789) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:67) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[12:27:32] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.0+6678-55745ad
+[12:27:32] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@29736b44]
+[12:27:32] [Server thread/INFO]: [PlayerKits] Loading PlayerKits v2.27.1
+[12:27:32] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.1
+[12:27:32] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.1 is now loaded. Registering protocol transformers and injecting...
+[12:27:32] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, we're going to kick all the players... because otherwise we'll crash because of ProtocolLib.
+[12:27:32] [Server thread/INFO]: Panda_SS lost connection: Server reload, please rejoin!
+[12:27:32] [Server thread/INFO]: Panda_SS left the game.
+[12:27:32] [nioEventLoopGroup-2-2/WARN]: failed to send data to minecraft server
+[12:27:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[12:27:33] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[12:27:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[12:27:33] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[12:27:33] [Server thread/INFO]: [nAntiBot] Loading nAntiBot v6.1.24
+[12:27:33] [Server thread/INFO]: [nAntiBot] Relocating dependencies (using 4 cores)
+[12:27:35] [Server thread/INFO]: [nAntiBot] All dependencies were loaded successfully. Took 2.31s
+[12:27:36] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.18.3
+[12:27:36] [Server thread/INFO]: [playit-gg] Loading playit-gg v0.1.4
+[12:27:36] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.1
+[12:27:36] [Server thread/INFO]: [FakePlayer] Loading FakePlayer v2.1.0
+[12:27:36] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.3.0-SNAPSHOT-726
+[12:27:36] [Server thread/INFO]: [nLogin] Loading nLogin v10.4.3
+[12:27:36] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.9
+[12:27:36] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0+6678-55745ad
+[12:27:36] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[12:27:36] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:27:36] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[12:27:36] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R2.PaperweightAdapter as the Bukkit adapter
+[12:27:37] [Server thread/INFO]: [WorldEdit] ====================================================
+[12:27:37] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
+[12:27:37] [Server thread/INFO]: [WorldEdit]  as your server software. 
+[12:27:37] [Server thread/INFO]: [WorldEdit] ====================================================
+[12:27:37] [Server thread/INFO]: [nAntiBot] Enabling nAntiBot v6.1.24
+[12:27:37] [Server thread/INFO]: [nAntiBot] Successful plugin core start (took 0.19s)
+[12:27:37] [Server thread/INFO]: [0;31;1m          _         _   _   ___       _   [m
+[12:27:37] [Server thread/INFO]: [0;31;1m  _ __   /_\  _ __ | |_(_) / __\ ___ | |_ [m
+[12:27:37] [Server thread/INFO]: [0;31;1m | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|[m
+[12:27:37] [Server thread/INFO]: [0;31;1m | | | /  _  \ | | | |_| / \/  \ (_) | |_ [m
+[12:27:37] [Server thread/INFO]: [0;31;1m |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|[m
+[12:27:37] [Server thread/INFO]: [0;31;1m                                         [m
+[12:27:37] [Server thread/INFO]: [0;31;1m By: www.nickuc.com - V 6.1.24[m
+[12:27:37] [Server thread/INFO]: [m
+[12:27:38] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-726
+[12:27:38] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.3
+[12:27:39] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.23s)
+[12:27:39] [Server thread/INFO]: [0;34;1m          __             _       [m
+[12:27:39] [Server thread/INFO]: [0;34;1m  _ __   / /  ___   __ _(_)_ __  [m
+[12:27:39] [Server thread/INFO]: [0;34;1m | '_ \ / /  / _ \ / _` | | '_ \ [m
+[12:27:39] [Server thread/INFO]: [0;34;1m | | | / /__| (_) | (_| | | | | |[m
+[12:27:39] [Server thread/INFO]: [0;34;1m |_| |_\____/\___/ \__, |_|_| |_|[m
+[12:27:39] [Server thread/INFO]: [0;34;1m                  |___/            [m
+[12:27:39] [Server thread/INFO]: [0;34;1m By: www.nickuc.com - V 10.4.3 DEVELOPMENT[m
+[12:27:39] [Server thread/INFO]: [0;34;1m [m
+[12:27:39] [Server thread/INFO]: [PlayerKits] Enabling PlayerKits v2.27.1
+[12:27:39] [Server thread/INFO]: [0;30;1m[[0;31;22mPlayerKits[0;30;1m] [0;33;1mHas been enabled! [0;37;1mVersion: 2.27.1[m
+[12:27:39] [Server thread/INFO]: [0;30;1m[[0;31;22mPlayerKits[0;30;1m] [0;33;1mThanks for using my plugin!  [0;37;1m~Ajneb97[m
+[12:27:39] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.1
+[12:27:39] [Server thread/WARN]: [ViaVersion] Couldn't find reflection methods/fields to access Channel from player.
+Login race condition fixer will be disabled.
+ Some plugins that use ViaAPI on join event may work incorrectly.
+java.lang.NoSuchFieldException: NetworkManager
+	at com.viaversion.viaversion.bukkit.listeners.JoinListener.findField(JoinListener.java:80) ~[?:?]
+	at com.viaversion.viaversion.bukkit.listeners.JoinListener.<clinit>(JoinListener.java:50) ~[?:?]
+	at com.viaversion.viaversion.ViaVersionPlugin.onEnable(ViaVersionPlugin.java:109) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.reload(CraftServer.java:970) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:833) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.dispatchCommand(CraftServer.java:879) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:320) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:304) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1827) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.lambda$15(PlayerConnection.java:1789) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:67) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[12:27:39] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
+[12:27:39] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.3
+[12:27:39] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[12:27:39] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[12:27:40] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[12:27:40] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[12:27:40] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[12:27:40] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[12:27:40] [Thread-40/INFO]: secret key found, checking
+[12:27:40] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.1
+[12:27:40] [Thread-40/INFO]: check secret
+[12:27:40] [Server thread/INFO]: [FakePlayer] Enabling FakePlayer v2.1.0
+[12:27:40] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_20_R2.EntityPlayer
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:160)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:112)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:421)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:412)
+[12:27:40] [Server thread/WARN]: 	at com.cryptomorin.xseries.ReflectionUtils.getNMSClass(ReflectionUtils.java:100)
+[12:27:40] [Server thread/WARN]: 	at com.cryptomorin.xseries.ReflectionUtils.<clinit>(ReflectionUtils.java:66)
+[12:27:40] [Server thread/WARN]: 	at com.cryptomorin.xseries.SkullUtils.<clinit>(SkullUtils.java:69)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.lambda$to$5(ItemStackUtil.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.to(ItemStackUtil.java:89)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:49)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:37)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.lambda$setItemStack$1(BkktSection.java:50)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:50)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:60)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:122)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:115)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.set(PropertyProceed.java:88)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.lambda$load$8(PropertyProceed.java:111)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.load(PropertyProceed.java:101)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$0(FieldsProceed.java:54)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:53)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$3(FieldsProceed.java:64)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$4(FieldsProceed.java:61)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$5(FieldsProceed.java:60)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:56)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.ConfigProceed.load(ConfigProceed.java:86)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.FlManaged.load(FlManaged.java:45)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.FakePlayerAPI.reloadPlugin(FakePlayerAPI.java:51)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.FakePlayer.onEnable(FakePlayer.java:47)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.reload(CraftServer.java:970)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:833)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.dispatchCommand(CraftServer.java:879)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50)
+[12:27:40] [Server thread/WARN]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:320)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:304)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1827)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.lambda$15(PlayerConnection.java:1789)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:67)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(SourceFile:18)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:27:40] [Server thread/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_20_R2.PlayerConnection
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:160)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:112)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:421)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:412)
+[12:27:40] [Server thread/WARN]: 	at com.cryptomorin.xseries.ReflectionUtils.getNMSClass(ReflectionUtils.java:100)
+[12:27:40] [Server thread/WARN]: 	at com.cryptomorin.xseries.ReflectionUtils.<clinit>(ReflectionUtils.java:68)
+[12:27:40] [Server thread/WARN]: 	at com.cryptomorin.xseries.SkullUtils.<clinit>(SkullUtils.java:69)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.lambda$to$5(ItemStackUtil.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.to(ItemStackUtil.java:89)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:49)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:37)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.lambda$setItemStack$1(BkktSection.java:50)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:50)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:60)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:122)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:115)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.set(PropertyProceed.java:88)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.lambda$load$8(PropertyProceed.java:111)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.load(PropertyProceed.java:101)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$0(FieldsProceed.java:54)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:53)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$3(FieldsProceed.java:64)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$4(FieldsProceed.java:61)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$5(FieldsProceed.java:60)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:56)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.processors.ConfigProceed.load(ConfigProceed.java:86)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.file.FlManaged.load(FlManaged.java:45)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.FakePlayerAPI.reloadPlugin(FakePlayerAPI.java:51)
+[12:27:40] [Server thread/WARN]: 	at io.github.portlek.fakeplayer.FakePlayer.onEnable(FakePlayer.java:47)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.reload(CraftServer.java:970)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:833)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.dispatchCommand(CraftServer.java:879)
+[12:27:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50)
+[12:27:40] [Server thread/WARN]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:320)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:304)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1827)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.lambda$15(PlayerConnection.java:1789)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:67)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(SourceFile:18)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000)
+[12:27:40] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298)
+[12:27:40] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:27:40] [Server thread/ERROR]: Error occurred while enabling FakePlayer v2.1.0 (Is it up to date?)
+java.lang.ExceptionInInitializerError: null
+	at com.cryptomorin.xseries.SkullUtils.<clinit>(SkullUtils.java:69) ~[?:?]
+	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.lambda$to$5(ItemStackUtil.java:91) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.bukkititembuilder.util.ItemStackUtil.to(ItemStackUtil.java:89) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:49) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.provided.BukkitItemStackProvider.set(BukkitItemStackProvider.java:37) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.lambda$setItemStack$1(BkktSection.java:50) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:50) ~[?:?]
+	at io.github.portlek.fakeplayer.file.bukkit.BkktSection.setItemStack(BkktSection.java:60) ~[?:?]
+	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:122) ~[?:?]
+	at io.github.portlek.fakeplayer.util.FileElement$Provider.set(FileElement.java:115) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.set(PropertyProceed.java:88) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.lambda$load$8(PropertyProceed.java:111) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.PropertyProceed.load(PropertyProceed.java:101) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$0(FieldsProceed.java:54) ~[?:?]
+	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39) ~[?:?]
+	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:53) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$3(FieldsProceed.java:64) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$null$4(FieldsProceed.java:61) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.lambda$load$5(FieldsProceed.java:60) ~[?:?]
+	at io.github.portlek.reflection.RefClass.lambda$null$4(RefClass.java:91) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at io.github.portlek.reflection.RefAnnotated.annotation(RefAnnotated.java:39) ~[?:?]
+	at io.github.portlek.reflection.RefClass.lambda$declaredFieldsWithAnnotation$5(RefClass.java:91) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at io.github.portlek.reflection.RefClass.declaredFieldsWithAnnotation(RefClass.java:90) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.FieldsProceed.load(FieldsProceed.java:56) ~[?:?]
+	at io.github.portlek.fakeplayer.file.processors.ConfigProceed.load(ConfigProceed.java:86) ~[?:?]
+	at io.github.portlek.fakeplayer.file.FlManaged.load(FlManaged.java:45) ~[?:?]
+	at io.github.portlek.fakeplayer.FakePlayerAPI.reloadPlugin(FakePlayerAPI.java:51) ~[?:?]
+	at io.github.portlek.fakeplayer.FakePlayer.onEnable(FakePlayer.java:47) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.reload(CraftServer.java:970) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:833) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.dispatchCommand(CraftServer.java:879) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:320) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:304) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1827) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.network.PlayerConnection.lambda$15(PlayerConnection.java:1789) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:67) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.isClassAccessible(MethodHandles.java:3792) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.checkSymbolicClass(MethodHandles.java:3786) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3739) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.findGetter(MethodHandles.java:3120) ~[?:?]
+	at com.cryptomorin.xseries.ReflectionUtils.<clinit>(ReflectionUtils.java:75) ~[?:?]
+	... 72 more
+[12:27:40] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.9
+[12:27:40] [Server thread/INFO]: [0;31;1m[HolographicDisplays] Please do not use /reload or plugin reloaders. Use the command "/holograms reload" instead. You will receive no support for doing this operation.[m
+[12:27:40] [Server thread/INFO]: 
+[12:27:40] [Server thread/INFO]:  
+[12:27:40] [Server thread/INFO]: ****************************************************************************
+[12:27:40] [Server thread/INFO]:     Holographic Displays does not support this server version.
+[12:27:40] [Server thread/INFO]:     Supported Spigot versions: from 1.8.3 to 1.16.4.
+[12:27:40] [Server thread/INFO]:  
+[12:27:40] [Server thread/INFO]:     This plugin has been disabled.
+[12:27:40] [Server thread/INFO]: ****************************************************************************
+[12:27:40] [Server thread/INFO]:  
+[12:27:41] [Thread-40/INFO]: found minecraft java tunnel: wall-bi.joinmc.link
+[12:27:41] [Thread-40/INFO]: keys and tunnel setup
+[12:27:42] [Thread-40/WARN]: Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[12:27:42] [Thread-40/INFO]: request queued, waiting 1 second before resend
+[12:27:43] [Thread-40/INFO]: request queued, waiting 1 second before resend
+[12:27:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:27:45] [Server thread/INFO]: Panda_SS: [0;32;1mReload complete.[m
+[12:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14233ms or 284 ticks behind
+[12:27:45] [Craft Scheduler Thread - 10/INFO]: [nAntiBot] Connecting to the remote server antibot.nickuc.com...
+[12:27:45] [Craft Scheduler Thread - 13/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[12:27:45] [Craft Scheduler Thread - 10/WARN]: [HolographicDisplays] Unable to check for updates: unhandled exception.
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.validate(CraftScheduler.java:467) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:196) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:187) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.runTaskLater(CraftScheduler.java:151) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftScheduler.runTask(CraftScheduler.java:120) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at com.gmail.filoghost.holographicdisplays.updater.UpdateChecker.lambda$run$1(UpdateChecker.java:63) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at org.bukkit.craftbukkit.v1_20_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3919-Spigot-dba3cdc-e42510b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[12:27:46] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.3, you're on: 4.8.1
+[12:27:50] [pool-23-thread-1/INFO]: [nAntiBot] [Captcha] Captchas generated successfully. (RAM usage ≃ 7.9 MB [static only], total = 500, protocol count = 43, threads = 4, took 12.25s)
+[12:27:52] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:27:55] [Thread-40/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:27787, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 108, -117, -106, -64, -33, -85, -89, 8, 102, -67, -12, 75, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -60, -85, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 98, -11, 82, -51, 107, 78, 6, -109, 84, 74, 115, -10, 124, -63, 0, 3], tunnelServerId=1, dataCenterId=41}
+[12:27:55] [Thread-40/INFO]: starting tcp tunnel for client
+[12:27:55] [Thread-40/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:27:55] [nioEventLoopGroup-3-1/INFO]: connected to tunnel server, sending claim token
+[12:27:55] [nioEventLoopGroup-3-1/INFO]: claim token sent
+[12:27:55] [nioEventLoopGroup-3-1/INFO]: connection to tunnel server has been established
+[12:27:55] [nioEventLoopGroup-3-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:27:55] [nioEventLoopGroup-3-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:27:55] [nioEventLoopGroup-3-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:27:55] [nioEventLoopGroup-3-2/INFO]: connected to local minecraft server
+[12:27:59] [Thread-40/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:27804, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 108, -100, 101, -23, -29, 15, -89, 8, 102, -67, -12, 79, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -80, 15, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 8, 46, 72, -18, 87, 12, -104, 115, -116, 86, 34, -86, 86, -85, -74, 27, -47], tunnelServerId=1, dataCenterId=41}
+[12:27:59] [Thread-40/INFO]: starting tcp tunnel for client
+[12:27:59] [Thread-40/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:27:59] [nioEventLoopGroup-3-3/INFO]: connected to tunnel server, sending claim token
+[12:27:59] [nioEventLoopGroup-3-3/INFO]: claim token sent
+[12:27:59] [nioEventLoopGroup-3-3/INFO]: connection to tunnel server has been established
+[12:27:59] [nioEventLoopGroup-3-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:27:59] [nioEventLoopGroup-3-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:27:59] [nioEventLoopGroup-3-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:27:59] [nioEventLoopGroup-3-4/INFO]: connected to local minecraft server
+[12:27:59] [User Authenticator #5/INFO]: UUID of player Panda_SS is f194d5c3-f25b-3a11-8f10-04494bf0187f
+[12:28:00] [Server thread/INFO]: [ACF] Can't read players locale, you will be unable to automatically detect players language. Only Bukkit 1.7+ is supported for this.
+[12:28:00] [Server thread/INFO]: [ACF] java.lang.NoSuchFieldException: locale
+[12:28:00] [Server thread/INFO]: [ACF] 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[12:28:00] [Server thread/INFO]: [ACF] 	at io.github.portlek.fakeplayer.commands.BukkitCommandManager.readPlayerLocale(BukkitCommandManager.java:314)
+[12:28:00] [Server thread/INFO]: [ACF] 	at io.github.portlek.fakeplayer.commands.ACFBukkitListener.onPlayerJoin(ACFBukkitListener.java:54)
+[12:28:00] [Server thread/INFO]: [ACF] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[12:28:00] [Server thread/INFO]: [ACF] 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[12:28:00] [Server thread/INFO]: [ACF] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[12:28:00] [Server thread/INFO]: [ACF] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[12:28:00] [Server thread/INFO]: [ACF] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[12:28:00] [Server thread/INFO]: [ACF] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.players.PlayerList.a(PlayerList.java:295)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.a(ServerConfigurationPacketListenerImpl.java:129)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:20)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.a(SourceFile:7)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:32)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.TickTask.run(SourceFile:18)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:156)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1133)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.util.thread.IAsyncTaskHandler.x(SourceFile:130)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.bg(MinecraftServer.java:1112)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1105)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:139)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.u_(MinecraftServer.java:1089)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1000)
+[12:28:00] [Server thread/INFO]: [ACF] 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298)
+[12:28:00] [Server thread/INFO]: [ACF] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:28:00] [Server thread/INFO]: Panda_SS[/127.0.0.1:37840] logged in with entity id 2530 at ([world]-43.54939233629903, 64.0, 31.47711111816193)
+[12:28:28] [nioEventLoopGroup-3-3/WARN]: failed to send data to tunnel
+[12:28:28] [Server thread/INFO]: Panda_SS lost connection: Disconnected
+[12:31:44] [Thread-40/INFO]: send keep alive
+[12:31:49] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:34:56] [Thread-40/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:29579, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 115, -117, 36, -47, 98, -79, -89, 8, 102, -67, -11, -16, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 63, -79, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -30, 38, 126, 113, -63, 84, 123, -68, -48, -65, -29, -63, -94, -75, 31, -17], tunnelServerId=1, dataCenterId=41}
+[12:34:56] [Thread-40/INFO]: starting tcp tunnel for client
+[12:34:56] [Thread-40/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:34:56] [nioEventLoopGroup-3-1/INFO]: connected to tunnel server, sending claim token
+[12:34:56] [nioEventLoopGroup-3-1/INFO]: claim token sent
+[12:34:56] [nioEventLoopGroup-3-1/INFO]: connection to tunnel server has been established
+[12:34:56] [nioEventLoopGroup-3-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:34:56] [nioEventLoopGroup-3-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:34:56] [nioEventLoopGroup-3-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:34:56] [nioEventLoopGroup-3-2/INFO]: connected to local minecraft server
+[12:34:59] [nioEventLoopGroup-3-2/WARN]: failed to send data to minecraft server
+[12:35:00] [Thread-40/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:29589, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 115, -107, -10, 65, 99, 103, -89, 8, 102, -67, -11, -12, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, 127, 103, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 11, 50, -88, 98, -102, -42, 22, -50, 96, -77, -44, 69, 110, -84, 12, -116, 106], tunnelServerId=1, dataCenterId=41}
+[12:35:00] [Thread-40/INFO]: starting tcp tunnel for client
+[12:35:00] [Thread-40/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:35:00] [nioEventLoopGroup-3-3/INFO]: connected to tunnel server, sending claim token
+[12:35:00] [nioEventLoopGroup-3-3/INFO]: claim token sent
+[12:35:00] [nioEventLoopGroup-3-3/INFO]: connection to tunnel server has been established
+[12:35:00] [nioEventLoopGroup-3-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:35:00] [nioEventLoopGroup-3-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:35:00] [nioEventLoopGroup-3-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:35:00] [nioEventLoopGroup-3-4/INFO]: connected to local minecraft server
+[12:35:00] [nioEventLoopGroup-3-3/WARN]: failed to send data to tunnel
+[12:35:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:35:15] [Thread-40/INFO]: got new client: NewClient{connectAddr=209.25.140.194:21366, peerAddr=164.215.204.70:29625, claimAddress=209.25.143.2:42760, claimToken=[44, 0, 60, -47, 25, -116, -62, 83, 118, -92, -41, -52, 70, 115, -71, 102, 40, -125, -13, -89, 8, 102, -67, -10, 3, 0, 0, 0, 0, 0, 10, -28, 70, 0, 0, 0, 0, 0, 54, 45, 91, -45, -13, -89, 8, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 0, 8, -84, -33, 70, -63, 69, -4, 66, 8, -27, 56, 41, 11, -70, -128, -96, -75], tunnelServerId=1, dataCenterId=41}
+[12:35:15] [Thread-40/INFO]: starting tcp tunnel for client
+[12:35:15] [Thread-40/INFO]: start connection to /209.25.143.2:42760 to claim client
+[12:35:15] [nioEventLoopGroup-3-1/INFO]: connected to tunnel server, sending claim token
+[12:35:15] [nioEventLoopGroup-3-1/INFO]: claim token sent
+[12:35:15] [nioEventLoopGroup-3-1/INFO]: connection to tunnel server has been established
+[12:35:15] [nioEventLoopGroup-3-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[12:35:15] [nioEventLoopGroup-3-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[12:35:15] [nioEventLoopGroup-3-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[12:35:15] [nioEventLoopGroup-3-2/INFO]: connected to local minecraft server
+[12:35:45] [Thread-40/INFO]: send keep alive
+[12:35:50] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:35:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:35:53] [Server thread/INFO]: op<--[HERE]
+[12:36:01] [Server thread/INFO]: Made u a server operator
+[12:36:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:36:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:36:18] [Server thread/INFO]: Nothing changed. The player already is an operator
+[12:36:27] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
