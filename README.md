@@ -1,36 +1,18 @@
-# minecraft-own-cloud-host-github
-Host minecraft on Github
-You can create your own cloud hosting for minecraft
+Кароче как запускать майн сервер 
+или какую то хуйню бытро и понятно. Погнали!
 
-### Setup
-chmod u+x start_server.sh
+Кароче если нужны порты то нам нужно обратится к ngrok
+установка ngrok:
 
-### To run the server 
-./start_server.sh
+wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
 
-# ngrok
-[Create Account on ngrok.com](https://dashboard.ngrok.com/get-started/your-authtoken)
+tar -xvzf ngrok-v3-stable-linux-amd64.tgz
 
-### To invite friends
-bash : ./ngrok authtoken 'your_auth_token'
-bash : ./ngrok tcp -region='your_region' 'server_port'
+получение дпступа к файлу: chmod +x ./ngrok
 
-### Here are some common region codes you can use:
-us: United States
-eu: Europe
-ap: Asia-Pacific
-au: Australia
-sa: South America
-jp: Japan
-in: India
+./ngrok authtoken (token)
 
-### Alter config.
-Go to server.properties file and change according to you.
-Not to allow players having cracked minecraft to play in your server :  set online-mode = true.
-Change motd as your need.
-You can alter pvp .
+и запуск порта ./ngrok tcp 25565
 
-
-#Credit goes to 
-[How2MC YouTube Channel](https://www.youtube.com/channel/UCZSZBeR-JM2u8nFhcuvMPjA)
-
+Если вы не слепой то там на пол экрана фаловый менеджер.
+Удачи.
