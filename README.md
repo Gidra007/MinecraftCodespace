@@ -38,7 +38,7 @@ ssh -p 443 -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R 0:localhost:
 Теперь можно запустить сервер с помощью команды:
 
 ```bash
-bash java -Xmx6G -jar server.jar
+java -Xmx6G -jar server.jar
 ```
 
 ## Обратная связь
