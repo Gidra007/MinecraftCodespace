@@ -13,6 +13,11 @@ tar -xvzf ngrok-v3-stable-linux-amd64.tgz
 
 и запуск порта ./ngrok tcp 25565
 
+Но если вы по какой то причине не можете подключить карточку к ngrok, то у вас нету доступа к TCP портам
+есть решение. Pinggy!
+
+ssh -p 443 -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R0:localhost:(ПОРТ СЕРВЕРА) tcp@a.pinggy.io
+
 Запуск сервера: java -Xmx6G -jar server.jar
 
 Если вы не слепой то там на пол экрана фаловый менеджер.
