@@ -40,10 +40,6 @@ ssh -p 443 -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R 0:localhost:
 
 > **Примечание:** Бесплатная версия Pinggy работает только 1 час, в платной версии нет ограничений по времени.
 
-```bash
-playit
-```
-
 ## Обратная связь
 Если возникнут вопросы, пишите мне в Discord: **eyecrasher07**
 
