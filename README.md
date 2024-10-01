@@ -35,7 +35,7 @@ chmod +x ./ngrok
 Если по какой-то причине у вас нет возможности подключить банковскую карту к Ngrok и вы не можете использовать TCP порты, воспользуйтесь **Pinggy**. Выполните следующую команду:
 
 ```bash
-ssh -p 443 -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R 0:localhost:<ПОРТ_СЕРВЕРА> tcp@a.pinggy.io
+ssh -p 443 -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R 0:localhost:ПОРТ_СЕРВЕРА tcp@a.pinggy.io
 ```
 
 > **Примечание:** Бесплатная версия Pinggy работает только 1 час, в платной версии нет ограничений по времени.
