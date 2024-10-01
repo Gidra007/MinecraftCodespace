@@ -24,7 +24,7 @@ tar -xvzf ngrok-v3-stable-linux-amd64.tgz
 chmod +x ./ngrok
 
 # Вводим токен авторизации
-./ngrok authtoken <ВАШ_ТОКЕН>
+./ngrok authtoken ВАШ_ТОКЕН
 
 # Открываем порт для Minecraft сервера
 ./ngrok tcp 25565
